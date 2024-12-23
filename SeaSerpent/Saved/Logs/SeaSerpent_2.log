@@ -5375,3 +5375,234 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2024.12.23-15.56.03:901][662]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/OceanFloor/Maps/MainScene_Auto5 is in the /Temp path, will not scan.
 [2024.12.23-15.56.03:902][662]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OceanFloor/Maps/MainScene' took 0.238
 [2024.12.23-15.56.03:902][662]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.238
+[2024.12.23-15.59.02:287][198]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2024.12.23-15.59.14:893][300]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.12.23-15.59.14:893][300]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.12.23-15.59.14:893][300]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/Developers/Student/Collections/' because it could not be accessed. Aborting watch request...
+[2024.12.23-15.59.15:033][301]LogSlate: Window 'Ch_Snake1' being destroyed
+[2024.12.23-15.59.15:040][301]LogSlate: Window 'Ch_Snake1' being destroyed
+[2024.12.23-15.59.15:066][301]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.59.15:066][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.59.15:108][301]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.59.15:108][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.59.15:183][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.12.23-16.00.17:160][643]LogStaticMesh: Display: Building static mesh SM_Cave_Ruins_Stairs_02 (Required Memory Estimate: 28.317457 MB)...
+[2024.12.23-16.00.17:527][657]LogStaticMesh: Built static mesh [0.37s] /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Stairs_02.SM_Cave_Ruins_Stairs_02
+[2024.12.23-16.00.17:529][657]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Stairs_02.SM_Cave_Ruins_Stairs_02
+[2024.12.23-16.00.17:530][657]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Stairs_02.SM_Cave_Ruins_Stairs_02
+[2024.12.23-16.00.17:531][657]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Stairs_02.SM_Cave_Ruins_Stairs_02 as actor: StaticMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.StaticMeshActor_0
+[2024.12.23-16.00.17:531][657]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Stairs_02) ...
+[2024.12.23-16.00.17:623][658]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Arch_00_AO_R_MT.T_Cave_Ruins_Arch_00_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.00.17:655][658]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Arch_00_BC.T_Cave_Ruins_Arch_00_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.00.18:255][681]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Arch_00_N.T_Cave_Ruins_Arch_00_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.00.18:767][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.12.23-16.00.19:000][706]LogEditorActor: Deleted 0 Actors (0.263 secs)
+[2024.12.23-16.00.19:007][706]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Stairs_02.SM_Cave_Ruins_Stairs_02
+[2024.12.23-16.00.19:007][706]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Stairs_02.SM_Cave_Ruins_Stairs_02
+[2024.12.23-16.00.19:010][706]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Stairs_02.SM_Cave_Ruins_Stairs_02 as actor: StaticMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.StaticMeshActor_1
+[2024.12.23-16.00.19:031][706]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_1)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2024.12.23-16.00.19:518][718]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Stairs_02_AO_R_MT.T_Cave_Ruins_Stairs_02_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.00.19:547][718]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Stairs_02_BC.T_Cave_Ruins_Stairs_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.00.19:992][735]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Stairs_02_N.T_Cave_Ruins_Stairs_02_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: ================================================
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Total job queries 12,063, among them cache hits 965 (8.00%), DDC hits 6 (0.05%), Duplicates 2,182 (18.09%)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Tracking 8,916 distinct input hashes that result in 7,821 distinct outputs (87.72%)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: RAM used: 184.02 MiB of 819.20 MiB budget. Usage: 22.46%
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Shaders Compiled: 8,910
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Jobs assigned 8,910, completed 8,910 (100%)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Average time worker was idle: 29.11 s
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Time job spent in pending queue: average 211.03 s, longest 463.11 s
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Job execution time: average 5.35 s, max 159.91 s
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Job life time (pending + execution): average 216.38 s, max 570.82
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Shader code size: average 35.092 KiB, min 2.082 KiB, max 354.566 KiB
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 861.37 s
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Jobs were issued in 1,569 batches (only local compilation was used), average 5.68 jobs/batch
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Average processing rate: 10.34 jobs/sec
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Total thread time: 5,733.772 s
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Total thread preprocess time: 138.832 s
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Percentage time preprocessing: 2.42%
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Effective parallelization: 6.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 17.72 sec, max 17.72 sec, min 17.72 sec)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.37 sec, max 6.40 sec, min 3.58 sec)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 4.23 sec, max 4.23 sec, min 4.23 sec)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 4.03 sec, max 4.03 sec, min 4.03 sec)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display:                                             FDeferredLightPS - 14.42% of total time (compiled  728 times, average 1.14 sec, max 4.12 sec, min 0.21 sec)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 12.50% of total time (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 3.77% of total time (compiled  448 times, average 0.48 sec, max 1.62 sec, min 0.20 sec)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.66% of total time (compiled  225 times, average 0.93 sec, max 3.77 sec, min 0.43 sec)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 3.55% of total time (compiled   80 times, average 2.55 sec, max 6.03 sec, min 0.58 sec)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: === Material stats ===
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Materials Translated:    456
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Material Total Translate Time: 0.38 s
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Material Translation Only: 0.22 s (57%)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: Material Cache Hits: 16 (4%)
+[2024.12.23-16.01.02:614][766]LogShaderCompilers: Display: ================================================
+[2024.12.23-16.02.02:425][401]Cmd: DUPLICATE
+[2024.12.23-16.02.02:425][401]Cmd: ACTOR DUPLICATE
+[2024.12.23-16.02.02:452][401]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_2)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2024.12.23-16.02.53:146][135]LogStaticMesh: Display: Building static mesh SM_Cave_Ruins_Arch_00 (Required Memory Estimate: 32.456884 MB)...
+[2024.12.23-16.02.53:363][141]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00
+[2024.12.23-16.02.53:363][141]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00
+[2024.12.23-16.02.53:363][141]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00 as actor: StaticMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.StaticMeshActor_4
+[2024.12.23-16.02.53:363][141]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00) ...
+[2024.12.23-16.02.53:374][141]LogStaticMesh: Built static mesh [0.23s] /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00
+[2024.12.23-16.02.54:369][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.12.23-16.02.54:375][190]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2024.12.23-16.02.54:381][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00
+[2024.12.23-16.02.54:381][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00
+[2024.12.23-16.02.54:383][190]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00 as actor: StaticMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.StaticMeshActor_5
+[2024.12.23-16.02.54:396][190]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_5)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2024.12.23-16.05.01:637][483]LogStaticMesh: Display: Building static mesh SM_Dungeon_door (Required Memory Estimate: 1.211763 MB)...
+[2024.12.23-16.05.01:652][483]LogStaticMesh: Built static mesh [0.02s] /Game/Cave_Ruins/Meshes/SM_Dungeon_door.SM_Dungeon_door
+[2024.12.23-16.05.01:898][488]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Dungeon_door.SM_Dungeon_door
+[2024.12.23-16.05.01:899][488]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Dungeon_door.SM_Dungeon_door
+[2024.12.23-16.05.01:899][488]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cave_Ruins/Meshes/SM_Dungeon_door.SM_Dungeon_door as actor: StaticMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.StaticMeshActor_6
+[2024.12.23-16.05.01:990][490]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Dungeon_beam_AO_R_MT.T_Dungeon_beam_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.05.02:212][496]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Dungeon_beam_BC.T_Dungeon_beam_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.05.02:979][529]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Dungeon_beam_N.T_Dungeon_beam_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.05.03:561][551]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Dungeon_door_AO_R_MT.T_Dungeon_door_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.05.03:579][551]LogUObjectHash: Compacting FUObjectHashTables data took   8.31ms
+[2024.12.23-16.05.03:611][551]LogEditorActor: Deleted 0 Actors (0.072 secs)
+[2024.12.23-16.05.03:631][551]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Dungeon_door.SM_Dungeon_door
+[2024.12.23-16.05.03:632][551]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Dungeon_door.SM_Dungeon_door
+[2024.12.23-16.05.03:636][551]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cave_Ruins/Meshes/SM_Dungeon_door.SM_Dungeon_door as actor: StaticMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.StaticMeshActor_7
+[2024.12.23-16.05.03:674][551]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_7)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2024.12.23-16.05.04:012][552]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Dungeon_door_BC.T_Dungeon_door_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.05.04:557][570]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Dungeon_door_N.T_Dungeon_door_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.12.23-16.06.17:616][951]Cmd: DUPLICATE
+[2024.12.23-16.06.17:616][951]Cmd: ACTOR DUPLICATE
+[2024.12.23-16.06.17:641][951]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_11)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2024.12.23-16.06.44:730][ 18]Cmd: DELETE
+[2024.12.23-16.06.44:730][ 18]Cmd: ACTOR DELETE
+[2024.12.23-16.06.44:741][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.23-16.06.44:762][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.23-16.06.44:767][ 18]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.12.23-16.07.02:625][417]LogShaderCompilers: Display: ================================================
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Total job queries 12,067, among them cache hits 965 (8.00%), DDC hits 6 (0.05%), Duplicates 2,182 (18.08%)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Tracking 8,920 distinct input hashes that result in 7,823 distinct outputs (87.70%)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: RAM used: 184.07 MiB of 819.20 MiB budget. Usage: 22.47%
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Shaders Compiled: 8,914
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Jobs assigned 8,914, completed 8,914 (100%)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Average time worker was idle: 29.75 s
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Time job spent in pending queue: average 210.94 s, longest 463.11 s
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Job execution time: average 5.35 s, max 159.91 s
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Job life time (pending + execution): average 216.29 s, max 570.82
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Shader code size: average 35.092 KiB, min 2.082 KiB, max 354.566 KiB
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 865.18 s
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Jobs were issued in 1,573 batches (only local compilation was used), average 5.67 jobs/batch
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Average processing rate: 10.30 jobs/sec
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Total thread time: 5,742.198 s
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Total thread preprocess time: 138.889 s
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Percentage time preprocessing: 2.42%
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Effective parallelization: 6.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 17.72 sec, max 17.72 sec, min 17.72 sec)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.37 sec, max 6.40 sec, min 3.58 sec)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 4.23 sec, max 4.23 sec, min 4.23 sec)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 4.03 sec, max 4.03 sec, min 4.03 sec)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display:                                             FDeferredLightPS - 14.40% of total time (compiled  728 times, average 1.14 sec, max 4.12 sec, min 0.21 sec)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 12.48% of total time (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 3.77% of total time (compiled  448 times, average 0.48 sec, max 1.62 sec, min 0.20 sec)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.66% of total time (compiled  225 times, average 0.93 sec, max 3.77 sec, min 0.43 sec)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.57% of total time (compiled  129 times, average 1.59 sec, max 3.12 sec, min 0.42 sec)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: === Material stats ===
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Materials Translated:    457
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Material Total Translate Time: 0.38 s
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Material Translation Only: 0.22 s (57%)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: Material Cache Hits: 16 (4%)
+[2024.12.23-16.07.02:626][417]LogShaderCompilers: Display: ================================================
+[2024.12.23-16.07.31:380][516]Cmd: EDIT COPY
+[2024.12.23-16.07.31:644][535]Cmd: EDIT PASTE
+[2024.12.23-16.07.31:663][535]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: SM_URockD12_12)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2024.12.23-16.08.13:504][595]Cmd: DUPLICATE
+[2024.12.23-16.08.13:504][595]Cmd: ACTOR DUPLICATE
+[2024.12.23-16.08.13:529][595]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: SM_URockD12_13)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2024.12.23-16.09.02:291][190]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2024.12.23-16.09.57:711][221]Cmd: DUPLICATE
+[2024.12.23-16.09.57:711][221]Cmd: ACTOR DUPLICATE
+[2024.12.23-16.09.57:739][221]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: SM_URockC23_14)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2024.12.23-16.10.56:426][460]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.23-16.11.25:468][591]Cmd: TRANSACTION UNDO
+[2024.12.23-16.11.25:468][591]LogEditorTransaction: Undo Set Scale
+[2024.12.23-16.11.26:154][607]Cmd: TRANSACTION UNDO
+[2024.12.23-16.11.26:154][607]LogEditorTransaction: Undo Set Scale
+[2024.12.23-16.11.26:878][647]Cmd: TRANSACTION UNDO
+[2024.12.23-16.11.26:878][647]LogEditorTransaction: Undo Set Scale
+[2024.12.23-16.12.53:570][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.12.23-16.12.53:665][ 89]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2024.12.23-16.12.53:665][ 89]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2024.12.23-16.12.53:753][ 89]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OceanFloor/Maps/MainScene_Auto6
+[2024.12.23-16.12.53:753][ 89]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene_Auto6C8A2F6D04F816156D3AAEAAEC94F66E3.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/OceanFloor/Maps/MainScene_Auto6.umap'
+[2024.12.23-16.12.53:780][ 89]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/OceanFloor/Maps/MainScene_Auto6.umap is in the /Temp path, will not scan.
+[2024.12.23-16.12.53:780][ 89]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/OceanFloor/Maps/MainScene_Auto6 is in the /Temp path, will not scan.
+[2024.12.23-16.12.53:780][ 89]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/OceanFloor/Maps/MainScene_Auto6 is in the /Temp path, will not scan.
+[2024.12.23-16.12.53:780][ 89]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OceanFloor/Maps/MainScene' took 0.235
+[2024.12.23-16.12.53:780][ 89]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.235
+[2024.12.23-16.13.45:893][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.23-16.13.47:238][542]LogSlate: Window 'Save Content' being destroyed
+[2024.12.23-16.13.47:246][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-16.13.47:370][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.23-16.13.47:427][542]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2024.12.23-16.13.47:427][542]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2024.12.23-16.13.47:514][542]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2024.12.23-16.13.47:514][542]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene0403106543866B04FEB8D6A5C421A315.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2024.12.23-16.13.47:519][542]LogFileHelpers: All files are already saved.
+[2024.12.23-16.13.47:546][542]LogFileHelpers: Saving map 'MainScene' took 0.251
+[2024.12.23-16.13.47:553][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 307.578 ms (total: 4.57 sec)
+[2024.12.23-16.13.47:613][542]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-16.13.47:613][542]LogContentValidation: Enabled validators:
+[2024.12.23-16.13.47:613][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-16.13.47:613][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-16.13.47:613][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-16.13.47:636][542]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2024.12.23-16.13.47:637][542]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2024.12.23-16.15.16:606][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-16.15.16:732][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.23-16.15.16:747][566]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/OceanFloor/Maps/MainScene) ...
+[2024.12.23-16.15.16:748][566]LogTexture: Display: Building textures: /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.Landscape_1.Texture2D_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2024.12.23-16.15.16:808][566]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2024.12.23-16.15.16:808][566]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2024.12.23-16.15.16:890][566]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2024.12.23-16.15.16:890][566]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene45AD3CC746801DBF9BE379BFFF0CEDBF.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2024.12.23-16.15.16:896][566]LogFileHelpers: All files are already saved.
+[2024.12.23-16.15.16:922][566]LogFileHelpers: Saving map 'MainScene' took 0.260
+[2024.12.23-16.15.16:930][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 323.142 ms (total: 4.89 sec)
+[2024.12.23-16.15.16:978][566]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-16.15.16:978][566]LogContentValidation: Enabled validators:
+[2024.12.23-16.15.16:978][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-16.15.16:978][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-16.15.16:978][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-16.15.17:000][566]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2024.12.23-16.15.17:000][566]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2024.12.23-16.15.18:364][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-16.15.18:483][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.23-16.15.18:541][657]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2024.12.23-16.15.18:541][657]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2024.12.23-16.15.18:622][657]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2024.12.23-16.15.18:623][657]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene7730B89442F228C54788D19454F76AD5.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2024.12.23-16.15.18:628][657]LogFileHelpers: All files are already saved.
+[2024.12.23-16.15.18:654][657]LogFileHelpers: Saving map 'MainScene' took 0.241
+[2024.12.23-16.15.18:662][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 297.797 ms (total: 5.19 sec)
+[2024.12.23-16.15.18:712][657]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-16.15.18:712][657]LogContentValidation: Enabled validators:
+[2024.12.23-16.15.18:712][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-16.15.18:712][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-16.15.18:712][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-16.15.18:734][657]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2024.12.23-16.15.18:734][657]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2024.12.23-16.19.02:408][226]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
