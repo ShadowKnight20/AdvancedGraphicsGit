@@ -983,3 +983,1410 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.12.23-14.08.59:736][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 9d72168e49e8538378907f543c2e12bd2f3e4035), compiling. 
 [2024.12.23-14.08.59:764][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 0e7bf401798a936aa86c0c546e7bc4bd624f52a0), compiling. 
 [2024.12.23-14.09.01:924][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2024.12.23-14.10.56:425][  0]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.23-14.16.30:558][  0]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 62.739s, FTSRRejectShadingCS [WorkerTime=61.947s], FTSRUpdateHistoryCS [WorkerTime=0.203s], TParticleSimulationPS<PCM_DepthBuffer> [WorkerTime=0.147s], FColorCorrectWindowMaterialPS [WorkerTime=0.139s], FTemporalAACS [WorkerTime=0.095s], FFilterPS [WorkerTime=0.032s], FFilterPS [WorkerTime=0.016s], FFilterCS [WorkerTime=0.015s], FFilterPS [WorkerTime=0.013s], FFilterPS [WorkerTime=0.012s]
+[2024.12.23-14.17.39:126][  0]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 110.242s, FTSRRejectShadingCS [WorkerTime=79.217s], FTSRRejectShadingCS [WorkerTime=30.066s], FVolumetricFogLightScatteringCS [WorkerTime=0.286s], FTSRUpdateHistoryCS [WorkerTime=0.261s], FColorCorrectRegionMaterialPS [WorkerTime=0.132s], FTSRDecimateHistoryCS [WorkerTime=0.108s], FTSRDilateVelocityCS [WorkerTime=0.086s], FHZBBuildCS [WorkerTime=0.019s], FSelectPagesToInitializeCS [WorkerTime=0.007s], FAccumulateCubeFacesPS [WorkerTime=0.005s]
+[2024.12.23-14.18.29:719][  0]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 159.906s, FTSRRejectShadingCS [WorkerTime=41.575s], FTSRRejectShadingCS [WorkerTime=27.432s], FTSRRejectShadingCS [WorkerTime=24.868s], FTSRRejectShadingCS [WorkerTime=24.062s], FTSRRejectShadingCS [WorkerTime=23.301s], FTSRRejectShadingCS [WorkerTime=10.284s], FTSRRejectShadingCS [WorkerTime=5.601s], FTSRRejectShadingCS [WorkerTime=2.271s], FTSRUpdateHistoryCS [WorkerTime=0.304s], FColorCorrectRegionMaterialPS [WorkerTime=0.144s]
+[2024.12.23-14.18.30:674][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: c2a363ff4fffe50dfaa1e019256bdee6c7a391c3), compiling. 
+[2024.12.23-14.18.30:677][  0]LogTurnkeySupport: Turnkey Device: Win64@R101-WINDOWS: (Name=R101-WINDOWS, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.22631.0, Flags="Device_InstallSoftwareValid")
+[2024.12.23-14.18.33:295][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.12.23-14.18.33:295][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2024.12.23-14.18.33:295][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.12.23-14.18.33:295][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2024.12.23-14.18.33:295][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.12.23-14.18.33:719][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+[2024.12.23-14.18.33:843][  0]LogInterchangeEngine: Display: Missing Interchange reimport data for Texture2D /nDisplay/LightCard/T_UVIndicator.T_UVIndicator
+[2024.12.23-14.18.33:843][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2024.12.23-14.18.33:902][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2024.12.23-14.18.33:902][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.12.23-14.18.33:911][  0]LogUObjectArray: 26792 objects as part of root set at end of initial load.
+[2024.12.23-14.18.33:911][  0]LogUObjectAllocator: 7895096 out of 0 bytes used by permanent object pool.
+[2024.12.23-14.18.33:911][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.12.23-14.18.33:917][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.12.23-14.18.33:917][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.12.23-14.18.33:918][  0]LogLiveCoding: Display: First instance in process group "UE_SeaSerpent_0x0ef34d32", spawning console
+[2024.12.23-14.18.33:926][  0]LogLiveCoding: Display: Waiting for server
+[2024.12.23-14.18.33:938][  0]LogSlate: Border
+[2024.12.23-14.18.33:938][  0]LogSlate: BreadcrumbButton
+[2024.12.23-14.18.33:938][  0]LogSlate: Brushes.Title
+[2024.12.23-14.18.33:938][  0]LogSlate: Default
+[2024.12.23-14.18.33:938][  0]LogSlate: Icons.Save
+[2024.12.23-14.18.33:938][  0]LogSlate: Icons.Toolbar.Settings
+[2024.12.23-14.18.33:938][  0]LogSlate: ListView
+[2024.12.23-14.18.33:938][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.12.23-14.18.33:938][  0]LogSlate: SoftwareCursor_Grab
+[2024.12.23-14.18.33:938][  0]LogSlate: TableView.DarkRow
+[2024.12.23-14.18.33:938][  0]LogSlate: TableView.Row
+[2024.12.23-14.18.33:938][  0]LogSlate: TreeView
+[2024.12.23-14.18.34:248][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2024.12.23-14.18.34:250][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 1.681 ms
+[2024.12.23-14.18.34:272][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2024.12.23-14.18.34:272][  0]LogInit: XR: MultiViewport is Disabled
+[2024.12.23-14.18.34:272][  0]LogInit: XR: Mobile Multiview is Disabled
+[2024.12.23-14.18.34:312][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.12.23-14.18.34:319][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.12.23-14.18.34:319][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:52009'.
+[2024.12.23-14.18.34:322][  0]LogUdpMessaging: Display: Added local interface '10.5.24.226' to multicast group '230.0.0.1:6666'
+[2024.12.23-14.18.34:322][  0]LogUdpMessaging: Display: Added local interface '192.168.56.1' to multicast group '230.0.0.1:6666'
+[2024.12.23-14.18.34:322][  0]LogUdpMessaging: Display: Added local interface '172.29.80.1' to multicast group '230.0.0.1:6666'
+[2024.12.23-14.18.34:537][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.12.23-14.18.34:741][  0]LogPython: Using Python 3.11.8
+[2024.12.23-14.18.35:434][  0]LogPython: Display: Preparing to install python dependencies into: C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Intermediate/PipInstall/Lib/site-packages
+[2024.12.23-14.18.35:435][  0]LogPython: Running python command: "C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Intermediate/PipInstall/Scripts/python.exe" -c "import pkg_resources;dist=pkg_resources.working_set.find(pkg_resources.Requirement.parse('ue-pipinstall-utils'));exit(dist.version!='0.1.5' if dist is not None else 1)"
+[2024.12.23-14.18.35:953][  0]LogPython: Running python command: "C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Intermediate/PipInstall/Scripts/python.exe" -m ue_parse_plugin_reqs  -vv "C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Intermediate/PipInstall/merged_requirements.in" "C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Intermediate/PipInstall/merged_requirements.txt"
+[2024.12.23-14.18.36:360][  0]LogPython: DEBUG:root:Found matching installed version: opencv-python 4.5.5.62 <=> opencv-python==4.5.5.62
+[2024.12.23-14.18.36:360][  0]LogPython: DEBUG:root:Found matching installed version: numpy 1.24.4 <=> numpy==1.24.4
+[2024.12.23-14.18.36:589][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F6087B078CD747B5800000000000F700 | Instance: A728070843AF52B2E2F992BBC811971B (R101-WINDOWS-15068).
+[2024.12.23-14.18.36:928][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.12.23-14.18.36:942][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.12.23-14.18.37:747][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/NamespaceBorder.png' error.
+[2024.12.23-14.18.37:747][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/NamespaceBorder.png
+[2024.12.23-14.18.37:784][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2024.12.23-14.18.38:170][  0]LogOpenImageDenoise: OIDN starting up
+[2024.12.23-14.18.38:272][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.12.23-14.18.38:338][  0]LogHttpServerModule: Starting all listeners...
+[2024.12.23-14.18.38:338][  0]LogHttpListener: Created new HttpListener on 127.0.0.1:30010
+[2024.12.23-14.18.38:338][  0]LogHttpServerModule: All listeners started
+[2024.12.23-14.18.38:348][  0]LogRemoteControl: Web Remote Control WebSocket server started on port 30020
+[2024.12.23-14.18.38:810][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.12.23-14.18.38:810][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.12.23-14.18.38:835][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.12.23-14.18.38:888][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2024.12.23-14.18.38:889][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 20.5.278/bin
+[2024.12.23-14.18.38:961][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Runtime/ModelViewViewModel/Content/Editor/Common/ButtonHoverHint.png' error.
+[2024.12.23-14.18.38:961][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Runtime/ModelViewViewModel/Content/Editor/Common/ButtonHoverHint.png
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterModule: Instantiating subsystem managers...
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_mono
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_mono
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registering factory for rendering device type: quad_buffer_stereo
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registered factory for rendering device type: quad_buffer_stereo
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_side_by_side
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_side_by_side
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_top_bottom
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_top_bottom
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registering factory for synchronization policy: none
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registered factory for synchronization policy: none
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registering factory for synchronization policy: ethernet
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registered factory for synchronization policy: ethernet
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registering factory for synchronization policy: ethernet_barrier
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registered factory for synchronization policy: ethernet_barrier
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registering factory for synchronization policy: nvidia
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterRender: Registered factory for synchronization policy: nvidia
+[2024.12.23-14.18.38:973][  0]LogDisplayClusterModule: DisplayCluster module has been started
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjectionVIOSO: VIOSO API(1,6,19,90) was initialized from file '../../../Engine/Plugins/Runtime/nDisplay/Source/ThirdParty/VIOSO/DLL/ViosoWarpBlend64.dll'.
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Projection module has been instantiated
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Projection module startup
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Registering <camera> projection policy factory...
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registering factory for projection type: camera
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registered factory for projection type: camera
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Registering <domeprojection> projection policy factory...
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registering factory for projection type: domeprojection
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registered factory for projection type: domeprojection
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Registering <easyblend> projection policy factory...
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registering factory for projection type: easyblend
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registered factory for projection type: easyblend
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Registering <link> projection policy factory...
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registering factory for projection type: link
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registered factory for projection type: link
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Registering <manual> projection policy factory...
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registering factory for projection type: manual
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registered factory for projection type: manual
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Registering <mpcdi> projection policy factory...
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registering factory for projection type: mpcdi
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registered factory for projection type: mpcdi
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Registering <mesh> projection policy factory...
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registering factory for projection type: mesh
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registered factory for projection type: mesh
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Registering <simple> projection policy factory...
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registering factory for projection type: simple
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registered factory for projection type: simple
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Registering <vioso> projection policy factory...
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registering factory for projection type: vioso
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterRender: Registered factory for projection type: vioso
+[2024.12.23-14.18.38:987][  0]LogDisplayClusterProjection: Projection module has started
+[2024.12.23-14.18.38:992][  0]LogDisplayClusterWarp: Warp module has been instantiated
+[2024.12.23-14.18.38:992][  0]LogDisplayClusterWarp: Warp module startup
+[2024.12.23-14.18.38:992][  0]LogDisplayClusterWarp: Registering <InFrustumFit> warp policy factory...
+[2024.12.23-14.18.38:992][  0]LogDisplayClusterRender: Registering factory for warp policy type: InFrustumFit
+[2024.12.23-14.18.38:992][  0]LogDisplayClusterRender: Registered factory for warp policy type: InFrustumFit
+[2024.12.23-14.18.38:992][  0]LogDisplayClusterWarp: Warp module has started
+[2024.12.23-14.18.39:039][  0]LogDisplayClusterRemoteControlInterceptor: DisplayClusterRemoteControlInterceptor has been registered
+[2024.12.23-14.18.39:042][  0]LogDisplayClusterMedia: Starting module 'DisplayClusterMedia'...
+[2024.12.23-14.18.39:157][  0]LogTemp: OpenXR ignores max viewport resolution in editor to support full HMD resolutions.
+[2024.12.23-14.18.39:291][  0]SourceControl: Revision control is disabled
+[2024.12.23-14.18.39:298][  0]SourceControl: Revision control is disabled
+[2024.12.23-14.18.39:400][  0]LogCollectionManager: Loaded 0 collections in 0.002124 seconds
+[2024.12.23-14.18.39:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Collections/' took 0.00s
+[2024.12.23-14.18.39:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/Developers/Student/Collections/' took 0.00s
+[2024.12.23-14.18.39:407][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/Collections/' took 0.00s
+[2024.12.23-14.18.39:674][  0]LogEngine: Initializing Engine...
+[2024.12.23-14.18.40:622][  0]LogHMD: HMD configured for shader platform PCD3D_SM6, bIsMobileMultiViewEnabled=0, bProjectionLayerAlphaEnabled=0
+[2024.12.23-14.18.40:623][  0]LogOperatorStackEditorSubsystem: Display: OperatorStack customization registered : Class ActorModifierCoreEditorStackCustomization - Identifier Modifiers
+[2024.12.23-14.18.40:623][  0]LogOperatorStackEditorSubsystem: Display: OperatorStack customization registered : Class PropertyAnimatorCoreEditorStackCustomization - Identifier Animators
+[2024.12.23-14.18.40:988][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\PROGRAM FILES\WINDOWSAPPS\MICROSOFT.WINDOWSTERMINAL_1.21.3231.0_X64__8WEKYB3D8BBWE\CASCADIACODE.TTF)
+[2024.12.23-14.18.40:988][  0]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2024.12.23-14.18.40:989][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\PROGRAM FILES\WINDOWSAPPS\MICROSOFT.WINDOWSTERMINAL_1.21.3231.0_X64__8WEKYB3D8BBWE\CASCADIACODEITALIC.TTF)
+[2024.12.23-14.18.40:993][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\PROGRAM FILES\WINDOWSAPPS\MICROSOFT.WINDOWSTERMINAL_1.21.3231.0_X64__8WEKYB3D8BBWE\CASCADIAMONO.TTF)
+[2024.12.23-14.18.40:994][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\PROGRAM FILES\WINDOWSAPPS\MICROSOFT.WINDOWSTERMINAL_1.21.3231.0_X64__8WEKYB3D8BBWE\CASCADIAMONOITALIC.TTF)
+[2024.12.23-14.18.40:998][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ARIAL.TTF)
+[2024.12.23-14.18.40:998][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ARIALN.TTF)
+[2024.12.23-14.18.41:000][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ARIALI.TTF)
+[2024.12.23-14.18.41:001][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ARIALNI.TTF)
+[2024.12.23-14.18.41:002][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ARIALBD.TTF)
+[2024.12.23-14.18.41:003][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ARIALNB.TTF)
+[2024.12.23-14.18.41:005][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ARIALBI.TTF)
+[2024.12.23-14.18.41:005][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ARIALNBI.TTF)
+[2024.12.23-14.18.41:006][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ARIBLK.TTF)
+[2024.12.23-14.18.41:008][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BAHNSCHRIFT.TTF)
+[2024.12.23-14.18.41:011][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALIBRIL.TTF)
+[2024.12.23-14.18.41:013][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALIBRILI.TTF)
+[2024.12.23-14.18.41:016][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALIBRI.TTF)
+[2024.12.23-14.18.41:019][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALIBRII.TTF)
+[2024.12.23-14.18.41:022][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALIBRIB.TTF)
+[2024.12.23-14.18.41:025][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALIBRIZ.TTF)
+[2024.12.23-14.18.41:029][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CAMBRIAI.TTF)
+[2024.12.23-14.18.41:030][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CAMBRIAB.TTF)
+[2024.12.23-14.18.41:032][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CAMBRIAZ.TTF)
+[2024.12.23-14.18.41:033][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CANDARAL.TTF)
+[2024.12.23-14.18.41:034][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CANDARALI.TTF)
+[2024.12.23-14.18.41:034][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CANDARA.TTF)
+[2024.12.23-14.18.41:035][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CANDARAI.TTF)
+[2024.12.23-14.18.41:035][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CANDARAB.TTF)
+[2024.12.23-14.18.41:036][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CANDARAZ.TTF)
+[2024.12.23-14.18.41:037][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COMIC.TTF)
+[2024.12.23-14.18.41:037][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COMICI.TTF)
+[2024.12.23-14.18.41:039][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COMICBD.TTF)
+[2024.12.23-14.18.41:039][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COMICZ.TTF)
+[2024.12.23-14.18.41:041][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CONSOLA.TTF)
+[2024.12.23-14.18.41:042][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CONSOLAI.TTF)
+[2024.12.23-14.18.41:043][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CONSOLAB.TTF)
+[2024.12.23-14.18.41:043][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CONSOLAZ.TTF)
+[2024.12.23-14.18.41:045][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CONSTAN.TTF)
+[2024.12.23-14.18.41:046][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CONSTANI.TTF)
+[2024.12.23-14.18.41:047][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CONSTANB.TTF)
+[2024.12.23-14.18.41:049][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CONSTANZ.TTF)
+[2024.12.23-14.18.41:049][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CORBELL.TTF)
+[2024.12.23-14.18.41:049][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CORBELLI.TTF)
+[2024.12.23-14.18.41:050][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CORBEL.TTF)
+[2024.12.23-14.18.41:051][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CORBELI.TTF)
+[2024.12.23-14.18.41:052][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CORBELB.TTF)
+[2024.12.23-14.18.41:052][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CORBELZ.TTF)
+[2024.12.23-14.18.41:054][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COUR.TTF)
+[2024.12.23-14.18.41:056][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COURI.TTF)
+[2024.12.23-14.18.41:058][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COURBD.TTF)
+[2024.12.23-14.18.41:060][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COURBI.TTF)
+[2024.12.23-14.18.41:062][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\EBRIMA.TTF)
+[2024.12.23-14.18.41:064][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\EBRIMABD.TTF)
+[2024.12.23-14.18.41:065][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRAMD.TTF)
+[2024.12.23-14.18.41:065][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRAMDCN.TTF)
+[2024.12.23-14.18.41:066][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRAMDIT.TTF)
+[2024.12.23-14.18.41:066][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRADM.TTF)
+[2024.12.23-14.18.41:066][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRADMCN.TTF)
+[2024.12.23-14.18.41:067][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRADMIT.TTF)
+[2024.12.23-14.18.41:067][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRAHV.TTF)
+[2024.12.23-14.18.41:068][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRAHVIT.TTF)
+[2024.12.23-14.18.41:072][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GABRIOLA.TTF)
+[2024.12.23-14.18.41:074][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GADUGI.TTF)
+[2024.12.23-14.18.41:074][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GADUGIB.TTF)
+[2024.12.23-14.18.41:075][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GEORGIA.TTF)
+[2024.12.23-14.18.41:076][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GEORGIAI.TTF)
+[2024.12.23-14.18.41:077][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GEORGIAB.TTF)
+[2024.12.23-14.18.41:077][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GEORGIAZ.TTF)
+[2024.12.23-14.18.41:078][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\IMPACT.TTF)
+[2024.12.23-14.18.41:079][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\INKFREE.TTF)
+[2024.12.23-14.18.41:080][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\JAVATEXT.TTF)
+[2024.12.23-14.18.41:081][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LEELUISL.TTF)
+[2024.12.23-14.18.41:082][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LEELAWUI.TTF)
+[2024.12.23-14.18.41:083][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LEELAUIB.TTF)
+[2024.12.23-14.18.41:083][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LUCON.TTF)
+[2024.12.23-14.18.41:084][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\L_10646.TTF)
+[2024.12.23-14.18.41:092][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MALGUNSL.TTF)
+[2024.12.23-14.18.41:117][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MALGUN.TTF)
+[2024.12.23-14.18.41:144][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MALGUNBD.TTF)
+[2024.12.23-14.18.41:158][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HIMALAYA.TTF)
+[2024.12.23-14.18.41:159][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\NTAILU.TTF)
+[2024.12.23-14.18.41:159][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\NTAILUB.TTF)
+[2024.12.23-14.18.41:160][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PHAGSPA.TTF)
+[2024.12.23-14.18.41:161][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PHAGSPAB.TTF)
+[2024.12.23-14.18.41:162][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MICROSS.TTF)
+[2024.12.23-14.18.41:163][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TAILE.TTF)
+[2024.12.23-14.18.41:164][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TAILEB.TTF)
+[2024.12.23-14.18.41:165][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MSYI.TTF)
+[2024.12.23-14.18.41:166][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MONBAITI.TTF)
+[2024.12.23-14.18.41:166][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MVBOLI.TTF)
+[2024.12.23-14.18.41:167][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MMRTEXT.TTF)
+[2024.12.23-14.18.41:168][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MMRTEXTB.TTF)
+[2024.12.23-14.18.41:172][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\NIRMALAS.TTF)
+[2024.12.23-14.18.41:175][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\NIRMALA.TTF)
+[2024.12.23-14.18.41:178][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\NIRMALAB.TTF)
+[2024.12.23-14.18.41:180][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PALA.TTF)
+[2024.12.23-14.18.41:181][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PALAI.TTF)
+[2024.12.23-14.18.41:182][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PALAB.TTF)
+[2024.12.23-14.18.41:183][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PALABI.TTF)
+[2024.12.23-14.18.41:186][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SANSSERIFCOLLECTION.TTF)
+[2024.12.23-14.18.41:188][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOEICONS.TTF)
+[2024.12.23-14.18.41:189][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGMDL2.TTF)
+[2024.12.23-14.18.41:189][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOEPR.TTF)
+[2024.12.23-14.18.41:190][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOEPRB.TTF)
+[2024.12.23-14.18.41:191][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOESC.TTF)
+[2024.12.23-14.18.41:194][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOESCB.TTF)
+[2024.12.23-14.18.41:196][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOEUIL.TTF)
+[2024.12.23-14.18.41:197][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGUILI.TTF)
+[2024.12.23-14.18.41:199][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOEUISL.TTF)
+[2024.12.23-14.18.41:200][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGUISLI.TTF)
+[2024.12.23-14.18.41:202][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOEUI.TTF)
+[2024.12.23-14.18.41:203][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOEUII.TTF)
+[2024.12.23-14.18.41:205][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGUISB.TTF)
+[2024.12.23-14.18.41:206][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGUISBI.TTF)
+[2024.12.23-14.18.41:208][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOEUIB.TTF)
+[2024.12.23-14.18.41:209][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGOEUIZ.TTF)
+[2024.12.23-14.18.41:210][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGUIBL.TTF)
+[2024.12.23-14.18.41:211][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGUIBLI.TTF)
+[2024.12.23-14.18.41:233][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGUIEMJ.TTF)
+[2024.12.23-14.18.41:245][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGUIHIS.TTF)
+[2024.12.23-14.18.41:250][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGUISYM.TTF)
+[2024.12.23-14.18.41:255][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SEGUIVAR.TTF)
+[2024.12.23-14.18.41:291][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SIMSUNB.TTF)
+[2024.12.23-14.18.41:308][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SITKAVF.TTF)
+[2024.12.23-14.18.41:309][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SITKAVF-ITALIC.TTF)
+[2024.12.23-14.18.41:310][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SYLFAEN.TTF)
+[2024.12.23-14.18.41:311][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SYMBOL.TTF)
+[2024.12.23-14.18.41:313][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TAHOMA.TTF)
+[2024.12.23-14.18.41:314][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TAHOMABD.TTF)
+[2024.12.23-14.18.41:317][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TIMES.TTF)
+[2024.12.23-14.18.41:319][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TIMESI.TTF)
+[2024.12.23-14.18.41:321][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TIMESBD.TTF)
+[2024.12.23-14.18.41:325][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TIMESBI.TTF)
+[2024.12.23-14.18.41:326][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TREBUC.TTF)
+[2024.12.23-14.18.41:327][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TREBUCIT.TTF)
+[2024.12.23-14.18.41:328][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TREBUCBD.TTF)
+[2024.12.23-14.18.41:328][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TREBUCBI.TTF)
+[2024.12.23-14.18.41:329][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\VERDANA.TTF)
+[2024.12.23-14.18.41:330][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\VERDANAI.TTF)
+[2024.12.23-14.18.41:331][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\VERDANAB.TTF)
+[2024.12.23-14.18.41:331][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\VERDANAZ.TTF)
+[2024.12.23-14.18.41:332][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\WEBDINGS.TTF)
+[2024.12.23-14.18.41:332][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\WINGDING.TTF)
+[2024.12.23-14.18.41:333][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HOLOMDL2.TTF)
+[2024.12.23-14.18.41:333][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\AGENCYR.TTF)
+[2024.12.23-14.18.41:334][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\AGENCYB.TTF)
+[2024.12.23-14.18.41:334][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ALGER.TTF)
+[2024.12.23-14.18.41:335][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BKANT.TTF)
+[2024.12.23-14.18.41:335][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ANTQUAI.TTF)
+[2024.12.23-14.18.41:336][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ANTQUAB.TTF)
+[2024.12.23-14.18.41:336][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ANTQUABI.TTF)
+[2024.12.23-14.18.41:337][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ARLRDBD.TTF)
+[2024.12.23-14.18.41:337][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BASKVILL.TTF)
+[2024.12.23-14.18.41:338][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BAUHS93.TTF)
+[2024.12.23-14.18.41:338][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BELL.TTF)
+[2024.12.23-14.18.41:338][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BELLI.TTF)
+[2024.12.23-14.18.41:338][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BELLB.TTF)
+[2024.12.23-14.18.41:339][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BERNHC.TTF)
+[2024.12.23-14.18.41:340][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_R.TTF)
+[2024.12.23-14.18.41:340][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_CR.TTF)
+[2024.12.23-14.18.41:340][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_I.TTF)
+[2024.12.23-14.18.41:341][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_CI.TTF)
+[2024.12.23-14.18.41:341][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_B.TTF)
+[2024.12.23-14.18.41:341][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_CB.TTF)
+[2024.12.23-14.18.41:342][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_BI.TTF)
+[2024.12.23-14.18.41:342][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_CBI.TTF)
+[2024.12.23-14.18.41:342][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_BLAR.TTF)
+[2024.12.23-14.18.41:343][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_BLAI.TTF)
+[2024.12.23-14.18.41:343][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOD_PSTC.TTF)
+[2024.12.23-14.18.41:344][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOOKOS.TTF)
+[2024.12.23-14.18.41:345][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOOKOSI.TTF)
+[2024.12.23-14.18.41:345][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOOKOSB.TTF)
+[2024.12.23-14.18.41:346][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BOOKOSBI.TTF)
+[2024.12.23-14.18.41:346][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BRADHITC.TTF)
+[2024.12.23-14.18.41:347][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BRITANIC.TTF)
+[2024.12.23-14.18.41:348][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BRLNSR.TTF)
+[2024.12.23-14.18.41:349][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BRLNSDB.TTF)
+[2024.12.23-14.18.41:349][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BRLNSB.TTF)
+[2024.12.23-14.18.41:350][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BROADW.TTF)
+[2024.12.23-14.18.41:350][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BRUSHSCI.TTF)
+[2024.12.23-14.18.41:350][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\BSSYM7.TTF)
+[2024.12.23-14.18.41:351][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALIFR.TTF)
+[2024.12.23-14.18.41:351][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALIFI.TTF)
+[2024.12.23-14.18.41:352][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALIFB.TTF)
+[2024.12.23-14.18.41:352][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALIST.TTF)
+[2024.12.23-14.18.41:353][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALISTI.TTF)
+[2024.12.23-14.18.41:353][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALISTB.TTF)
+[2024.12.23-14.18.41:353][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CALISTBI.TTF)
+[2024.12.23-14.18.41:354][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CASTELAR.TTF)
+[2024.12.23-14.18.41:355][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CENSCBK.TTF)
+[2024.12.23-14.18.41:355][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SCHLBKI.TTF)
+[2024.12.23-14.18.41:356][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SCHLBKB.TTF)
+[2024.12.23-14.18.41:356][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SCHLBKBI.TTF)
+[2024.12.23-14.18.41:357][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CENTAUR.TTF)
+[2024.12.23-14.18.41:358][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CENTURY.TTF)
+[2024.12.23-14.18.41:358][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CHILLER.TTF)
+[2024.12.23-14.18.41:359][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COLONNA.TTF)
+[2024.12.23-14.18.41:359][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COOPBL.TTF)
+[2024.12.23-14.18.41:360][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COPRGTL.TTF)
+[2024.12.23-14.18.41:360][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COPRGTB.TTF)
+[2024.12.23-14.18.41:361][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CURLZ___.TTF)
+[2024.12.23-14.18.41:361][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DUBAI-LIGHT.TTF)
+[2024.12.23-14.18.41:362][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DUBAI-REGULAR.TTF)
+[2024.12.23-14.18.41:362][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DUBAI-MEDIUM.TTF)
+[2024.12.23-14.18.41:363][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DUBAI-BOLD.TTF)
+[2024.12.23-14.18.41:364][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ELEPHNT.TTF)
+[2024.12.23-14.18.41:364][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ELEPHNTI.TTF)
+[2024.12.23-14.18.41:364][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ENGR.TTF)
+[2024.12.23-14.18.41:365][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ERASLGHT.TTF)
+[2024.12.23-14.18.41:365][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ERASMD.TTF)
+[2024.12.23-14.18.41:365][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ERASDEMI.TTF)
+[2024.12.23-14.18.41:366][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ERASBD.TTF)
+[2024.12.23-14.18.41:366][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FELIXTI.TTF)
+[2024.12.23-14.18.41:367][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FORTE.TTF)
+[2024.12.23-14.18.41:367][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRABK.TTF)
+[2024.12.23-14.18.41:368][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRABKIT.TTF)
+[2024.12.23-14.18.41:368][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FREESCPT.TTF)
+[2024.12.23-14.18.41:368][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FRSCRIPT.TTF)
+[2024.12.23-14.18.41:369][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\FTLTLT.TTF)
+[2024.12.23-14.18.41:371][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GARA.TTF)
+[2024.12.23-14.18.41:371][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GARAIT.TTF)
+[2024.12.23-14.18.41:372][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GARABD.TTF)
+[2024.12.23-14.18.41:373][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GIGI.TTF)
+[2024.12.23-14.18.41:373][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GIL_____.TTF)
+[2024.12.23-14.18.41:374][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GILC____.TTF)
+[2024.12.23-14.18.41:374][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GILI____.TTF)
+[2024.12.23-14.18.41:374][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GILB____.TTF)
+[2024.12.23-14.18.41:375][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GLSNECB.TTF)
+[2024.12.23-14.18.41:375][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GILBI___.TTF)
+[2024.12.23-14.18.41:376][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GILSANUB.TTF)
+[2024.12.23-14.18.41:376][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GILLUBCD.TTF)
+[2024.12.23-14.18.41:377][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GLECB.TTF)
+[2024.12.23-14.18.41:377][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GOTHIC.TTF)
+[2024.12.23-14.18.41:378][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GOTHICI.TTF)
+[2024.12.23-14.18.41:378][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GOTHICB.TTF)
+[2024.12.23-14.18.41:379][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GOTHICBI.TTF)
+[2024.12.23-14.18.41:379][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GOUDOS.TTF)
+[2024.12.23-14.18.41:380][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GOUDOSI.TTF)
+[2024.12.23-14.18.41:380][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GOUDOSB.TTF)
+[2024.12.23-14.18.41:381][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\GOUDYSTO.TTF)
+[2024.12.23-14.18.41:381][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HARLOWSI.TTF)
+[2024.12.23-14.18.41:381][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HARNGTON.TTF)
+[2024.12.23-14.18.41:382][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HATTEN.TTF)
+[2024.12.23-14.18.41:383][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HTOWERT.TTF)
+[2024.12.23-14.18.41:383][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HTOWERTI.TTF)
+[2024.12.23-14.18.41:383][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\IMPRISHA.TTF)
+[2024.12.23-14.18.41:384][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\INFROMAN.TTF)
+[2024.12.23-14.18.41:385][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ITCBLKAD.TTF)
+[2024.12.23-14.18.41:385][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ITCEDSCR.TTF)
+[2024.12.23-14.18.41:386][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ITCKRIST.TTF)
+[2024.12.23-14.18.41:386][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\JOKERMAN.TTF)
+[2024.12.23-14.18.41:386][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\JUICE___.TTF)
+[2024.12.23-14.18.41:387][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\KUNSTLER.TTF)
+[2024.12.23-14.18.41:387][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LATINWD.TTF)
+[2024.12.23-14.18.41:388][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LBRITE.TTF)
+[2024.12.23-14.18.41:388][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LBRITEI.TTF)
+[2024.12.23-14.18.41:388][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LBRITED.TTF)
+[2024.12.23-14.18.41:389][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LBRITEDI.TTF)
+[2024.12.23-14.18.41:389][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LCALLIG.TTF)
+[2024.12.23-14.18.41:390][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LEELAWAD.TTF)
+[2024.12.23-14.18.41:390][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LEELAWDB.TTF)
+[2024.12.23-14.18.41:391][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LFAX.TTF)
+[2024.12.23-14.18.41:392][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LFAXI.TTF)
+[2024.12.23-14.18.41:392][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LFAXD.TTF)
+[2024.12.23-14.18.41:392][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LFAXDI.TTF)
+[2024.12.23-14.18.41:393][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LHANDW.TTF)
+[2024.12.23-14.18.41:393][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LSANS.TTF)
+[2024.12.23-14.18.41:394][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LSANSI.TTF)
+[2024.12.23-14.18.41:394][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LSANSD.TTF)
+[2024.12.23-14.18.41:394][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LSANSDI.TTF)
+[2024.12.23-14.18.41:395][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LTYPE.TTF)
+[2024.12.23-14.18.41:395][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LTYPEO.TTF)
+[2024.12.23-14.18.41:396][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LTYPEB.TTF)
+[2024.12.23-14.18.41:396][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\LTYPEBO.TTF)
+[2024.12.23-14.18.41:397][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MAGNETOB.TTF)
+[2024.12.23-14.18.41:397][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MAIAN.TTF)
+[2024.12.23-14.18.41:397][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MATURASC.TTF)
+[2024.12.23-14.18.41:398][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MISTRAL.TTF)
+[2024.12.23-14.18.41:399][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MOD20.TTF)
+[2024.12.23-14.18.41:400][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MSUIGHUR.TTF)
+[2024.12.23-14.18.41:400][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MSUIGHUB.TTF)
+[2024.12.23-14.18.41:401][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MTCORSVA.TTF)
+[2024.12.23-14.18.41:401][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MTEXTRA.TTF)
+[2024.12.23-14.18.41:402][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\NIAGENG.TTF)
+[2024.12.23-14.18.41:402][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\NIAGSOL.TTF)
+[2024.12.23-14.18.41:403][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\OCRAEXT.TTF)
+[2024.12.23-14.18.41:403][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\OLDENGL.TTF)
+[2024.12.23-14.18.41:404][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ONYX.TTF)
+[2024.12.23-14.18.41:404][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\OUTLOOK.TTF)
+[2024.12.23-14.18.41:405][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PALSCRI.TTF)
+[2024.12.23-14.18.41:405][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PAPYRUS.TTF)
+[2024.12.23-14.18.41:407][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PARCHM.TTF)
+[2024.12.23-14.18.41:407][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PER_____.TTF)
+[2024.12.23-14.18.41:408][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PERI____.TTF)
+[2024.12.23-14.18.41:408][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PERB____.TTF)
+[2024.12.23-14.18.41:408][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PERBI___.TTF)
+[2024.12.23-14.18.41:409][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PERTILI.TTF)
+[2024.12.23-14.18.41:409][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PERTIBD.TTF)
+[2024.12.23-14.18.41:410][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PLAYBILL.TTF)
+[2024.12.23-14.18.41:410][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\POORICH.TTF)
+[2024.12.23-14.18.41:410][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\PRISTINA.TTF)
+[2024.12.23-14.18.41:411][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\RAGE.TTF)
+[2024.12.23-14.18.41:411][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\RAVIE.TTF)
+[2024.12.23-14.18.41:412][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\REFSAN.TTF)
+[2024.12.23-14.18.41:413][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\REFSPCL.TTF)
+[2024.12.23-14.18.41:413][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ROCK.TTF)
+[2024.12.23-14.18.41:414][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ROCC____.TTF)
+[2024.12.23-14.18.41:414][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ROCKI.TTF)
+[2024.12.23-14.18.41:414][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ROCKB.TTF)
+[2024.12.23-14.18.41:415][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ROCCB___.TTF)
+[2024.12.23-14.18.41:415][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ROCKBI.TTF)
+[2024.12.23-14.18.41:415][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ROCKEB.TTF)
+[2024.12.23-14.18.41:416][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SCRIPTBL.TTF)
+[2024.12.23-14.18.41:416][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SHOWG.TTF)
+[2024.12.23-14.18.41:417][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SNAP____.TTF)
+[2024.12.23-14.18.41:417][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\STENCIL.TTF)
+[2024.12.23-14.18.41:417][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TCM_____.TTF)
+[2024.12.23-14.18.41:418][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TCCM____.TTF)
+[2024.12.23-14.18.41:418][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TCMI____.TTF)
+[2024.12.23-14.18.41:418][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TCB_____.TTF)
+[2024.12.23-14.18.41:419][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TCCB____.TTF)
+[2024.12.23-14.18.41:420][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TCBI____.TTF)
+[2024.12.23-14.18.41:420][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TCCEB.TTF)
+[2024.12.23-14.18.41:421][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\TEMPSITC.TTF)
+[2024.12.23-14.18.41:421][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\VINERITC.TTF)
+[2024.12.23-14.18.41:422][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\VIVALDII.TTF)
+[2024.12.23-14.18.41:422][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\VLADIMIR.TTF)
+[2024.12.23-14.18.41:422][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\WINGDNG2.TTF)
+[2024.12.23-14.18.41:423][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\WINGDNG3.TTF)
+[2024.12.23-14.18.41:423][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\CON_____.TTF)
+[2024.12.23-14.18.41:423][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COO_____.TTF)
+[2024.12.23-14.18.41:424][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COB_____.TTF)
+[2024.12.23-14.18.41:424][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\COBO____.TTF)
+[2024.12.23-14.18.41:425][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANS-EXTRALIGHT.TTF)
+[2024.12.23-14.18.41:426][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANS.TTF)
+[2024.12.23-14.18.41:428][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANSCONDENSED.TTF)
+[2024.12.23-14.18.41:429][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANS-OBLIQUE.TTF)
+[2024.12.23-14.18.41:430][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANSCONDENSED-OBLIQUE.TTF)
+[2024.12.23-14.18.41:432][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANS-BOLD.TTF)
+[2024.12.23-14.18.41:434][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANSCONDENSED-BOLD.TTF)
+[2024.12.23-14.18.41:435][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANS-BOLDOBLIQUE.TTF)
+[2024.12.23-14.18.41:436][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANSCONDENSED-BOLDOBLIQUE.TTF)
+[2024.12.23-14.18.41:438][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANSMONO.TTF)
+[2024.12.23-14.18.41:439][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANSMONO-OBLIQUE.TTF)
+[2024.12.23-14.18.41:440][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANSMONO-BOLD.TTF)
+[2024.12.23-14.18.41:440][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSANSMONO-BOLDOBLIQUE.TTF)
+[2024.12.23-14.18.41:441][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSERIF.TTF)
+[2024.12.23-14.18.41:442][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSERIFCONDENSED.TTF)
+[2024.12.23-14.18.41:443][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSERIF-ITALIC.TTF)
+[2024.12.23-14.18.41:444][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSERIFCONDENSED-ITALIC.TTF)
+[2024.12.23-14.18.41:445][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSERIF-BOLD.TTF)
+[2024.12.23-14.18.41:445][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSERIFCONDENSED-BOLD.TTF)
+[2024.12.23-14.18.41:446][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSERIF-BOLDITALIC.TTF)
+[2024.12.23-14.18.41:448][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\DEJAVUSERIFCONDENSED-BOLDITALIC.TTF)
+[2024.12.23-14.18.41:448][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX10.TTF)
+[2024.12.23-14.18.41:449][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX11.TTF)
+[2024.12.23-14.18.41:449][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX12.TTF)
+[2024.12.23-14.18.41:449][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX13.TTF)
+[2024.12.23-14.18.41:450][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX14.TTF)
+[2024.12.23-14.18.41:450][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX15.TTF)
+[2024.12.23-14.18.41:450][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX16.TTF)
+[2024.12.23-14.18.41:451][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX17.TTF)
+[2024.12.23-14.18.41:451][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX1_.TTF)
+[2024.12.23-14.18.41:451][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX2_.TTF)
+[2024.12.23-14.18.41:452][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX3_.TTF)
+[2024.12.23-14.18.41:452][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX4_.TTF)
+[2024.12.23-14.18.41:452][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX5_.TTF)
+[2024.12.23-14.18.41:453][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX6_.TTF)
+[2024.12.23-14.18.41:453][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX7_.TTF)
+[2024.12.23-14.18.41:453][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX8_.TTF)
+[2024.12.23-14.18.41:453][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\ESSTIX9_.TTF)
+[2024.12.23-14.18.41:454][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HEN_____.TTF)
+[2024.12.23-14.18.41:454][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HEO_____.TTF)
+[2024.12.23-14.18.41:454][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HEB_____.TTF)
+[2024.12.23-14.18.41:455][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\HEBO____.TTF)
+[2024.12.23-14.18.41:455][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MAPLEPI.TTF)
+[2024.12.23-14.18.41:455][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SYP_____.TTF)
+[2024.12.23-14.18.41:456][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\THR_____.TTF)
+[2024.12.23-14.18.41:456][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\THI_____.TTF)
+[2024.12.23-14.18.41:456][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\THB_____.TTF)
+[2024.12.23-14.18.41:457][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\THBI____.TTF)
+[2024.12.23-14.18.41:463][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\SIMSUNEXTG.TTF)
+[2024.12.23-14.18.41:466][  0]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\FONTS\MARLETT.TTF)
+[2024.12.23-14.18.41:575][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2024.12.23-14.18.41:598][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.23-14.18.41:619][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.12.23-14.18.41:619][  0]LogInit: Texture streaming: Enabled
+[2024.12.23-14.18.41:629][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.4.4-35576357+++UE5+Release-5.4
+[2024.12.23-14.18.41:637][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.12.23-14.18.41:643][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.12.23-14.18.41:644][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.12.23-14.18.41:644][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.12.23-14.18.41:644][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.12.23-14.18.41:646][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.12.23-14.18.41:646][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.12.23-14.18.41:648][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.12.23-14.18.41:650][  0]LogAudio: Display: AudioInfo: 'RADA' Registered
+[2024.12.23-14.18.41:651][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.12.23-14.18.41:651][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.12.23-14.18.41:651][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.18.41:652][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.18.41:652][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.18.41:652][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.18.41:652][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.18.41:652][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.18.41:652][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.18.41:652][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.18.41:652][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.18.41:652][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.18.41:652][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.18.41:657][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.18.41:678][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.12.23-14.18.41:679][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.18.41:681][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.18.41:681][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.18.41:682][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.12.23-14.18.41:682][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.12.23-14.18.41:683][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.23-14.18.41:683][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.12.23-14.18.41:683][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.12.23-14.18.41:684][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.12.23-14.18.41:684][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.12.23-14.18.41:688][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.12.23-14.18.41:690][  0]LogInit: Undo buffer set to 32 MB
+[2024.12.23-14.18.41:690][  0]LogInit: Transaction tracking system initialized
+[2024.12.23-14.18.41:704][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/SourceControl/UncontrolledChangelists.json
+[2024.12.23-14.18.41:770][  0]LocalizationService: Localization service is disabled
+[2024.12.23-14.18.41:783][  0]TimingProfiler: Initialize
+[2024.12.23-14.18.41:783][  0]TimingProfiler: OnSessionChanged
+[2024.12.23-14.18.41:783][  0]LoadingProfiler: Initialize
+[2024.12.23-14.18.41:783][  0]LoadingProfiler: OnSessionChanged
+[2024.12.23-14.18.41:783][  0]NetworkingProfiler: Initialize
+[2024.12.23-14.18.41:783][  0]NetworkingProfiler: OnSessionChanged
+[2024.12.23-14.18.41:783][  0]MemoryProfiler: Initialize
+[2024.12.23-14.18.41:783][  0]MemoryProfiler: OnSessionChanged
+[2024.12.23-14.18.42:000][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/' took 0.02s
+[2024.12.23-14.18.42:082][  0]LogVPUtilitiesEditor: VP Scouting subsystem initialized.
+[2024.12.23-14.18.43:905][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/VirtualProductionUtilities/LineRenderer/VScoutPrototype/SM_LaserPointerHit) ...
+[2024.12.23-14.18.44:088][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.12.23-14.18.44:112][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2024.12.23-14.18.44:116][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2024.12.23-14.18.44:116][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2024.12.23-14.18.44:175][  0]LogWindows: Attached monitors:
+[2024.12.23-14.18.44:175][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.12.23-14.18.44:175][  0]LogWindows: Found 1 attached monitors.
+[2024.12.23-14.18.44:175][  0]LogWindows: Gathering driver information using Windows Setup API
+[2024.12.23-14.18.44:202][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.4\Engine\Plugins\VirtualProduction\Switchboard\Content\OSCSwitchboard.uasset: [Compiler] Set on Take Recorder Pre Initialize : Usage of 'Set on Take Recorder Pre Initialize' has been deprecated. Please use TakeRecorderSubsystem::TakeRecorderPreInitialize
+[2024.12.23-14.18.44:202][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.4\Engine\Plugins\VirtualProduction\Switchboard\Content\OSCSwitchboard.uasset: [Compiler] Set on Take Recorder Started : Usage of 'Set on Take Recorder Started' has been deprecated. Please use TakeRecorderSubsystem::TakeRecorderStarted
+[2024.12.23-14.18.44:202][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.4\Engine\Plugins\VirtualProduction\Switchboard\Content\OSCSwitchboard.uasset: [Compiler] Set on Take Recorder Marked Frame Added : Usage of 'Set on Take Recorder Marked Frame Added' has been deprecated. Please use TakeRecorderSubsystem::TakeRecorderMarkedFrameAdded
+[2024.12.23-14.18.44:202][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.4\Engine\Plugins\VirtualProduction\Switchboard\Content\OSCSwitchboard.uasset: [Compiler] Set on Take Recorder Cancelled : Usage of 'Set on Take Recorder Cancelled' has been deprecated. Please use TakeRecorderSubsystem::TakeRecorderCancelled
+[2024.12.23-14.18.44:202][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.4\Engine\Plugins\VirtualProduction\Switchboard\Content\OSCSwitchboard.uasset: [Compiler] Set on Take Recorder Stopped : Usage of 'Set on Take Recorder Stopped' has been deprecated. Please use TakeRecorderSubsystem::TakeRecorderStopped
+[2024.12.23-14.18.44:202][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.4\Engine\Plugins\VirtualProduction\Switchboard\Content\OSCSwitchboard.uasset: [Compiler] Set on Take Recorder Finished : Usage of 'Set on Take Recorder Finished' has been deprecated. Please use TakeRecorderSubsystem::TakeRecorderFinished
+[2024.12.23-14.18.44:207][  0]LogSwitchboardPlugin: Issuing verify for venv: C:/Program Files/Epic Games/UE_5.4/Engine/Extras/ThirdPartyNotUE/SwitchboardThirdParty/Python
+[2024.12.23-14.18.44:209][  0]LogSwitchboardPlugin: RunVerify: Python interpreter not found: C:/Program Files/Epic Games/UE_5.4/Engine/Extras/ThirdPartyNotUE/SwitchboardThirdParty/Python/Scripts/pythonw.exe
+[2024.12.23-14.18.44:209][  0]LogSwitchboardPlugin: Verify complete for venv: C:/Program Files/Epic Games/UE_5.4/Engine/Extras/ThirdPartyNotUE/SwitchboardThirdParty/Python
+[2024.12.23-14.18.44:209][  0]LogSwitchboardPlugin: Verify summary: 0
+[2024.12.23-14.18.44:209][  0]LogSwitchboardPlugin: Verify log: 
+[2024.12.23-14.18.44:260][  0]LogAssetRegistry: Display: Package C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Experimental/Avalanche/Content/TestContent/AvaScene_Simple.uasset uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2024.12.23-14.18.44:260][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.12.23-14.18.44:291][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.12.23-14.18.44:292][  0]SourceControl: Revision control is disabled
+[2024.12.23-14.18.44:292][  0]LogUnrealEdMisc: Loading editor; pre map load, took 590.084
+[2024.12.23-14.18.44:310][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.23-14.18.44:312][  0]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.23-14.18.44:314][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.18.44:314][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.18.44:315][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.23-14.18.44:315][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.23-14.18.44:323][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.23-14.18.44:345][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.23-14.18.44:346][  0]LogLinker: Warning: [AssetLog] C:\Users\Student\Desktop\temp\AdvancedGraphicsGit\SeaSerpent\Content\ThirdPerson\Blueprints\BP_ThirdPersonGameMode.uasset: VerifyImport: Failed to load package for import object 'Package /Game/ThirdPerson/Blueprints/Ch_Snake'
+[2024.12.23-14.18.44:359][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.12.23-14.18.44:359][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.23-14.18.44:360][  0]LoadErrors: Error: The summary for the package '/Game/ThirdPerson/Blueprints/Ch_Snake' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.12.23-14.18.44:360][  0]LoadErrors: Error: The summary for the package '/Game/ThirdPerson/Blueprints/Ch_Snake' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.12.23-14.18.44:360][  0]LoadErrors: Error: The summary for the package '/Game/ThirdPerson/Blueprints/Ch_Snake' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.12.23-14.18.44:360][  0]LoadErrors: Error: The summary for the package '/Game/ThirdPerson/Blueprints/Ch_Snake' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.12.23-14.18.44:360][  0]LoadErrors: Error: The summary for the package '/Game/ThirdPerson/Blueprints/Ch_Snake' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.12.23-14.18.44:361][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.23-14.18.44:361][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-14.18.44:361][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-14.18.44:362][  0]LogWorldPartition: Can't find class descriptor '/Game/ThirdPerson/Blueprints/Ch_Snake.Ch_Snake_C' for loading '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Ch_Snake_C_UAID_00155D1E9B18F03002_1709306423', using '/Script/Engine.Actor'
+[2024.12.23-14.18.44:362][  0]LogWorldPartition: Warning: Unknown actor base class `/Game/ThirdPerson/Blueprints/Ch_Snake.Ch_Snake_C`: Actor: 'Ch_Snake_C_UAID_00155D1E9B18F03002_1709306423' (guid '922A06E9457B7A6508FCA7BFFCD88A49') from package '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N9/8FXOLDC0B2OFZ27NGS2OYI'
+[2024.12.23-14.18.44:401][  0]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2024.12.23-14.18.44:401][  0]LogWorldPartition: Display: WorldPartition initialize took 41.467 ms
+[2024.12.23-14.18.44:404][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.23-14.18.44:413][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.23-14.18.44:416][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.23-14.18.44:417][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.573ms to complete.
+[2024.12.23-14.18.44:437][  0]LogUnrealEdMisc: Total Editor Startup Time, took 590.229
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Total job queries 9,904, among them cache hits 0 (0.00%), DDC hits 4 (0.04%), Duplicates 2,034 (20.54%)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Tracking 7,870 distinct input hashes that result in 7,150 distinct outputs (90.85%)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: RAM used: 161.61 MiB of 819.20 MiB budget. Usage: 19.73%
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Shaders Compiled: 7,866
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Jobs assigned 7,866, completed 7,866 (100%)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Average time worker was idle: 1.01 s
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 238.36 s, longest 463.11 s
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Job execution time: average 5.51 s, max 159.91 s
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 243.87 s, max 570.82
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Shader code size: average 33.66 KiB, min 2.082 KiB, max 354.566 KiB
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 573.63 s
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Jobs were issued in 810 batches (only local compilation was used), average 9.71 jobs/batch
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Average processing rate: 13.71 jobs/sec
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Total thread time: 4,270.77 s
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Total thread preprocess time: 101.117 s
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Percentage time preprocessing: 2.37%
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Effective parallelization: 7.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 9
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 17.72 sec, max 17.72 sec, min 17.72 sec)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.37 sec, max 6.40 sec, min 3.58 sec)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 4.23 sec, max 4.23 sec, min 4.23 sec)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 4.03 sec, max 4.03 sec, min 4.03 sec)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 19.36% of total time (compiled  728 times, average 1.14 sec, max 4.12 sec, min 0.21 sec)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 16.78% of total time (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 5.06% of total time (compiled  448 times, average 0.48 sec, max 1.62 sec, min 0.20 sec)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.92% of total time (compiled  225 times, average 0.93 sec, max 3.77 sec, min 0.43 sec)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.77% of total time (compiled   80 times, average 2.55 sec, max 6.03 sec, min 0.58 sec)
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: === Material stats ===
+[2024.12.23-14.18.44:450][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.23-14.18.44:452][  0]LogShaderCompilers: Display: Materials Translated:    220
+[2024.12.23-14.18.44:452][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2024.12.23-14.18.44:452][  0]LogShaderCompilers: Display: Material Translation Only: 0.08 s (44%)
+[2024.12.23-14.18.44:452][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.23-14.18.44:452][  0]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.23-14.18.44:452][  0]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.18.44:585][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.18.44:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.18.44:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.18.44:617][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.18.44:618][  0]LogSlate: The tab "AvalancheOutliner1" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.12.23-14.18.44:633][  0]LogSlate: The tab "AvalancheOutliner1" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.12.23-14.18.44:664][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.23-14.18.44:664][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.4/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.12.23-14.18.44:665][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.23-14.18.44:665][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.4/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.12.23-14.18.44:665][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.23-14.18.44:665][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.4/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.12.23-14.18.44:666][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.23-14.18.44:666][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.4/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.12.23-14.18.44:666][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.23-14.18.44:666][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.4/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.12.23-14.18.44:667][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.23-14.18.44:667][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.4/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.12.23-14.18.44:667][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.23-14.18.44:667][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.4/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.12.23-14.18.44:667][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.23-14.18.44:667][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.4/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.12.23-14.18.44:668][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.23-14.18.44:668][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.4/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.12.23-14.18.44:668][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.23-14.18.44:668][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.4/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.12.23-14.18.44:860][  0]LogAssetRegistry: Display: Asset registry cache written as 53.7 MiB to ../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Intermediate/CachedAssetRegistry_*.bin
+[2024.12.23-14.18.45:148][  0]LogSlate: External Image Picker: DecompressImage failed
+[2024.12.23-14.18.45:376][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.12.23-14.18.45:379][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.12.23-14.18.45:380][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.12.23-14.18.45:380][  0]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.12.23-14.19.01:685][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.19.01:708][  0]LogStall: Startup...
+[2024.12.23-14.19.01:712][  0]LogStall: Startup complete.
+[2024.12.23-14.19.01:746][  0]LogLoad: (Engine Initialization) Total time: 607.54 seconds
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Total job queries 10,031, among them cache hits 0 (0.00%), DDC hits 4 (0.04%), Duplicates 2,040 (20.34%)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Tracking 7,991 distinct input hashes that result in 7,150 distinct outputs (89.48%)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: RAM used: 161.61 MiB of 819.20 MiB budget. Usage: 19.73%
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Shaders Compiled: 7,866
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Jobs assigned 7,875, completed 7,866 (99.89%)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Average time worker was idle: 1.31 s
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 238.09 s, longest 463.11 s
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Job execution time: average 5.51 s, max 159.91 s
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 243.87 s, max 570.82
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Shader code size: average 33.66 KiB, min 2.082 KiB, max 354.566 KiB
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 573.63 s
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Jobs were issued in 819 batches (only local compilation was used), average 9.62 jobs/batch
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Average processing rate: 13.71 jobs/sec
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Total thread time: 4,270.77 s
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Total thread preprocess time: 101.117 s
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Percentage time preprocessing: 2.37%
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Effective parallelization: 7.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 9
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 17.72 sec, max 17.72 sec, min 17.72 sec)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.37 sec, max 6.40 sec, min 3.58 sec)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 4.23 sec, max 4.23 sec, min 4.23 sec)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 4.03 sec, max 4.03 sec, min 4.03 sec)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 19.36% of total time (compiled  728 times, average 1.14 sec, max 4.12 sec, min 0.21 sec)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 16.78% of total time (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 5.06% of total time (compiled  448 times, average 0.48 sec, max 1.62 sec, min 0.20 sec)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.92% of total time (compiled  225 times, average 0.93 sec, max 3.77 sec, min 0.43 sec)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.77% of total time (compiled   80 times, average 2.55 sec, max 6.03 sec, min 0.58 sec)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: === Material stats ===
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Materials Translated:    221
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Material Translation Only: 0.08 s (44%)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.23-14.19.01:774][  0]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.19.01:809][  0]LogAssetRegistry: AssetRegistryGather time 0.6356s: AssetDataDiscovery 0.2794s, AssetDataGather 0.3114s, StoreResults 0.0449s.
+	NumCachedDirectories 0. NumUncachedDirectories 1890. NumCachedFiles 8775. NumUncachedFiles 690.
+[2024.12.23-14.19.01:876][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.12.23-14.19.01:879][  0]LogAvaFont: Warning: No composite font found for font SmallFont
+[2024.12.23-14.19.01:879][  0]LogAvaFont: Warning: No composite font found for font SmallFont
+[2024.12.23-14.19.01:879][  0]LogAvaFont: Warning: No composite font found for font TinyFont
+[2024.12.23-14.19.01:941][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2024.12.23-14.19.01:955][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.12.23-14.19.01:955][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2024.12.23-14.19.02:161][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.12.23-14.19.02:165][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.12.23-14.19.02:168][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.12.23-14.19.02:169][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.12.23-14.19.02:399][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.12.23-14.19.02:405][  0]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.054464 secs
+[2024.12.23-14.19.02:407][  0]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Python/init_unreal.py': 0.002292 secs
+[2024.12.23-14.19.02:435][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/' took 0.66s
+[2024.12.23-14.19.02:482][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.12.23-14.19.02:501][  1]LogSourceControl: Uncontrolled asset enumeration finished in 0.62477 seconds (Found 9440 uncontrolled assets)
+[2024.12.23-14.19.06:738][155]LogSlate: Window 'Message Log' being destroyed
+[2024.12.23-14.19.06:749][155]LogSlate: Window 'Message Log' being destroyed
+[2024.12.23-14.19.16:836][782]LogSlate: Took 0.000930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.23-14.19.19:563][959]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPerson/Blueprints/DragonSkull_8B4956E8.DragonSkull_8B4956E8
+[2024.12.23-14.19.19:567][959]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ThirdPerson/Blueprints/DragonSkull_8B4956E8) ...
+[2024.12.23-14.19.19:813][959]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.12.23-14.19.19:840][959]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.12.23-14.19.22:902][ 23]LogSlate: Window 'DragonSkull_8B4956E8' being destroyed
+[2024.12.23-14.19.22:912][ 23]LogSlate: Window 'DragonSkull_8B4956E8' being destroyed
+[2024.12.23-14.19.22:973][ 23]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.19.22:973][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.19.23:007][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.23-14.19.27:774][342]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPerson/Blueprints/M_Ghost.M_Ghost
+[2024.12.23-14.19.28:099][342]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.19.28:099][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.19.28:099][342]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.19.28:099][342]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.19.28:113][342]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.23-14.19.28:267][344]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.19.28:267][344]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.19.28:267][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.19.28:267][344]MaterialEditorStats: Shader Count: 2
+[2024.12.23-14.19.28:267][344]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.19.30:813][477]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.19.30:813][477]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.23-14.19.30:813][477]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.19.30:813][477]MaterialEditorStats: Shader Count: 3
+[2024.12.23-14.19.30:813][477]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.19.30:905][479]MaterialEditorStats: Base pass shader: 313 instructions
+[2024.12.23-14.19.30:905][479]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.19.30:905][479]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.19.30:905][479]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.19.30:905][479]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.19.30:905][479]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.20.52:937][681]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.20.52:937][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.20.52:937][681]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.20.52:937][681]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.20.53:018][683]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.20.53:018][683]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.20.53:018][683]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.20.53:018][683]MaterialEditorStats: Shader Count: 2
+[2024.12.23-14.20.53:018][683]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.20.54:301][785]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.20.54:301][785]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.23-14.20.54:301][785]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.20.54:301][785]MaterialEditorStats: Shader Count: 3
+[2024.12.23-14.20.54:301][785]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.20.54:405][792]MaterialEditorStats: Base pass shader: 311 instructions
+[2024.12.23-14.20.54:405][792]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.20.54:405][792]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.20.54:405][792]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.20.54:405][792]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.20.54:405][792]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Total job queries 10,116, among them cache hits 22 (0.22%), DDC hits 4 (0.04%), Duplicates 2,045 (20.22%)
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Tracking 8,049 distinct input hashes that result in 7,295 distinct outputs (90.63%)
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: RAM used: 166.50 MiB of 819.20 MiB budget. Usage: 20.33%
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Shaders Compiled: 8,045
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Jobs assigned 8,045, completed 8,045 (100%)
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Average time worker was idle: 1.39 s
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Time job spent in pending queue: average 233.24 s, longest 463.11 s
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Job execution time: average 5.59 s, max 159.91 s
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Job life time (pending + execution): average 238.82 s, max 570.82
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Shader code size: average 33.992 KiB, min 2.082 KiB, max 354.566 KiB
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 614.98 s
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Jobs were issued in 906 batches (only local compilation was used), average 8.88 jobs/batch
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Average processing rate: 13.08 jobs/sec
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Total thread time: 4,545.258 s
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Total thread preprocess time: 105.041 s
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Percentage time preprocessing: 2.31%
+[2024.12.23-14.22.01:783][255]LogShaderCompilers: Display: Effective parallelization: 7.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 17.72 sec, max 17.72 sec, min 17.72 sec)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.37 sec, max 6.40 sec, min 3.58 sec)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 4.23 sec, max 4.23 sec, min 4.23 sec)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 4.03 sec, max 4.03 sec, min 4.03 sec)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display:                                             FDeferredLightPS - 18.19% of total time (compiled  728 times, average 1.14 sec, max 4.12 sec, min 0.21 sec)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 15.77% of total time (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.76% of total time (compiled  448 times, average 0.48 sec, max 1.62 sec, min 0.20 sec)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.62% of total time (compiled  225 times, average 0.93 sec, max 3.77 sec, min 0.43 sec)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.48% of total time (compiled   80 times, average 2.55 sec, max 6.03 sec, min 0.58 sec)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display: === Material stats ===
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display: Materials Translated:    234
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display: Material Translation Only: 0.09 s (47%)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.23-14.22.01:784][255]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.22.32:075][617]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.22.32:075][617]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.22.32:075][617]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.22.32:075][617]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.22.32:135][619]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.22.32:135][619]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.22.32:135][619]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.22.32:135][619]MaterialEditorStats: Shader Count: 2
+[2024.12.23-14.22.32:135][619]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.22.33:594][714]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.22.33:594][714]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.23-14.22.33:594][714]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.22.33:594][714]MaterialEditorStats: Shader Count: 3
+[2024.12.23-14.22.33:594][714]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.22.33:697][721]MaterialEditorStats: Base pass shader: 311 instructions
+[2024.12.23-14.22.33:697][721]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.22.33:697][721]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.22.33:697][721]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.22.33:697][721]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.22.33:697][721]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.22.53:872][247]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.22.53:872][247]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.22.53:872][247]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.22.53:872][247]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.22.54:657][291]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.22.54:657][291]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.22.54:657][291]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.22.54:657][291]MaterialEditorStats: Shader Count: 3
+[2024.12.23-14.22.54:657][291]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.22.54:852][305]MaterialEditorStats: Base pass shader: 154 instructions
+[2024.12.23-14.22.54:852][305]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.22.54:852][305]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.22.54:852][305]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.22.54:852][305]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.22.54:852][305]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.23.27:966][895]LogEditorTransaction: Undo Move Node
+[2024.12.23-14.23.29:231][959]LogEditorTransaction: Undo Material Editor: Delete
+[2024.12.23-14.23.29:248][959]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.23.29:248][959]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.23.29:248][959]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.23.29:248][959]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.23.29:319][961]MaterialEditorStats: Base pass shader: 311 instructions
+[2024.12.23-14.23.29:319][961]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.23.29:319][961]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.23.29:319][961]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.23.29:319][961]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.23.29:319][961]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.23.52:329][747]LogMaterialEditor: Saving and Compiling material M_Ghost
+[2024.12.23-14.23.52:396][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.23-14.23.55:182][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.23-14.23.55:206][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.23.55:237][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/M_Ghost] ([1] browsable assets)...
+[2024.12.23-14.23.55:293][747]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPerson/Blueprints/M_Ghost.M_Ghost]
+[2024.12.23-14.23.55:293][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/M_Ghost]
+[2024.12.23-14.23.55:310][747]LogPackageLocalizationCache: Processed 94 localized package path(s) for 1 prioritized culture(s) in 0.013086 seconds
+[2024.12.23-14.23.55:319][747]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/M_Ghost
+[2024.12.23-14.23.55:320][747]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/M_Ghost7891F7CE489E28C1EB285FA9F02B1118.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/M_Ghost.uasset'
+[2024.12.23-14.23.55:336][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.850 ms
+[2024.12.23-14.23.55:386][747]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.23.55:386][747]LogContentValidation: Enabled validators:
+[2024.12.23-14.23.55:387][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.23.55:387][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.23.55:387][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.23.55:387][747]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/M_Ghost.M_Ghost
+[2024.12.23-14.23.55:387][747]AssetCheck: /Game/ThirdPerson/Blueprints/M_Ghost Validating asset
+[2024.12.23-14.23.55:397][747]MaterialEditorStats: Base pass shader: 311 instructions
+[2024.12.23-14.23.55:397][747]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.23.55:397][747]MaterialEditorStats: MaxSampler: 379 instructions
+[2024.12.23-14.23.55:397][747]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.23-14.23.55:397][747]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.23.55:397][747]MaterialEditorStats: Shader Count: 23
+[2024.12.23-14.23.55:397][747]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.24.09:281][977]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.24.09:281][977]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.24.09:281][977]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.24.09:281][977]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.24.09:386][980]MaterialEditorStats: Base pass shader: 311 instructions
+[2024.12.23-14.24.09:386][980]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.24.09:386][980]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.24.09:386][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.24.09:386][980]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.24.09:386][980]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.24.45:037][  4]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.24.45:037][  4]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.24.45:037][  4]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.24.45:037][  4]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.24.45:104][  6]MaterialEditorStats: Base pass shader: 154 instructions
+[2024.12.23-14.24.45:104][  6]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.24.45:104][  6]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.24.45:105][  6]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.24.45:105][  6]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.24.45:105][  6]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Total job queries 10,174, among them cache hits 58 (0.57%), DDC hits 4 (0.04%), Duplicates 2,045 (20.10%)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Tracking 8,071 distinct input hashes that result in 7,307 distinct outputs (90.53%)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: RAM used: 166.79 MiB of 819.20 MiB budget. Usage: 20.36%
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Shaders Compiled: 8,067
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Jobs assigned 8,067, completed 8,067 (100%)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Average time worker was idle: 3.38 s
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Time job spent in pending queue: average 232.60 s, longest 463.11 s
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Job execution time: average 5.57 s, max 159.91 s
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Job life time (pending + execution): average 238.18 s, max 570.82
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Shader code size: average 33.997 KiB, min 2.082 KiB, max 354.566 KiB
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 620.19 s
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Jobs were issued in 928 batches (only local compilation was used), average 8.69 jobs/batch
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Average processing rate: 13.01 jobs/sec
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Total thread time: 4,563.207 s
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Total thread preprocess time: 105.836 s
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Percentage time preprocessing: 2.32%
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Effective parallelization: 7.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 17.72 sec, max 17.72 sec, min 17.72 sec)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.37 sec, max 6.40 sec, min 3.58 sec)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 4.23 sec, max 4.23 sec, min 4.23 sec)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 4.03 sec, max 4.03 sec, min 4.03 sec)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display:                                             FDeferredLightPS - 18.12% of total time (compiled  728 times, average 1.14 sec, max 4.12 sec, min 0.21 sec)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 15.71% of total time (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.74% of total time (compiled  448 times, average 0.48 sec, max 1.62 sec, min 0.20 sec)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.60% of total time (compiled  225 times, average 0.93 sec, max 3.77 sec, min 0.43 sec)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.47% of total time (compiled   80 times, average 2.55 sec, max 6.03 sec, min 0.58 sec)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: === Material stats ===
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Materials Translated:    242
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Material Translation Only: 0.10 s (47%)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.23-14.25.01:787][395]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.25.12:899][321]LogMaterialEditor: Saving and Compiling material M_Ghost
+[2024.12.23-14.25.12:952][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.23-14.25.16:157][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.23-14.25.16:264][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.25.16:320][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/M_Ghost] ([1] browsable assets)...
+[2024.12.23-14.25.16:407][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPerson/Blueprints/M_Ghost.M_Ghost]
+[2024.12.23-14.25.16:407][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/M_Ghost]
+[2024.12.23-14.25.16:409][321]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/M_Ghost
+[2024.12.23-14.25.16:410][321]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/M_Ghost3F5A1FF64EA4D1F6DE6EEBAFBD3B47B5.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/M_Ghost.uasset'
+[2024.12.23-14.25.16:421][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.750 ms (total: 287.600 ms)
+[2024.12.23-14.25.16:467][321]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.25.16:467][321]LogContentValidation: Enabled validators:
+[2024.12.23-14.25.16:467][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.25.16:467][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.25.16:467][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.25.16:467][321]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/M_Ghost.M_Ghost
+[2024.12.23-14.25.16:467][321]AssetCheck: /Game/ThirdPerson/Blueprints/M_Ghost Validating asset
+[2024.12.23-14.25.16:477][321]MaterialEditorStats: Base pass shader: 273 instructions
+[2024.12.23-14.25.16:477][321]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.25.16:477][321]MaterialEditorStats: MaxSampler: 349 instructions
+[2024.12.23-14.25.16:477][321]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.23-14.25.16:477][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.25.16:477][321]MaterialEditorStats: Shader Count: 23
+[2024.12.23-14.25.16:477][321]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.25.29:657][481]LogSlate: Window 'M_Ghost' being destroyed
+[2024.12.23-14.25.29:662][481]LogSlate: Window 'M_Ghost' being destroyed
+[2024.12.23-14.25.29:679][481]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.25.29:679][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.25.29:698][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.23-14.25.34:290][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.23-14.25.35:620][948]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.23-14.25.35:655][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.23-14.25.35:665][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.23-14.25.35:674][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.12.23-14.25.38:406][209]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.12.23-14.25.38:467][209]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.12.23-14.25.38:478][210]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.12.23-14.25.43:107][755]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Ghost
+[2024.12.23-14.25.43:110][755]LogContentBrowser: End creating deferred item NewMaterial
+[2024.12.23-14.25.44:810][928]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPerson/Blueprints/M_Ghost.M_Ghost
+[2024.12.23-14.25.45:059][928]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.25.45:059][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.25.45:059][928]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.25.45:059][928]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.25.45:947][982]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.25.45:947][982]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.25.45:947][982]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.25.45:947][982]MaterialEditorStats: Shader Count: 2
+[2024.12.23-14.25.45:947][982]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.25.47:148][ 65]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.25.47:148][ 65]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.23-14.25.47:148][ 65]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.25.47:148][ 65]MaterialEditorStats: Shader Count: 3
+[2024.12.23-14.25.47:148][ 65]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.25.47:821][129]MaterialEditorStats: Base pass shader: 291 instructions
+[2024.12.23-14.25.47:821][129]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.25.47:821][129]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.25.47:821][129]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.25.47:821][129]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.25.47:821][129]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.25.57:783][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_6 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_6 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_6
+[2024.12.23-14.25.57:783][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_6.MaterialExpressionMultiply_0'")'
+[2024.12.23-14.25.57:783][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_7 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_7 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_7
+[2024.12.23-14.25.57:783][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_7.MaterialExpressionMultiply_1'")'
+[2024.12.23-14.25.57:783][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_9 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_9 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_9
+[2024.12.23-14.25.57:783][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionFresnel'MaterialGraphNode_9.MaterialExpressionFresnel_0'")'
+[2024.12.23-14.25.57:784][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_2 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_2 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_2
+[2024.12.23-14.25.57:784][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVectorParameter'MaterialGraphNode_2.MaterialExpressionVectorParameter_0'",OutputIndex=4,Mask=1,MaskA=1)'
+[2024.12.23-14.25.57:784][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_4 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_4 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_4
+[2024.12.23-14.25.57:784][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_4.MaterialExpressionScalarParameter_0'")'
+[2024.12.23-14.25.57:785][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_3 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_3 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_3
+[2024.12.23-14.25.57:785][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVectorParameter'MaterialGraphNode_3.MaterialExpressionVectorParameter_1'",OutputIndex=4,Mask=1,MaskA=1)'
+[2024.12.23-14.25.57:785][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_5 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_5 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_5
+[2024.12.23-14.25.57:785][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_5.MaterialExpressionScalarParameter_1'")'
+[2024.12.23-14.25.57:785][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_2 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_2 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_2
+[2024.12.23-14.25.57:785][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVectorParameter'MaterialGraphNode_2.MaterialExpressionVectorParameter_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2024.12.23-14.25.57:785][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_3 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_3 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_3
+[2024.12.23-14.25.57:785][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVectorParameter'MaterialGraphNode_3.MaterialExpressionVectorParameter_1'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2024.12.23-14.25.57:785][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_9 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_9 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_9
+[2024.12.23-14.25.57:785][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionFresnel'MaterialGraphNode_9.MaterialExpressionFresnel_0'")'
+[2024.12.23-14.25.57:785][938]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_10 while ResolveName, will return /Engine/Transient.M_Ghost:MaterialGraph_0.MaterialGraphNode_10 but could also be: /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_10
+[2024.12.23-14.25.57:785][938]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_10.MaterialExpressionScalarParameter_2'")'
+[2024.12.23-14.25.57:796][938]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.25.57:796][938]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.25.57:796][938]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.25.57:796][938]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.25.57:860][940]MaterialEditorStats: Base pass shader: 291 instructions
+[2024.12.23-14.25.57:860][940]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.25.57:860][940]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.25.57:860][940]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.25.57:860][940]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.25.57:860][940]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.26.06:074][681]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.26.06:074][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.06:074][681]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.26.06:074][681]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.26.06:158][684]MaterialEditorStats: Base pass shader: 154 instructions
+[2024.12.23-14.26.06:158][684]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.26.06:158][684]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.26.06:158][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.06:158][684]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.26.06:158][684]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.26.09:999][ 28]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.26.09:999][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.09:999][ 28]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.26.09:999][ 28]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.26.10:097][ 31]MaterialEditorStats: Base pass shader: 291 instructions
+[2024.12.23-14.26.10:097][ 31]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.26.10:097][ 31]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.26.10:097][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.10:097][ 31]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.26.10:097][ 31]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2024.12.23-14.26.22:758][ 46]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.26.22:758][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.22:758][ 46]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.26.22:758][ 46]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.26.23:577][ 93]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.26.23:577][ 93]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.26.23:577][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.23:577][ 93]MaterialEditorStats: Shader Count: 2
+[2024.12.23-14.26.23:577][ 93]MaterialEditorStats: Preshaders: 5  (5 param fetches, 9 ops)
+[2024.12.23-14.26.24:437][167]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.26.24:437][167]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.24:437][167]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.26.24:437][167]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.26.25:011][197]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.26.25:011][197]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.26.25:011][197]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.25:011][197]MaterialEditorStats: Shader Count: 1
+[2024.12.23-14.26.25:011][197]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.26.26:264][278]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.26.26:264][278]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.23-14.26.26:264][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.26:264][278]MaterialEditorStats: Shader Count: 3
+[2024.12.23-14.26.26:264][278]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.26.26:669][286]MaterialEditorStats: Base pass shader: 687 instructions
+[2024.12.23-14.26.26:669][286]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.26.26:669][286]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.26.26:669][286]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.26:669][286]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.26.26:669][286]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.26.35:957][  0]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.26.35:957][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.35:957][  0]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.26.35:957][  0]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.26.35:998][  3]MaterialEditorStats: Base pass shader: 687 instructions
+[2024.12.23-14.26.35:998][  3]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.26.35:998][  3]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.26.35:998][  3]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.35:998][  3]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.26.35:998][  3]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.26.43:436][569]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.26.43:437][569]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.43:437][569]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.26.43:437][569]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.26.43:486][572]MaterialEditorStats: Base pass shader: 687 instructions
+[2024.12.23-14.26.43:486][572]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.26.43:486][572]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.26.43:486][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.43:486][572]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.26.43:486][572]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.26.48:349][939]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.26.48:349][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.48:349][939]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.26.48:349][939]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.26.48:390][942]MaterialEditorStats: Base pass shader: 687 instructions
+[2024.12.23-14.26.48:390][942]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.26.48:390][942]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.26.48:390][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.26.48:390][942]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.26.48:390][942]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.27.21:777][623]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.27.21:777][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.27.21:777][623]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.27.21:777][623]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.27.21:827][626]MaterialEditorStats: Base pass shader: 687 instructions
+[2024.12.23-14.27.21:827][626]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.27.21:827][626]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.27.21:827][626]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.27.21:827][626]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.27.21:827][626]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.27.25:630][902]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.27.25:630][902]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.27.25:630][902]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.27.25:630][902]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.27.25:675][905]MaterialEditorStats: Base pass shader: 687 instructions
+[2024.12.23-14.27.25:675][905]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.27.25:675][905]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.23-14.27.25:675][905]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.27.25:675][905]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.27.25:675][905]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.27.27:875][ 80]LogMaterialEditor: Saving and Compiling material M_Ghost
+[2024.12.23-14.27.27:943][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.23-14.27.31:659][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.23-14.27.31:762][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.27.31:820][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/M_Ghost] ([1] browsable assets)...
+[2024.12.23-14.27.31:846][ 80]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPerson/Blueprints/M_Ghost.M_Ghost]
+[2024.12.23-14.27.31:846][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/M_Ghost]
+[2024.12.23-14.27.31:848][ 80]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/M_Ghost
+[2024.12.23-14.27.31:848][ 80]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/M_Ghost2546DFC745A6C6A782069EA46CAFEE9F.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/M_Ghost.uasset'
+[2024.12.23-14.27.31:858][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.136 ms (total: 383.736 ms)
+[2024.12.23-14.27.31:920][ 80]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.27.31:920][ 80]LogContentValidation: Enabled validators:
+[2024.12.23-14.27.31:920][ 80]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.27.31:920][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.27.31:920][ 80]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.27.31:920][ 80]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/M_Ghost.M_Ghost
+[2024.12.23-14.27.31:920][ 80]AssetCheck: /Game/ThirdPerson/Blueprints/M_Ghost Validating asset
+[2024.12.23-14.27.31:932][ 80]MaterialEditorStats: Base pass shader: 687 instructions
+[2024.12.23-14.27.31:932][ 80]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2024.12.23-14.27.31:932][ 80]MaterialEditorStats: MaxSampler: 764 instructions
+[2024.12.23-14.27.31:932][ 80]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.23-14.27.31:932][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.27.31:932][ 80]MaterialEditorStats: Shader Count: 23
+[2024.12.23-14.27.31:932][ 80]MaterialEditorStats: Preshaders: 7  (9 param fetches, 17 ops)
+[2024.12.23-14.27.41:150][ 15]LogContentBrowser: Deferred new asset file creation: M_Ghost_Inst
+[2024.12.23-14.27.41:160][ 15]LogContentBrowser: Creating deferred item: M_Ghost_Inst
+[2024.12.23-14.27.41:169][ 16]LogContentBrowser: Renaming the item being created (Deferred Item: M_Ghost_Inst).
+[2024.12.23-14.27.47:236][722]LogContentBrowser: Attempting asset rename: M_Ghost_Inst -> M_Ghost_Inst
+[2024.12.23-14.27.47:237][722]LogContentBrowser: End creating deferred item M_Ghost_Inst
+[2024.12.23-14.27.48:236][810]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPerson/Blueprints/M_Ghost_Inst.M_Ghost_Inst
+[2024.12.23-14.27.48:578][810]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.23-14.28.01:794][ 39]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.28.01:794][ 39]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Total job queries 10,312, among them cache hits 150 (1.45%), DDC hits 4 (0.04%), Duplicates 2,045 (19.83%)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Tracking 8,117 distinct input hashes that result in 7,333 distinct outputs (90.34%)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: RAM used: 167.49 MiB of 819.20 MiB budget. Usage: 20.45%
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Shaders Compiled: 8,113
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Jobs assigned 8,113, completed 8,113 (100%)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Average time worker was idle: 4.95 s
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Time job spent in pending queue: average 231.29 s, longest 463.11 s
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Job execution time: average 5.55 s, max 159.91 s
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Job life time (pending + execution): average 236.84 s, max 570.82
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Shader code size: average 34.02 KiB, min 2.082 KiB, max 354.566 KiB
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 632.87 s
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Jobs were issued in 974 batches (only local compilation was used), average 8.33 jobs/batch
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Average processing rate: 12.82 jobs/sec
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Total thread time: 4,610.887 s
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Total thread preprocess time: 107.936 s
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Percentage time preprocessing: 2.34%
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Effective parallelization: 7.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 17.72 sec, max 17.72 sec, min 17.72 sec)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.37 sec, max 6.40 sec, min 3.58 sec)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 4.23 sec, max 4.23 sec, min 4.23 sec)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 4.03 sec, max 4.03 sec, min 4.03 sec)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display:                                             FDeferredLightPS - 17.93% of total time (compiled  728 times, average 1.14 sec, max 4.12 sec, min 0.21 sec)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 15.54% of total time (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.69% of total time (compiled  448 times, average 0.48 sec, max 1.62 sec, min 0.20 sec)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.55% of total time (compiled  225 times, average 0.93 sec, max 3.77 sec, min 0.43 sec)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.42% of total time (compiled   80 times, average 2.55 sec, max 6.03 sec, min 0.58 sec)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: === Material stats ===
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Materials Translated:    265
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Material Translation Only: 0.11 s (49%)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.23-14.28.01:795][ 39]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.29.01:767][209]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2024.12.23-14.29.08:583][996]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.29.08:583][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.29.08:583][996]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.29.08:583][996]MaterialEditorStats: Preshaders: 8  (10 param fetches, 18 ops)
+[2024.12.23-14.29.09:623][ 52]MaterialEditorStats: Base pass vertex shader: 290 instructions
+[2024.12.23-14.29.09:623][ 52]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.23-14.29.09:623][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.29.09:623][ 52]MaterialEditorStats: Shader Count: 2
+[2024.12.23-14.29.09:623][ 52]MaterialEditorStats: Preshaders: 8  (10 param fetches, 18 ops)
+[2024.12.23-14.29.23:372][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.23-14.29.25:388][297]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.23-14.29.25:420][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.23-14.29.25:476][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.23-14.29.25:492][297]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.29.25:492][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.29.25:504][297]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/M_Ghost_Inst.M_Ghost_Inst
+	Asset Type: MaterialInstanceConstant
+[2024.12.23-14.29.25:772][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.23-14.29.25:784][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.23-14.29.25:793][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.23-14.29.25:807][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.23-14.29.43:038][693]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.29.43:039][693]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.29.43:039][693]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.29.43:039][693]MaterialEditorStats: Preshaders: 8  (10 param fetches, 18 ops)
+[2024.12.23-14.29.43:100][695]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.23-14.29.43:100][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.29.43:100][695]MaterialEditorStats: Shader Count: 2
+[2024.12.23-14.29.43:100][695]MaterialEditorStats: Preshaders: 8  (10 param fetches, 18 ops)
+[2024.12.23-14.29.43:111][696]MaterialEditorStats: Base pass vertex shader: 290 instructions
+[2024.12.23-14.29.43:111][696]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.23-14.29.43:111][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.29.43:111][696]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.29.43:111][696]MaterialEditorStats: Preshaders: 8  (10 param fetches, 18 ops)
+[2024.12.23-14.29.43:678][738]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.23-14.29.43:678][738]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.29.43:678][738]MaterialEditorStats: Shader Count: 0
+[2024.12.23-14.29.43:678][738]MaterialEditorStats: Preshaders: 8  (10 param fetches, 18 ops)
+[2024.12.23-14.29.43:738][740]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.23-14.29.43:738][740]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.29.43:738][740]MaterialEditorStats: Shader Count: 2
+[2024.12.23-14.29.43:738][740]MaterialEditorStats: Preshaders: 8  (10 param fetches, 18 ops)
+[2024.12.23-14.29.43:748][741]MaterialEditorStats: Base pass vertex shader: 290 instructions
+[2024.12.23-14.29.43:748][741]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.23-14.29.43:749][741]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.29.43:749][741]MaterialEditorStats: Shader Count: 4
+[2024.12.23-14.29.43:749][741]MaterialEditorStats: Preshaders: 8  (10 param fetches, 18 ops)
+[2024.12.23-14.30.00:669][ 66]LogMaterialEditor: Saving and Compiling material M_Ghost
+[2024.12.23-14.30.00:736][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.23-14.30.05:355][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.12.23-14.30.05:482][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.30.05:538][ 66]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/M_Ghost] ([1] browsable assets)...
+[2024.12.23-14.30.05:564][ 66]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPerson/Blueprints/M_Ghost.M_Ghost]
+[2024.12.23-14.30.05:564][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/M_Ghost]
+[2024.12.23-14.30.05:566][ 66]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/M_Ghost
+[2024.12.23-14.30.05:567][ 66]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/M_Ghost821FFD734BCE1F2BD544B7A419C6DC04.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/M_Ghost.uasset'
+[2024.12.23-14.30.05:577][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.445 ms (total: 478.182 ms)
+[2024.12.23-14.30.05:619][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.30.05:619][ 66]LogContentValidation: Enabled validators:
+[2024.12.23-14.30.05:619][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.30.05:619][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.30.05:619][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.30.05:619][ 66]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/M_Ghost.M_Ghost
+[2024.12.23-14.30.05:619][ 66]AssetCheck: /Game/ThirdPerson/Blueprints/M_Ghost Validating asset
+[2024.12.23-14.30.05:630][ 66]MaterialEditorStats: Base pass shader: 264 instructions
+[2024.12.23-14.30.05:630][ 66]MaterialEditorStats: Base pass vertex shader: 290 instructions
+[2024.12.23-14.30.05:631][ 66]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.23-14.30.05:631][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.23-14.30.05:631][ 66]MaterialEditorStats: Shader Count: 29
+[2024.12.23-14.30.05:631][ 66]MaterialEditorStats: Preshaders: 8  (10 param fetches, 18 ops)
+[2024.12.23-14.30.13:793][811]LogContentBrowser: Deferred new asset file creation: M_Ghost_Inst
+[2024.12.23-14.30.13:811][811]LogContentBrowser: Creating deferred item: M_Ghost_Inst
+[2024.12.23-14.30.13:822][812]LogContentBrowser: Renaming the item being created (Deferred Item: M_Ghost_Inst).
+[2024.12.23-14.30.14:786][925]LogContentBrowser: Attempting asset rename: M_Ghost_Inst -> M_Ghost_Inst
+[2024.12.23-14.30.14:786][925]LogContentBrowser: End creating deferred item M_Ghost_Inst
+[2024.12.23-14.30.15:469][988]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPerson/Blueprints/M_Ghost_Inst.M_Ghost_Inst
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Total job queries 10,367, among them cache hits 181 (1.75%), DDC hits 4 (0.04%), Duplicates 2,045 (19.73%)
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Tracking 8,141 distinct input hashes that result in 7,347 distinct outputs (90.25%)
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: RAM used: 167.98 MiB of 819.20 MiB budget. Usage: 20.51%
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Shaders Compiled: 8,137
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Jobs assigned 8,137, completed 8,137 (100%)
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Average time worker was idle: 6.03 s
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Time job spent in pending queue: average 230.61 s, longest 463.11 s
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Job execution time: average 5.54 s, max 159.91 s
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Job life time (pending + execution): average 236.14 s, max 570.82
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Shader code size: average 34.053 KiB, min 2.082 KiB, max 354.566 KiB
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 639.68 s
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Jobs were issued in 998 batches (only local compilation was used), average 8.15 jobs/batch
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Average processing rate: 12.72 jobs/sec
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Total thread time: 4,641.24 s
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Total thread preprocess time: 108.834 s
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Percentage time preprocessing: 2.34%
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Effective parallelization: 7.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 17.72 sec, max 17.72 sec, min 17.72 sec)
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.37 sec, max 6.40 sec, min 3.58 sec)
+[2024.12.23-14.31.01:798][459]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 4.23 sec, max 4.23 sec, min 4.23 sec)
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 4.03 sec, max 4.03 sec, min 4.03 sec)
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display:                                             FDeferredLightPS - 17.82% of total time (compiled  728 times, average 1.14 sec, max 4.12 sec, min 0.21 sec)
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 15.44% of total time (compiled   27 times, average 26.54 sec, max 79.22 sec, min 1.85 sec)
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.66% of total time (compiled  448 times, average 0.48 sec, max 1.62 sec, min 0.20 sec)
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.52% of total time (compiled  225 times, average 0.93 sec, max 3.77 sec, min 0.43 sec)
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.39% of total time (compiled   80 times, average 2.55 sec, max 6.03 sec, min 0.58 sec)
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display: === Material stats ===
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display: Materials Translated:    276
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display: Material Translation Only: 0.11 s (49%)
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.23-14.31.01:799][459]LogShaderCompilers: Display: ================================================
+[2024.12.23-14.31.38:556][ 71]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.23-14.32.05:031][539]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.23-14.32.09:893][855]LogSlate: Window 'Save Asset As' being destroyed
+[2024.12.23-14.32.14:013][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.23-14.32.15:695][268]LogSlate: Window 'Save Content' being destroyed
+[2024.12.23-14.32.15:716][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.32.15:768][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/M_Ghost_Inst] ([1] browsable assets)...
+[2024.12.23-14.32.15:819][268]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Blueprints/M_Ghost_Inst.M_Ghost_Inst]
+[2024.12.23-14.32.15:819][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/M_Ghost_Inst]
+[2024.12.23-14.32.15:827][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.23-14.32.15:836][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.23-14.32.15:839][268]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/M_Ghost_Inst
+[2024.12.23-14.32.15:839][268]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/M_Ghost_Inst5A7ADC3A4DBB667F9017C19DA6D87CD1.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/M_Ghost_Inst.uasset'
+[2024.12.23-14.32.15:848][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.523 ms (total: 609.705 ms)
+[2024.12.23-14.32.15:901][268]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.32.15:901][268]LogContentValidation: Enabled validators:
+[2024.12.23-14.32.15:901][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.32.15:901][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.32.15:901][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.32.15:901][268]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/M_Ghost_Inst.M_Ghost_Inst
+[2024.12.23-14.32.15:901][268]AssetCheck: /Game/ThirdPerson/Blueprints/M_Ghost_Inst Validating asset
+[2024.12.23-14.32.17:148][385]LogSlate: Window 'M_Ghost_Inst' being destroyed
+[2024.12.23-14.32.17:153][385]LogSlate: Window 'M_Ghost_Inst' being destroyed
+[2024.12.23-14.32.17:170][385]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.32.17:170][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.32.17:198][385]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.32.17:198][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.32.17:216][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms

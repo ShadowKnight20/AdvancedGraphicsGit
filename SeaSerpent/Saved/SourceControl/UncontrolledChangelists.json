@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/M_Ghost.uasset",
+				"C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/M_Ghost_Inst.uasset",
 				"D:/Unreal Engine Projects/SeaSerpent/SeaSerpent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Unreal Engine Projects/SeaSerpent/SeaSerpent/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N9/8FXOLDC0B2OFZ27NGS2OYI.uasset",
 				"D:/Unreal Engine Projects/SeaSerpent/SeaSerpent/Content/ThirdPerson/Blueprints/Ch_Snake.uasset",
