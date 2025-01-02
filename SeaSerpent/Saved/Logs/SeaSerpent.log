@@ -6621,3 +6621,27 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.01.02-13.56.33:277][482]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
 [2025.01.02-13.56.33:277][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.01.02-13.56.33:343][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.02-13.57.31:714][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.02-13.57.32:913][963]LogSlate: Window 'Save Content' being destroyed
+[2025.01.02-13.57.32:923][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-13.57.33:028][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.01.02-13.57.33:091][963]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.02-13.57.33:091][963]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.02-13.57.33:178][963]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.02-13.57.33:178][963]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainSceneE66E5EAB40FB339BCC69948C872F98B6.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.02-13.57.33:185][963]LogFileHelpers: All files are already saved.
+[2025.01.02-13.57.33:189][963]LogFileHelpers: Saving map 'MainScene' took 0.209
+[2025.01.02-13.57.33:189][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.01.02-13.57.33:189][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.01.02-13.57.33:191][963]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2025.01.02-13.57.33:192][963]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/BP_ThirdPersonGameModeCB310E074C726614B4D529B2889F6A04.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2025.01.02-13.57.33:199][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 276.705 ms (total: 10.0 sec)
+[2025.01.02-13.57.33:247][963]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.02-13.57.33:247][963]LogContentValidation: Enabled validators:
+[2025.01.02-13.57.33:247][963]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.02-13.57.33:247][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.02-13.57.33:247][963]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.02-13.57.33:247][963]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.02-13.57.33:247][963]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.02-13.57.33:247][963]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2025.01.02-13.57.33:247][963]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
