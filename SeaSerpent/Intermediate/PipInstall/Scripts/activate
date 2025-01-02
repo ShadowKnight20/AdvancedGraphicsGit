@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Student\Documents\Module Dev Containers\AdvancedGraphicsGit\SeaSerpent\Intermediate\PipInstall"
+VIRTUAL_ENV="C:\Users\Student\Desktop\temp\AdvancedGraphicsGit\SeaSerpent\Intermediate\PipInstall"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
