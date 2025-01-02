@@ -2483,3 +2483,671 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.01.02-00.23.15:754][881]LogD3D12RHI: Waited for PSO creation for 100.000000ms
 [2025.01.02-00.23.16:061][887]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Stairs_02_BC.T_Cave_Ruins_Stairs_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
 [2025.01.02-00.23.16:930][939]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Stairs_02_N.T_Cave_Ruins_Stairs_02_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.22:425][256]LogMeshUtilities: Finished distance field build in 4.4s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 105394 triangles, DragonSkull_8B4956E8
+[2025.01.02-00.23.22:459][258]LogTexture: Display: Building textures: /Game/OceanFloor/Textures/T_FishA_BC.T_FishA_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.22:470][258]LogTexture: Display: Building textures: /Game/OceanFloor/Textures/T_FishA_N.T_FishA_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.22:477][258]LogTexture: Display: Building textures: /Game/OceanFloor/Textures/T_Debris_BC.T_Debris_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.22:522][260]LogTexture: Display: Building textures: /Game/OceanFloor/Textures/T_Bubbles_BC.T_Bubbles_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.22:544][261]LogTexture: Display: Building textures: /Game/OceanFloor/Textures/T_FishB_BC.T_FishB_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.22:576][263]LogTexture: Display: Building textures: /Game/OceanFloor/Textures/T_FishB_N.T_FishB_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.22:594][264]LogTexture: Display: Building textures: /Game/OceanFloor/Textures/T_FishC_BC.T_FishC_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.22:634][266]LogTexture: Display: Building textures: /Game/OceanFloor/Textures/T_FishC_N.T_FishC_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.22:634][266]LogTexture: Display: Building textures: /ClonerEffector/Textures/T_ClonerIcon.T_ClonerIcon (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.22:650][267]LogTexture: Display: Building textures: /Game/OceanFloor/Textures/T_Bubbles_N.T_Bubbles_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2025.01.02-00.23.24:080][292]LogMeshUtilities: Finished mesh card build in 1.3s DragonSkull_8B4956E8 tris:105394 surfels:6593
+[2025.01.02-00.23.32:494][630]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.01.02-00.23.39:848][ 20]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-00.23.39:877][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-00.23.39:884][ 20]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.01.02-00.23.39:885][ 20]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.01.02-00.23.39:888][ 20]LogPlayLevel: Creating play world package: /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.23.39:922][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034410s)
+[2025.01.02-00.23.39:922][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OceanFloor/Maps/MainScene.MainScene to /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene (0.034675s)
+[2025.01.02-00.23.39:937][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.02-00.23.39:941][ 20]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.02-00.23.39:944][ 20]LogPlayLevel: PIE: World Init took: (0.004283s)
+[2025.01.02-00.23.39:961][ 20]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.01.02-00.23.39:961][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-00.23.39:961][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-00.23.39:961][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-00.23.39:961][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-00.23.39:961][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-00.23.39:961][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-00.23.39:961][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-00.23.39:961][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-00.23.39:961][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-00.23.39:961][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-00.23.39:961][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-00.23.39:963][ 20]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-00.23.39:977][ 20]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.02-00.23.39:977][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-00.23.39:977][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-00.23.39:977][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-00.23.39:978][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.01.02-00.23.39:978][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.01.02-00.23.39:981][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.01.02-00.23.39:981][ 20]LogInit: FAudioDevice initialized with ID 2.
+[2025.01.02-00.23.39:981][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.01.02-00.23.39:981][ 20]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainScene'.
+[2025.01.02-00.23.39:981][ 20]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.02-00.23.39:986][ 20]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.01.02-00.23.39:988][ 20]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2025.01.02-00.23.39:993][ 20]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.02-00.23.40:047][ 20]LogWorld: Bringing World /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2025.01.02-00.23.40
+[2025.01.02-00.23.40:053][ 20]LogWorld: Bringing up level for play took: 0.057580
+[2025.01.02-00.23.40:056][ 20]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2025.01.02-00.23.40:130][ 20]PIE: Server logged in
+[2025.01.02-00.23.40:131][ 20]PIE: Play in editor total start time 0.274 seconds.
+[2025.01.02-00.23.40:156][ 20]LogCEClonerComponent: Cloner2 : Cloner layout system loaded Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.23.40:326][ 20]LogCEClonerComponent: Cloner2 : Cloner layout system changed Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.23.40:327][ 20]LogACEEffectorSubsystem: Effector effector registered in channel 0
+[2025.01.02-00.23.40:327][ 20]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight20
+[2025.01.02-00.23.40:327][ 20]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight18
+[2025.01.02-00.23.40:327][ 20]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeA
+[2025.01.02-00.23.40:327][ 20]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeB
+[2025.01.02-00.23.40:328][ 20]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeC
+[2025.01.02-00.23.40:332][ 20]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight20
+[2025.01.02-00.23.40:333][ 20]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight18
+[2025.01.02-00.23.40:333][ 20]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeA
+[2025.01.02-00.23.40:334][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.23.40:334][ 20]LogStaticMesh: Display: Building static mesh StaticMesh_7 (Required Memory Estimate: 0.165084 MB)...
+[2025.01.02-00.23.40:337][ 20]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_7
+[2025.01.02-00.23.40:351][ 20]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeB
+[2025.01.02-00.23.40:353][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.23.40:353][ 20]LogStaticMesh: Display: Building static mesh StaticMesh_8 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.02-00.23.40:357][ 20]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_8
+[2025.01.02-00.23.40:370][ 20]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeC
+[2025.01.02-00.23.40:374][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.23.40:374][ 20]LogStaticMesh: Display: Building static mesh StaticMesh_9 (Required Memory Estimate: 1.433177 MB)...
+[2025.01.02-00.23.40:383][ 20]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_9
+[2025.01.02-00.23.40:392][ 20]LogCEClonerComponent: Cloner2 : Cloner mesh updated 5
+[2025.01.02-00.23.41:004][ 26]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.847343 sec (time since issued), 0.746639 sec (combined shader worker time).
+[2025.01.02-00.23.50:739][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.23.50:739][676]LogWorld: BeginTearingDown for /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.23.50:740][676]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-00.23.50:749][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.23.50:750][676]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.02-00.23.50:750][676]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.02-00.23.50:755][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-00.23.50:761][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.23.50:771][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.23.50:772][676]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.02-00.23.50:772][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.02-00.23.50:774][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.02-00.23.50:803][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.01.02-00.23.50:851][677]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2025.01.02-00.24.08:048][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1
+[2025.01.02-00.24.10:929][738]LogSlate: Took 0.006714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: ================================================
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Total job queries 10,309, among them cache hits 20 (0.19%), DDC hits 3,509 (34.04%), Duplicates 2,069 (20.07%)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Tracking 8,220 distinct input hashes that result in 7,422 distinct outputs (90.29%)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: RAM used: 169.92 MiB of 819.20 MiB budget. Usage: 20.74%
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Shaders Compiled: 4,711
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Jobs assigned 4,711, completed 4,711 (100%)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Average time worker was idle: 1.21 s
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Time job spent in pending queue: average 318.86 s, longest 702.55 s
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Job execution time: average 13.70 s, max 44.68 s
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Job life time (pending + execution): average 332.56 s, max 712.11
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Shader code size: average 46.909 KiB, min 2.148 KiB, max 354.566 KiB
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 823.83 s
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  7.48%
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Jobs were issued in 682 batches (only local compilation was used), average 6.91 jobs/batch
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Average processing rate: 5.72 jobs/sec
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Total thread time: 6,917.461 s
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Total thread preprocess time: 126.687 s
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Percentage time preprocessing: 1.83%
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Effective parallelization: 8.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 11.35 sec, max 11.35 sec, min 11.35 sec)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 10.34 sec, max 10.34 sec, min 10.34 sec)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 9.46 sec, max 9.46 sec, min 9.46 sec)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.18 sec, max 14.76 sec, min 5.90 sec)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 7.77 sec, max 7.77 sec, min 7.77 sec)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display:                                             FDeferredLightPS - 22.31% of total time (compiled  728 times, average 2.12 sec, max 6.25 sec, min 0.27 sec)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 6.00% of total time (compiled  448 times, average 0.93 sec, max 3.24 sec, min 0.26 sec)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.74% of total time (compiled  225 times, average 1.76 sec, max 4.64 sec, min 0.56 sec)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.93% of total time (compiled   80 times, average 4.27 sec, max 15.03 sec, min 0.76 sec)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.40% of total time (compiled   96 times, average 3.17 sec, max 6.22 sec, min 1.44 sec)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: === Material stats ===
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Materials Translated:    264
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Material Total Translate Time: 0.67 s
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Material Translation Only: 0.46 s (69%)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: Material Cache Hits: 4 (2%)
+[2025.01.02-00.25.01:178][511]LogShaderCompilers: Display: ================================================
+[2025.01.02-00.25.50:511][575]LogEditorTransaction: Undo Rename Function
+[2025.01.02-00.25.51:194][592]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2025.01.02-00.31.42:193][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.01.02-00.31.43:102][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-00.31.43:163][224]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Ch_Snake1] ([2] browsable assets)...
+[2025.01.02-00.31.43:198][224]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1]
+[2025.01.02-00.31.43:198][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Ch_Snake1]
+[2025.01.02-00.31.43:218][224]LogPackageLocalizationCache: Processed 95 localized package path(s) for 1 prioritized culture(s) in 0.016632 seconds
+[2025.01.02-00.31.43:243][224]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Ch_Snake1
+[2025.01.02-00.31.43:244][224]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Ch_Snake132B49EBD49362312312771A7C483B506.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/Ch_Snake1.uasset'
+[2025.01.02-00.31.43:260][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.814 ms
+[2025.01.02-00.31.43:312][224]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.02-00.31.43:312][224]LogContentValidation: Enabled validators:
+[2025.01.02-00.31.43:313][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.02-00.31.43:313][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.02-00.31.43:313][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.02-00.31.43:314][224]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1
+[2025.01.02-00.31.43:314][224]AssetCheck: /Game/ThirdPerson/Blueprints/Ch_Snake1 Validating asset
+[2025.01.02-00.31.46:227][410]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-00.31.46:248][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-00.31.46:248][410]LogPlayLevel: Creating play world package: /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.31.46:277][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028404s)
+[2025.01.02-00.31.46:277][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OceanFloor/Maps/MainScene.MainScene to /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene (0.028445s)
+[2025.01.02-00.31.46:300][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.01.02-00.31.46:303][410]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.02-00.31.46:304][410]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2025.01.02-00.31.46:323][410]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.01.02-00.31.46:323][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-00.31.46:323][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-00.31.46:323][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-00.31.46:323][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-00.31.46:323][410]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-00.31.46:323][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-00.31.46:323][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-00.31.46:323][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-00.31.46:323][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-00.31.46:323][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-00.31.46:323][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-00.31.46:326][410]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-00.31.46:339][410]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.02-00.31.46:339][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-00.31.46:339][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-00.31.46:339][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-00.31.46:340][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.01.02-00.31.46:340][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.01.02-00.31.46:342][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.01.02-00.31.46:343][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.01.02-00.31.46:343][410]LogInit: FAudioDevice initialized with ID 3.
+[2025.01.02-00.31.46:343][410]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainScene'.
+[2025.01.02-00.31.46:343][410]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.02-00.31.46:343][410]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.01.02-00.31.46:343][410]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2025.01.02-00.31.46:345][410]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.02-00.31.46:391][410]LogWorld: Bringing World /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2025.01.02-00.31.46
+[2025.01.02-00.31.46:392][410]LogWorld: Bringing up level for play took: 0.046201
+[2025.01.02-00.31.46:395][410]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.01.02-00.31.46:414][410]PIE: Server logged in
+[2025.01.02-00.31.46:415][410]PIE: Play in editor total start time 0.177 seconds.
+[2025.01.02-00.31.46:432][410]LogCEClonerComponent: Cloner2 : Cloner layout system loaded Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.31.46:601][410]LogCEClonerComponent: Cloner2 : Cloner layout system changed Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.31.46:602][410]LogACEEffectorSubsystem: Effector effector registered in channel 0
+[2025.01.02-00.31.46:603][410]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight20
+[2025.01.02-00.31.46:603][410]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight18
+[2025.01.02-00.31.46:603][410]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeA
+[2025.01.02-00.31.46:603][410]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeB
+[2025.01.02-00.31.46:603][410]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeC
+[2025.01.02-00.31.46:605][410]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight20
+[2025.01.02-00.31.46:606][410]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight18
+[2025.01.02-00.31.46:606][410]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeA
+[2025.01.02-00.31.46:607][410]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.31.46:607][410]LogStaticMesh: Display: Building static mesh StaticMesh_12 (Required Memory Estimate: 0.165084 MB)...
+[2025.01.02-00.31.46:610][410]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_12
+[2025.01.02-00.31.46:624][410]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeB
+[2025.01.02-00.31.46:626][410]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.31.46:626][410]LogStaticMesh: Display: Building static mesh StaticMesh_13 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.02-00.31.46:631][410]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_13
+[2025.01.02-00.31.46:643][410]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeC
+[2025.01.02-00.31.46:647][410]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.31.46:648][410]LogStaticMesh: Display: Building static mesh StaticMesh_14 (Required Memory Estimate: 1.433177 MB)...
+[2025.01.02-00.31.46:657][410]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_14
+[2025.01.02-00.31.46:666][410]LogCEClonerComponent: Cloner2 : Cloner mesh updated 5
+[2025.01.02-00.31.46:927][414]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_1 took 0.494550 sec (time since issued), 0.365325 sec (combined shader worker time).
+[2025.01.02-00.32.01:150][561]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.02-00.32.07:579][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.32.07:579][ 97]LogWorld: BeginTearingDown for /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.32.07:579][ 97]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-00.32.07:586][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.32.07:586][ 97]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.02-00.32.07:587][ 97]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.02-00.32.07:590][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-00.32.07:597][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.32.07:621][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.32.07:621][ 97]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.02-00.32.07:621][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.02-00.32.07:623][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.02-00.32.07:654][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.01.02-00.32.07:704][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.01.02-00.32.25:940][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-00.32.25:995][428]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Ch_Snake1] ([2] browsable assets)...
+[2025.01.02-00.32.26:031][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1]
+[2025.01.02-00.32.26:031][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Ch_Snake1]
+[2025.01.02-00.32.26:044][428]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Ch_Snake1
+[2025.01.02-00.32.26:045][428]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Ch_Snake132C9B3954F55EE81DC48139D050D021B.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/Ch_Snake1.uasset'
+[2025.01.02-00.32.26:053][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.968 ms (total: 270.783 ms)
+[2025.01.02-00.32.26:111][428]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.02-00.32.26:111][428]LogContentValidation: Enabled validators:
+[2025.01.02-00.32.26:111][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.02-00.32.26:111][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.02-00.32.26:112][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.02-00.32.26:112][428]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1
+[2025.01.02-00.32.26:112][428]AssetCheck: /Game/ThirdPerson/Blueprints/Ch_Snake1 Validating asset
+[2025.01.02-00.32.34:110][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.01.02-00.32.34:995][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-00.32.35:046][967]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Ch_Snake1] ([2] browsable assets)...
+[2025.01.02-00.32.35:080][967]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1]
+[2025.01.02-00.32.35:080][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Ch_Snake1]
+[2025.01.02-00.32.35:094][967]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Ch_Snake1
+[2025.01.02-00.32.35:094][967]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Ch_Snake1C49E59DC4C083C1BB52A72B168726F3E.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/Ch_Snake1.uasset'
+[2025.01.02-00.32.35:103][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.842 ms (total: 378.625 ms)
+[2025.01.02-00.32.35:159][967]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.02-00.32.35:159][967]LogContentValidation: Enabled validators:
+[2025.01.02-00.32.35:159][967]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.02-00.32.35:159][967]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.02-00.32.35:159][967]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.02-00.32.35:159][967]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1
+[2025.01.02-00.32.35:160][967]AssetCheck: /Game/ThirdPerson/Blueprints/Ch_Snake1 Validating asset
+[2025.01.02-00.32.38:319][153]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-00.32.38:337][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-00.32.38:337][153]LogPlayLevel: Creating play world package: /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.32.38:366][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029009s)
+[2025.01.02-00.32.38:366][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OceanFloor/Maps/MainScene.MainScene to /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene (0.029055s)
+[2025.01.02-00.32.38:385][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.01.02-00.32.38:388][153]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.02-00.32.38:389][153]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2025.01.02-00.32.38:407][153]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.01.02-00.32.38:407][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-00.32.38:407][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-00.32.38:408][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-00.32.38:408][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-00.32.38:408][153]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-00.32.38:408][153]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-00.32.38:408][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-00.32.38:408][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-00.32.38:408][153]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-00.32.38:408][153]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-00.32.38:408][153]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-00.32.38:410][153]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-00.32.38:422][153]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.02-00.32.38:422][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-00.32.38:422][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-00.32.38:422][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-00.32.38:423][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.01.02-00.32.38:423][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.01.02-00.32.38:426][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.01.02-00.32.38:426][153]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.01.02-00.32.38:426][153]LogInit: FAudioDevice initialized with ID 4.
+[2025.01.02-00.32.38:426][153]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainScene'.
+[2025.01.02-00.32.38:426][153]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.02-00.32.38:426][153]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.01.02-00.32.38:426][153]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2025.01.02-00.32.38:429][153]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.02-00.32.38:471][153]LogWorld: Bringing World /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2025.01.02-00.32.38
+[2025.01.02-00.32.38:472][153]LogWorld: Bringing up level for play took: 0.043494
+[2025.01.02-00.32.38:475][153]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.01.02-00.32.38:496][153]PIE: Server logged in
+[2025.01.02-00.32.38:497][153]PIE: Play in editor total start time 0.17 seconds.
+[2025.01.02-00.32.38:515][153]LogCEClonerComponent: Cloner2 : Cloner layout system loaded Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.32.38:688][153]LogCEClonerComponent: Cloner2 : Cloner layout system changed Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.32.38:689][153]LogACEEffectorSubsystem: Effector effector registered in channel 0
+[2025.01.02-00.32.38:689][153]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight20
+[2025.01.02-00.32.38:689][153]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight18
+[2025.01.02-00.32.38:689][153]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeA
+[2025.01.02-00.32.38:689][153]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeB
+[2025.01.02-00.32.38:690][153]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeC
+[2025.01.02-00.32.38:865][154]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight20
+[2025.01.02-00.32.38:865][154]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight18
+[2025.01.02-00.32.38:865][154]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeA
+[2025.01.02-00.32.38:869][154]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.32.38:869][154]LogStaticMesh: Display: Building static mesh StaticMesh_17 (Required Memory Estimate: 0.165084 MB)...
+[2025.01.02-00.32.38:872][154]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_17
+[2025.01.02-00.32.38:886][154]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeB
+[2025.01.02-00.32.38:887][154]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.32.38:888][154]LogStaticMesh: Display: Building static mesh StaticMesh_18 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.02-00.32.38:892][154]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_18
+[2025.01.02-00.32.38:905][154]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeC
+[2025.01.02-00.32.38:908][154]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.32.38:909][154]LogStaticMesh: Display: Building static mesh StaticMesh_19 (Required Memory Estimate: 1.433177 MB)...
+[2025.01.02-00.32.38:918][154]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_19
+[2025.01.02-00.32.38:927][154]LogCEClonerComponent: Cloner2 : Cloner mesh updated 5
+[2025.01.02-00.32.39:050][157]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_2 took 0.534922 sec (time since issued), 0.481548 sec (combined shader worker time).
+[2025.01.02-00.32.51:620][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.32.51:621][218]LogWorld: BeginTearingDown for /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.32.51:621][218]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-00.32.51:626][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.32.51:627][218]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.02-00.32.51:627][218]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.02-00.32.51:631][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-00.32.51:639][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.32.51:665][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.32.51:666][218]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.02-00.32.51:666][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.02-00.32.51:668][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.02-00.32.51:697][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.01.02-00.32.51:763][219]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.01.02-00.33.04:994][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.01.02-00.33.05:861][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-00.33.05:912][ 33]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Ch_Snake1] ([2] browsable assets)...
+[2025.01.02-00.33.05:947][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1]
+[2025.01.02-00.33.05:947][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Ch_Snake1]
+[2025.01.02-00.33.05:960][ 33]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Ch_Snake1
+[2025.01.02-00.33.05:961][ 33]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Ch_Snake1AAB355BC4B6CA8C7C8071DBD40D03894.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/Ch_Snake1.uasset'
+[2025.01.02-00.33.05:970][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.410 ms (total: 487.036 ms)
+[2025.01.02-00.33.06:011][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.02-00.33.06:011][ 33]LogContentValidation: Enabled validators:
+[2025.01.02-00.33.06:011][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.02-00.33.06:011][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.02-00.33.06:011][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.02-00.33.06:011][ 33]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1
+[2025.01.02-00.33.06:011][ 33]AssetCheck: /Game/ThirdPerson/Blueprints/Ch_Snake1 Validating asset
+[2025.01.02-00.33.08:641][198]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-00.33.08:684][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-00.33.08:684][198]LogPlayLevel: Creating play world package: /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.33.08:712][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027849s)
+[2025.01.02-00.33.08:712][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OceanFloor/Maps/MainScene.MainScene to /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene (0.027885s)
+[2025.01.02-00.33.08:736][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.01.02-00.33.08:738][198]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.02-00.33.08:739][198]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2025.01.02-00.33.08:757][198]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.01.02-00.33.08:757][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-00.33.08:757][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-00.33.08:757][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-00.33.08:757][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-00.33.08:757][198]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-00.33.08:757][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-00.33.08:757][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-00.33.08:757][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-00.33.08:757][198]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-00.33.08:757][198]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-00.33.08:757][198]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-00.33.08:759][198]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-00.33.08:772][198]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.02-00.33.08:772][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-00.33.08:772][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-00.33.08:772][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-00.33.08:773][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.01.02-00.33.08:773][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.01.02-00.33.08:775][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.01.02-00.33.08:775][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.01.02-00.33.08:775][198]LogInit: FAudioDevice initialized with ID 5.
+[2025.01.02-00.33.08:775][198]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainScene'.
+[2025.01.02-00.33.08:775][198]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.02-00.33.08:775][198]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.01.02-00.33.08:775][198]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2025.01.02-00.33.08:778][198]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.02-00.33.08:821][198]LogWorld: Bringing World /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2025.01.02-00.33.08
+[2025.01.02-00.33.08:822][198]LogWorld: Bringing up level for play took: 0.043661
+[2025.01.02-00.33.08:824][198]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.01.02-00.33.08:845][198]PIE: Server logged in
+[2025.01.02-00.33.08:846][198]PIE: Play in editor total start time 0.196 seconds.
+[2025.01.02-00.33.08:863][198]LogCEClonerComponent: Cloner2 : Cloner layout system loaded Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.33.09:036][198]LogCEClonerComponent: Cloner2 : Cloner layout system changed Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.33.09:037][198]LogACEEffectorSubsystem: Effector effector registered in channel 0
+[2025.01.02-00.33.09:037][198]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight20
+[2025.01.02-00.33.09:037][198]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight18
+[2025.01.02-00.33.09:037][198]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeA
+[2025.01.02-00.33.09:038][198]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeB
+[2025.01.02-00.33.09:038][198]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeC
+[2025.01.02-00.33.09:040][198]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight20
+[2025.01.02-00.33.09:040][198]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight18
+[2025.01.02-00.33.09:040][198]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeA
+[2025.01.02-00.33.09:041][198]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.33.09:041][198]LogStaticMesh: Display: Building static mesh StaticMesh_22 (Required Memory Estimate: 0.165084 MB)...
+[2025.01.02-00.33.09:044][198]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_22
+[2025.01.02-00.33.09:058][198]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeB
+[2025.01.02-00.33.09:060][198]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.33.09:060][198]LogStaticMesh: Display: Building static mesh StaticMesh_23 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.02-00.33.09:065][198]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_23
+[2025.01.02-00.33.09:077][198]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeC
+[2025.01.02-00.33.09:081][198]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.33.09:081][198]LogStaticMesh: Display: Building static mesh StaticMesh_24 (Required Memory Estimate: 1.433177 MB)...
+[2025.01.02-00.33.09:090][198]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_24
+[2025.01.02-00.33.09:099][198]LogCEClonerComponent: Cloner2 : Cloner mesh updated 5
+[2025.01.02-00.33.09:349][202]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_3 took 0.485583 sec (time since issued), 0.362423 sec (combined shader worker time).
+[2025.01.02-00.33.24:080][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.33.24:080][447]LogWorld: BeginTearingDown for /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.33.24:080][447]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-00.33.24:086][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.33.24:087][447]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.02-00.33.24:087][447]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.02-00.33.24:090][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-00.33.24:098][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.33.24:118][447]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.02-00.33.24:118][447]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.02-00.33.24:118][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.02-00.33.24:121][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.02-00.33.24:126][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.33.24:151][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.01.02-00.33.24:218][448]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.01.02-00.34.01:195][585]LogShaderCompilers: Display: ================================================
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Total job queries 10,311, among them cache hits 20 (0.19%), DDC hits 3,509 (34.03%), Duplicates 2,069 (20.07%)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Tracking 8,222 distinct input hashes that result in 7,424 distinct outputs (90.29%)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: RAM used: 169.96 MiB of 819.20 MiB budget. Usage: 20.75%
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Shaders Compiled: 4,713
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Jobs assigned 4,713, completed 4,713 (100%)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Average time worker was idle: 2.68 s
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Time job spent in pending queue: average 318.72 s, longest 702.55 s
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Job execution time: average 13.69 s, max 44.68 s
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Job life time (pending + execution): average 332.42 s, max 712.11
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Shader code size: average 46.903 KiB, min 2.148 KiB, max 354.566 KiB
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 825.03 s
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  7.48%
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Jobs were issued in 684 batches (only local compilation was used), average 6.89 jobs/batch
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Average processing rate: 5.71 jobs/sec
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Total thread time: 6,918.475 s
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Total thread preprocess time: 126.706 s
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Percentage time preprocessing: 1.83%
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Effective parallelization: 8.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 11.35 sec, max 11.35 sec, min 11.35 sec)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 10.34 sec, max 10.34 sec, min 10.34 sec)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 9.46 sec, max 9.46 sec, min 9.46 sec)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.18 sec, max 14.76 sec, min 5.90 sec)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 7.77 sec, max 7.77 sec, min 7.77 sec)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display:                                             FDeferredLightPS - 22.30% of total time (compiled  728 times, average 2.12 sec, max 6.25 sec, min 0.27 sec)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 6.00% of total time (compiled  448 times, average 0.93 sec, max 3.24 sec, min 0.26 sec)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.74% of total time (compiled  225 times, average 1.76 sec, max 4.64 sec, min 0.56 sec)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.93% of total time (compiled   80 times, average 4.27 sec, max 15.03 sec, min 0.76 sec)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.40% of total time (compiled   96 times, average 3.17 sec, max 6.22 sec, min 1.44 sec)
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: === Material stats ===
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Materials Translated:    264
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Material Total Translate Time: 0.67 s
+[2025.01.02-00.34.01:196][585]LogShaderCompilers: Display: Material Translation Only: 0.46 s (69%)
+[2025.01.02-00.34.01:197][585]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.02-00.34.01:197][585]LogShaderCompilers: Display: Material Cache Hits: 4 (2%)
+[2025.01.02-00.34.01:197][585]LogShaderCompilers: Display: ================================================
+[2025.01.02-00.34.48:188][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.01.02-00.34.48:990][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-00.34.49:045][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Ch_Snake1] ([2] browsable assets)...
+[2025.01.02-00.34.49:079][313]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1]
+[2025.01.02-00.34.49:079][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Ch_Snake1]
+[2025.01.02-00.34.49:092][313]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Ch_Snake1
+[2025.01.02-00.34.49:093][313]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Ch_Snake1489F008C457C67EF99AAD6BF521E6CB6.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/Ch_Snake1.uasset'
+[2025.01.02-00.34.49:103][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.339 ms (total: 599.376 ms)
+[2025.01.02-00.34.49:160][313]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.02-00.34.49:160][313]LogContentValidation: Enabled validators:
+[2025.01.02-00.34.49:160][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.02-00.34.49:160][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.02-00.34.49:160][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.02-00.34.49:160][313]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1
+[2025.01.02-00.34.49:160][313]AssetCheck: /Game/ThirdPerson/Blueprints/Ch_Snake1 Validating asset
+[2025.01.02-00.34.52:780][545]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-00.34.52:795][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-00.34.52:795][545]LogPlayLevel: Creating play world package: /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.34.52:825][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030700s)
+[2025.01.02-00.34.52:825][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OceanFloor/Maps/MainScene.MainScene to /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene (0.030734s)
+[2025.01.02-00.34.52:844][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.01.02-00.34.52:846][545]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.02-00.34.52:847][545]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2025.01.02-00.34.52:865][545]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.01.02-00.34.52:865][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-00.34.52:865][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-00.34.52:865][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-00.34.52:865][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-00.34.52:865][545]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-00.34.52:865][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-00.34.52:865][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-00.34.52:865][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-00.34.52:865][545]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-00.34.52:865][545]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-00.34.52:865][545]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-00.34.52:867][545]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-00.34.52:880][545]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.02-00.34.52:880][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-00.34.52:880][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-00.34.52:880][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-00.34.52:881][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.01.02-00.34.52:881][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.01.02-00.34.52:884][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.01.02-00.34.52:884][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.01.02-00.34.52:884][545]LogInit: FAudioDevice initialized with ID 6.
+[2025.01.02-00.34.52:884][545]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainScene'.
+[2025.01.02-00.34.52:884][545]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.02-00.34.52:884][545]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.01.02-00.34.52:884][545]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2025.01.02-00.34.52:886][545]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.02-00.34.52:929][545]LogWorld: Bringing World /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2025.01.02-00.34.52
+[2025.01.02-00.34.52:930][545]LogWorld: Bringing up level for play took: 0.043779
+[2025.01.02-00.34.52:933][545]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.01.02-00.34.52:953][545]PIE: Server logged in
+[2025.01.02-00.34.52:953][545]PIE: Play in editor total start time 0.164 seconds.
+[2025.01.02-00.34.52:971][545]LogCEClonerComponent: Cloner2 : Cloner layout system loaded Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.34.53:141][545]LogCEClonerComponent: Cloner2 : Cloner layout system changed Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.34.53:142][545]LogACEEffectorSubsystem: Effector effector registered in channel 0
+[2025.01.02-00.34.53:143][545]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight20
+[2025.01.02-00.34.53:143][545]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight18
+[2025.01.02-00.34.53:143][545]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeA
+[2025.01.02-00.34.53:143][545]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeB
+[2025.01.02-00.34.53:143][545]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeC
+[2025.01.02-00.34.53:145][545]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight20
+[2025.01.02-00.34.53:146][545]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight18
+[2025.01.02-00.34.53:146][545]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeA
+[2025.01.02-00.34.53:147][545]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.34.53:148][545]LogStaticMesh: Display: Building static mesh StaticMesh_27 (Required Memory Estimate: 0.165084 MB)...
+[2025.01.02-00.34.53:150][545]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_27
+[2025.01.02-00.34.53:164][545]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeB
+[2025.01.02-00.34.53:166][545]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.34.53:166][545]LogStaticMesh: Display: Building static mesh StaticMesh_28 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.02-00.34.53:171][545]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_28
+[2025.01.02-00.34.53:183][545]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeC
+[2025.01.02-00.34.53:187][545]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.34.53:187][545]LogStaticMesh: Display: Building static mesh StaticMesh_29 (Required Memory Estimate: 1.433177 MB)...
+[2025.01.02-00.34.53:197][545]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_29
+[2025.01.02-00.34.53:206][545]LogCEClonerComponent: Cloner2 : Cloner mesh updated 5
+[2025.01.02-00.34.53:306][546]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2025.01.02-00.34.53:513][551]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_4 took 0.542611 sec (time since issued), 0.439758 sec (combined shader worker time).
+[2025.01.02-00.35.07:850][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.35.07:850][737]LogWorld: BeginTearingDown for /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.35.07:850][737]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-00.35.07:855][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.35.07:856][737]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.02-00.35.07:856][737]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.02-00.35.07:859][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-00.35.07:869][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.35.07:894][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.35.07:894][737]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.02-00.35.07:894][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.02-00.35.07:897][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.02-00.35.07:924][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.01.02-00.35.07:992][738]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.01.02-00.35.25:007][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.01.02-00.35.25:792][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-00.35.25:845][883]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Ch_Snake1] ([2] browsable assets)...
+[2025.01.02-00.35.25:880][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1]
+[2025.01.02-00.35.25:880][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Ch_Snake1]
+[2025.01.02-00.35.25:893][883]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Ch_Snake1
+[2025.01.02-00.35.25:893][883]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Ch_Snake143B70962400576A2442F37A5BCC552B1.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/Ch_Snake1.uasset'
+[2025.01.02-00.35.25:901][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.202 ms (total: 708.578 ms)
+[2025.01.02-00.35.25:961][883]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.02-00.35.25:961][883]LogContentValidation: Enabled validators:
+[2025.01.02-00.35.25:961][883]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.02-00.35.25:961][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.02-00.35.25:961][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.02-00.35.25:961][883]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1
+[2025.01.02-00.35.25:961][883]AssetCheck: /Game/ThirdPerson/Blueprints/Ch_Snake1 Validating asset
+[2025.01.02-00.35.27:877][  3]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-00.35.27:895][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-00.35.27:922][  3]LogPlayLevel: Creating play world package: /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.35.27:952][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030065s)
+[2025.01.02-00.35.27:952][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OceanFloor/Maps/MainScene.MainScene to /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene (0.030104s)
+[2025.01.02-00.35.27:970][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.01.02-00.35.27:972][  3]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.02-00.35.27:974][  3]LogPlayLevel: PIE: World Init took: (0.001747s)
+[2025.01.02-00.35.27:989][  3]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.01.02-00.35.27:989][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-00.35.27:989][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-00.35.27:989][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-00.35.27:989][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-00.35.27:989][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-00.35.27:989][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-00.35.27:989][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-00.35.27:989][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-00.35.27:989][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-00.35.27:989][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-00.35.27:989][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-00.35.27:991][  3]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-00.35.28:004][  3]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.02-00.35.28:004][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-00.35.28:004][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-00.35.28:004][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-00.35.28:004][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.01.02-00.35.28:004][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.01.02-00.35.28:008][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.01.02-00.35.28:008][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.01.02-00.35.28:008][  3]LogInit: FAudioDevice initialized with ID 7.
+[2025.01.02-00.35.28:008][  3]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainScene'.
+[2025.01.02-00.35.28:008][  3]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.01.02-00.35.28:008][  3]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.01.02-00.35.28:008][  3]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2025.01.02-00.35.28:010][  3]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.02-00.35.28:053][  3]LogWorld: Bringing World /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2025.01.02-00.35.28
+[2025.01.02-00.35.28:054][  3]LogWorld: Bringing up level for play took: 0.043078
+[2025.01.02-00.35.28:056][  3]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.01.02-00.35.28:076][  3]PIE: Server logged in
+[2025.01.02-00.35.28:077][  3]PIE: Play in editor total start time 0.191 seconds.
+[2025.01.02-00.35.28:094][  3]LogCEClonerComponent: Cloner2 : Cloner layout system loaded Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.35.28:263][  3]LogCEClonerComponent: Cloner2 : Cloner layout system changed Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.02-00.35.28:265][  3]LogACEEffectorSubsystem: Effector effector registered in channel 0
+[2025.01.02-00.35.28:265][  3]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight20
+[2025.01.02-00.35.28:265][  3]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight18
+[2025.01.02-00.35.28:265][  3]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeA
+[2025.01.02-00.35.28:265][  3]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeB
+[2025.01.02-00.35.28:266][  3]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeC
+[2025.01.02-00.35.28:267][  3]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight20
+[2025.01.02-00.35.28:268][  3]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight18
+[2025.01.02-00.35.28:268][  3]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeA
+[2025.01.02-00.35.28:269][  3]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.35.28:269][  3]LogStaticMesh: Display: Building static mesh StaticMesh_32 (Required Memory Estimate: 0.165084 MB)...
+[2025.01.02-00.35.28:272][  3]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_32
+[2025.01.02-00.35.28:286][  3]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeB
+[2025.01.02-00.35.28:288][  3]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.35.28:288][  3]LogStaticMesh: Display: Building static mesh StaticMesh_33 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.02-00.35.28:293][  3]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_33
+[2025.01.02-00.35.28:305][  3]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeC
+[2025.01.02-00.35.28:309][  3]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.02-00.35.28:309][  3]LogStaticMesh: Display: Building static mesh StaticMesh_34 (Required Memory Estimate: 1.433177 MB)...
+[2025.01.02-00.35.28:318][  3]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_34
+[2025.01.02-00.35.28:327][  3]LogCEClonerComponent: Cloner2 : Cloner mesh updated 5
+[2025.01.02-00.35.28:608][  9]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_5 took 0.513922 sec (time since issued), 0.435767 sec (combined shader worker time).
+[2025.01.02-00.36.05:625][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.36.05:625][991]LogWorld: BeginTearingDown for /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.02-00.36.05:626][991]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-00.36.05:632][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.36.05:634][991]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.02-00.36.05:634][991]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.02-00.36.05:637][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-00.36.05:646][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-00.36.05:668][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-00.36.05:668][991]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.01.02-00.36.05:668][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.01.02-00.36.05:670][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.01.02-00.36.05:699][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.01.02-00.36.05:766][992]LogPlayLevel: Display: Destroying online subsystem :Context_11
