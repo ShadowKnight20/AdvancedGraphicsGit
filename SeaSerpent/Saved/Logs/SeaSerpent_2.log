@@ -6176,3 +6176,601 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.01.02-01.45.58:574][904]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.02-01.45.58:574][904]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
 [2025.01.02-01.45.58:575][904]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.02-01.48.10:996][171]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.01.02-01.48.40:599][750]LogSlate: Window 'Bridge' being destroyed
+[2025.01.02-01.48.40:620][750]LogSlate: Window 'Bridge' being destroyed
+[2025.01.02-01.48.40:621][750]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.01.02-01.48.40:621][750]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.4/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/megascans/.
+[2025.01.02-01.52.01:297][523]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.02-01.53.32:286][649]LogAssetTools: Warning: Failed to import 'C:\Users\Student\Downloads\proteus_fantastic_voyage_1966_gltf/scene.bin'. Unknown extension 'bin'.
+[2025.01.02-01.53.32:805][649]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...tic_voyage_1966_gltf/scene.gltf]
+[2025.01.02-01.53.42:321][649]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.01.02-01.53.42:341][649]LogInterchangeEngine: [Pending] Importing
+[2025.01.02-01.53.42:343][649]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.01.02-01.53.42:343][649]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...e_1966_gltf/textures/Blanc_Corps_baseColor.png]
+[2025.01.02-01.53.42:343][649]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.01.02-01.53.42:343][649]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...e_1966_gltf/textures/Blanc_Corps_metallicRoughness.png]
+[2025.01.02-01.53.42:344][649]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.01.02-01.53.42:344][649]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...e_1966_gltf/textures/Blanc_Plastic_baseColor.png]
+[2025.01.02-01.53.42:344][649]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.01.02-01.53.42:344][649]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...e_1966_gltf/textures/Blanc_Plastic_metallicRoughness.png]
+[2025.01.02-01.53.42:344][649]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.01.02-01.53.42:345][649]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.01.02-01.53.42:449][649]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.01.02-01.53.42:451][649]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.01.02-01.53.42:459][649]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.02-01.53.42:460][649]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.01.02-01.53.42:474][649]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_baseColor.Blanc_Corps_baseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2025.01.02-01.53.42:485][649]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.01.02-01.53.42:493][650]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_baseColor.Blanc_Plastic_baseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2025.01.02-01.53.42:600][651]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.01.02-01.53.42:628][651]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_metallicRoughness.Blanc_Corps_metallicRoughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.01.02-01.53.42:671][651]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Dow...e_1966_gltf/textures/Blanc_Corps_baseColor.png]
+[2025.01.02-01.53.42:671][651]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.01.02-01.53.42:671][651]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.01.02-01.53.42:671][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...e_1966_gltf/textures/Glass_metallicRoughness.jpeg]
+[2025.01.02-01.53.42:671][651]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Dow...e_1966_gltf/textures/Blanc_Plastic_baseColor.png]
+[2025.01.02-01.53.42:671][651]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.01.02-01.53.42:671][651]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.01.02-01.53.42:671][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...e_1966_gltf/textures/PROTEUS_Decals_baseColor.png]
+[2025.01.02-01.53.42:730][651]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_metallicRoughness.Blanc_Plastic_metallicRoughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.01.02-01.53.42:744][651]LogInterchangeImport: JPEG file [C:/Users/Student/Downloads/proteus_fantastic_voyage_1966_gltf/textures/Glass_metallicRoughness.jpeg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.01.02-01.53.42:746][651]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.02-01.53.42:786][652]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Dow...e_1966_gltf/textures/Blanc_Corps_metallicRoughness.png]
+[2025.01.02-01.53.42:786][652]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.01.02-01.53.42:896][653]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/PROTEUS_Decals_baseColor.PROTEUS_Decals_baseColor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2025.01.02-01.53.42:933][653]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Glass_metallicRoughness.Glass_metallicRoughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.01.02-01.53.42:979][653]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Dow...e_1966_gltf/textures/PROTEUS_Decals_baseColor.png]
+[2025.01.02-01.53.42:979][653]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.01.02-01.53.42:979][653]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Dow...e_1966_gltf/textures/Blanc_Plastic_metallicRoughness.png]
+[2025.01.02-01.53.42:979][653]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.01.02-01.53.43:100][657]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Dow...e_1966_gltf/textures/Glass_metallicRoughness.jpeg]
+[2025.01.02-01.53.43:100][657]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.01.02-01.53.44:600][725]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Anim.scene_Anim (Required Memory Estimate: 0.26 MB)
+[2025.01.02-01.53.44:620][725]LogAnimationCompression: Display: Storing compressed animation data for /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Anim.scene_Anim, at AnimationSequence/f02a6bafcd8f27781d71e64f0aa763be6c805fc1
+[2025.01.02-01.53.44:705][725]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_metallicRoughness.Blanc_Corps_metallicRoughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.01.02-01.53.44:706][725]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_metallicRoughness.Blanc_Plastic_metallicRoughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.01.02-01.53.44:707][725]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass_metallicRoughness.Glass_metallicRoughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.01.02-01.53.45:028][730]LogSkeletalMesh: Building Skeletal Mesh scene...
+[2025.01.02-01.53.47:134][814]LogSkeletalMesh: Built Skeletal Mesh [2.11s] /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-01.53.47:252][815]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.53.47:252][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.53.47:258][815]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Dow...tic_voyage_1966_gltf/scene.gltf]
+[2025.01.02-01.53.47:258][815]LogInterchangeEngine: [Success] Import Done
+[2025.01.02-01.53.47:267][815]LogInterchangeEngine: [Success] Import Done
+[2025.01.02-01.53.47:353][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.01.02-01.53.54:757][147]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-01.53.54:757][147]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-01.53.54:758][147]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_0
+[2025.01.02-01.53.54:760][147]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_0
+[2025.01.02-01.53.56:269][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.01.02-01.53.56:272][221]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.01.02-01.53.56:280][221]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-01.53.56:280][221]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-01.53.56:283][221]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_1
+[2025.01.02-01.53.56:284][221]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_1
+[2025.01.02-01.53.56:296][221]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: SkeletalMeshActor_1)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.02-01.54.29:345][571]Cmd: DELETE
+[2025.01.02-01.54.29:345][571]Cmd: ACTOR DELETE
+[2025.01.02-01.54.29:345][571]LogEditorActor: Cannot delete component SkeletalMeshComponent /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0: Can't delete non-instanced components or the scene root.
+[2025.01.02-01.54.30:875][675]Cmd: DELETE
+[2025.01.02-01.54.30:875][675]Cmd: ACTOR DELETE
+[2025.01.02-01.54.30:875][675]LogEditorActor: Cannot delete component SkeletalMeshComponent /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0: Can't delete non-instanced components or the scene root.
+[2025.01.02-01.54.32:424][790]Cmd: DELETE
+[2025.01.02-01.54.32:424][790]Cmd: ACTOR DELETE
+[2025.01.02-01.54.32:425][790]LogEditorActor: Cannot delete component SkeletalMeshComponent /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0: Can't delete non-instanced components or the scene root.
+[2025.01.02-01.54.39:081][215]Cmd: DELETE
+[2025.01.02-01.54.39:081][215]Cmd: ACTOR DELETE
+[2025.01.02-01.54.39:103][215]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.01.02-01.54.39:129][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.01.02-01.54.39:133][215]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2025.01.02-01.54.45:029][535]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_2
+[2025.01.02-01.54.45:029][535]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_2. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.01.02-01.54.45:031][535]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_2
+[2025.01.02-01.54.45:674][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.01.02-01.54.45:677][573]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.01.02-01.54.45:685][573]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_3
+[2025.01.02-01.54.45:685][573]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_3. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.01.02-01.54.45:686][573]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_3
+[2025.01.02-01.54.45:699][573]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: SkeletalMeshActor_3)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.02-01.54.54:426][158]Cmd: DELETE
+[2025.01.02-01.54.54:426][158]Cmd: ACTOR DELETE
+[2025.01.02-01.54.54:436][158]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.01.02-01.54.54:454][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.01.02-01.54.54:457][158]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: ================================================
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Total job queries 10,371, among them cache hits 28 (0.27%), DDC hits 3,509 (33.83%), Duplicates 2,069 (19.95%)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Tracking 8,274 distinct input hashes that result in 7,457 distinct outputs (90.13%)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: RAM used: 170.89 MiB of 819.20 MiB budget. Usage: 20.86%
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Shaders Compiled: 4,765
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Jobs assigned 4,765, completed 4,765 (100%)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Average time worker was idle: 60.25 s
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Time job spent in pending queue: average 315.25 s, longest 702.55 s
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Job execution time: average 13.56 s, max 44.68 s
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Job life time (pending + execution): average 328.80 s, max 712.11
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Shader code size: average 46.802 KiB, min 2.148 KiB, max 354.566 KiB
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 846.49 s
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  7.42%
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Jobs were issued in 736 batches (only local compilation was used), average 6.47 jobs/batch
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Average processing rate: 5.63 jobs/sec
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Total thread time: 6,965.416 s
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Total thread preprocess time: 127.81 s
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Percentage time preprocessing: 1.83%
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Effective parallelization: 8.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 11.35 sec, max 11.35 sec, min 11.35 sec)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 10.34 sec, max 10.34 sec, min 10.34 sec)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 9.46 sec, max 9.46 sec, min 9.46 sec)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.18 sec, max 14.76 sec, min 5.90 sec)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 7.77 sec, max 7.77 sec, min 7.77 sec)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display:                                             FDeferredLightPS - 22.15% of total time (compiled  728 times, average 2.12 sec, max 6.25 sec, min 0.27 sec)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 5.96% of total time (compiled  448 times, average 0.93 sec, max 3.24 sec, min 0.26 sec)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.70% of total time (compiled  225 times, average 1.76 sec, max 4.64 sec, min 0.56 sec)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.90% of total time (compiled   80 times, average 4.27 sec, max 15.03 sec, min 0.76 sec)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.37% of total time (compiled   96 times, average 3.17 sec, max 6.22 sec, min 1.44 sec)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: === Material stats ===
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Materials Translated:    294
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Material Total Translate Time: 0.77 s
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Material Translation Only: 0.54 s (71%)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: Material Cache Hits: 4 (1%)
+[2025.01.02-01.55.01:972][608]LogShaderCompilers: Display: ================================================
+[2025.01.02-01.55.03:600][691]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton.scene_Skeleton
+[2025.01.02-01.55.03:600][691]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton.scene_Skeleton
+[2025.01.02-01.55.03:602][691]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_4
+[2025.01.02-01.55.03:603][691]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_4
+[2025.01.02-01.55.04:179][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.01.02-01.55.04:182][728]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.01.02-01.55.04:187][728]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton.scene_Skeleton
+[2025.01.02-01.55.04:188][728]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton.scene_Skeleton
+[2025.01.02-01.55.04:190][728]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_5
+[2025.01.02-01.55.04:191][728]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_5
+[2025.01.02-01.55.04:203][728]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: SkeletalMeshActor_5)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.02-01.56.01:576][506]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.01.02-01.56.27:842][435]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-01.56.27:987][435]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2025.01.02-01.56.28:028][435]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.56.51:232][488]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.56.51:232][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.56.51:376][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.01.02-01.56.57:074][812]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset
+[2025.01.02-01.56.57:136][812]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.12:052][336]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.12:053][336]LogEditorTransaction: Undo Move Element
+[2025.01.02-01.57.12:197][336]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.24:888][816]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.24:888][816]LogEditorTransaction: Undo Delete Primitive
+[2025.01.02-01.57.25:037][816]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.54:195][  5]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.54:195][  5]LogEditorTransaction: Undo Delete Primitive
+[2025.01.02-01.57.54:346][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.54:437][  5]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.54:437][  5]LogEditorTransaction: Undo Delete Primitive
+[2025.01.02-01.57.54:585][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.54:665][  5]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.54:665][  5]LogEditorTransaction: Undo Delete Primitive
+[2025.01.02-01.57.54:814][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.55:355][  6]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.55:355][  6]LogEditorTransaction: Undo Delete Primitive
+[2025.01.02-01.57.55:499][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.55:570][  6]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.55:571][  6]LogEditorTransaction: Undo Delete Constraint
+[2025.01.02-01.57.55:710][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.57:717][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.57:717][ 75]LogEditorTransaction: Undo Delete Primitive
+[2025.01.02-01.57.57:863][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.57:936][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.57:936][ 75]LogEditorTransaction: Undo Delete Primitive
+[2025.01.02-01.57.58:079][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.58:152][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.58:152][ 75]LogEditorTransaction: Undo Delete Primitive
+[2025.01.02-01.57.58:298][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.58:370][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.58:370][ 75]LogEditorTransaction: Undo Clicking on Elements
+[2025.01.02-01.57.58:546][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.58:625][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.58:625][ 75]LogEditorTransaction: Undo Clicking on Elements
+[2025.01.02-01.57.58:889][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.58:964][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.58:964][ 75]LogEditorTransaction: Undo Clicking on Elements
+[2025.01.02-01.57.59:138][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.59:217][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.59:217][ 75]LogEditorTransaction: Undo Move Elements
+[2025.01.02-01.57.59:361][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.59:441][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.59:441][ 75]LogEditorTransaction: Undo Place Objects
+[2025.01.02-01.57.59:599][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.59:676][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.59:676][ 75]LogEditorTransaction: Undo Delete Elements
+[2025.01.02-01.57.59:875][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.57.59:955][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.57.59:955][ 75]LogEditorTransaction: Undo Move Elements
+[2025.01.02-01.58.00:100][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.00:180][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.00:180][ 75]LogEditorTransaction: Undo Place Objects
+[2025.01.02-01.58.00:338][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.00:417][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.00:417][ 75]LogEditorTransaction: Undo Delete Elements
+[2025.01.02-01.58.00:608][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.00:689][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.00:689][ 75]LogEditorTransaction: Undo Clicking on Elements
+[2025.01.02-01.58.00:833][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.00:914][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.00:914][ 75]LogEditorTransaction: Undo Move Elements
+[2025.01.02-01.58.01:057][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.01:139][ 75]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.01:139][ 75]LogEditorTransaction: Undo Place Objects
+[2025.01.02-01.58.01:321][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: ================================================
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Total job queries 10,398, among them cache hits 40 (0.38%), DDC hits 3,509 (33.75%), Duplicates 2,069 (19.90%)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Tracking 8,289 distinct input hashes that result in 7,467 distinct outputs (90.08%)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: RAM used: 171.15 MiB of 819.20 MiB budget. Usage: 20.89%
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Shaders Compiled: 4,780
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Jobs assigned 4,780, completed 4,780 (100%)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Average time worker was idle: 60.53 s
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Time job spent in pending queue: average 314.26 s, longest 702.55 s
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Job execution time: average 13.52 s, max 44.68 s
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Job life time (pending + execution): average 327.78 s, max 712.11
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Shader code size: average 46.787 KiB, min 2.148 KiB, max 354.566 KiB
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 851.13 s
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  7.41%
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Jobs were issued in 751 batches (only local compilation was used), average 6.36 jobs/batch
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Average processing rate: 5.62 jobs/sec
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Total thread time: 6,977.529 s
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Total thread preprocess time: 128.233 s
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Percentage time preprocessing: 1.84%
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Effective parallelization: 8.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 11.35 sec, max 11.35 sec, min 11.35 sec)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 10.34 sec, max 10.34 sec, min 10.34 sec)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 9.46 sec, max 9.46 sec, min 9.46 sec)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.18 sec, max 14.76 sec, min 5.90 sec)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 7.77 sec, max 7.77 sec, min 7.77 sec)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display:                                             FDeferredLightPS - 22.11% of total time (compiled  728 times, average 2.12 sec, max 6.25 sec, min 0.27 sec)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 5.95% of total time (compiled  448 times, average 0.93 sec, max 3.24 sec, min 0.26 sec)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.69% of total time (compiled  225 times, average 1.76 sec, max 4.64 sec, min 0.56 sec)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.89% of total time (compiled   80 times, average 4.27 sec, max 15.03 sec, min 0.76 sec)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.36% of total time (compiled   96 times, average 3.17 sec, max 6.22 sec, min 1.44 sec)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: === Material stats ===
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Materials Translated:    295
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Material Total Translate Time: 0.78 s
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Material Translation Only: 0.54 s (70%)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: Material Cache Hits: 4 (1%)
+[2025.01.02-01.58.03:308][ 75]LogShaderCompilers: Display: ================================================
+[2025.01.02-01.58.05:316][131]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.05:316][131]LogEditorTransaction: Undo Edit Default Water Movement Mode
+[2025.01.02-01.58.05:507][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.07:719][202]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.07:719][202]LogEditorTransaction: Undo Edit Default Land Movement Mode
+[2025.01.02-01.58.07:890][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.08:627][220]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.08:627][220]LogEditorTransaction: Undo Edit Default Land Movement Mode
+[2025.01.02-01.58.08:801][220]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.09:065][221]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.09:065][221]LogEditorTransaction: Undo Paste clipboard contents
+[2025.01.02-01.58.09:237][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.09:323][221]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.09:323][221]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.02-01.58.09:463][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.09:882][222]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.09:883][222]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.02-01.58.10:026][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.10:369][224]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.10:369][224]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.02-01.58.10:517][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.11:236][243]Cmd: TRANSACTION UNDO
+[2025.01.02-01.58.11:236][243]LogEditorTransaction: Undo Move Node
+[2025.01.02-01.58.11:444][243]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.15:351][395]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.15:351][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.15:443][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.01.02-01.58.19:509][620]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton.scene_Skeleton
+[2025.01.02-01.58.19:522][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.25:899][894]LogSlate: Window 'scene_Skeleton' being destroyed
+[2025.01.02-01.58.25:904][894]LogSlate: Window 'scene_Skeleton' being destroyed
+[2025.01.02-01.58.25:909][894]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.25:909][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.25:981][894]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.02-01.58.25:981][894]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.25:981][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.26:051][894]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.02-01.58.26:051][894]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.26:051][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.26:087][894]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.02-01.58.26:087][894]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.26:087][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.26:170][894]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.26:170][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.26:208][894]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.26:208][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.26:253][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.01.02-01.58.35:785][434]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Anim.scene_Anim
+[2025.01.02-01.58.35:802][434]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.36:303][434]LogSlate: Took 0.006051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.01.02-01.58.36:320][434]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.01.02-01.58.36:371][434]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.01.02-01.58.44:628][854]LogSlate: Window 'scene_Anim' being destroyed
+[2025.01.02-01.58.44:633][854]LogSlate: Window 'scene_Anim' being destroyed
+[2025.01.02-01.58.44:653][854]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.44:653][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.44:663][854]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.44:663][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.44:727][854]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.44:728][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.44:762][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.01.02-01.58.47:839][ 27]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset
+[2025.01.02-01.58.47:864][ 27]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.58.55:050][283]LogSlate: Window 'scene_PhysicsAsset' being destroyed
+[2025.01.02-01.58.55:055][283]LogSlate: Window 'scene_PhysicsAsset' being destroyed
+[2025.01.02-01.58.55:073][283]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.58.55:073][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.58.55:174][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.01.02-01.59.04:112][792]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton.scene_Skeleton
+[2025.01.02-01.59.04:122][792]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.02-01.59.42:776][649]LogSlate: Window 'scene_Skeleton' being destroyed
+[2025.01.02-01.59.42:803][649]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.59.42:803][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.59.42:884][649]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-01.59.42:884][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-01.59.42:919][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.01.02-01.59.47:564][950]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_6
+[2025.01.02-01.59.47:564][950]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_6. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.01.02-01.59.47:565][950]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_6
+[2025.01.02-01.59.48:227][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.02-01.59.48:229][992]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.01.02-01.59.48:237][992]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_7
+[2025.01.02-01.59.48:238][992]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_7. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.01.02-01.59.48:239][992]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_7
+[2025.01.02-01.59.48:251][992]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: SkeletalMeshActor_7)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.02-01.59.59:377][695]Cmd: DELETE
+[2025.01.02-01.59.59:377][695]Cmd: ACTOR DELETE
+[2025.01.02-01.59.59:389][695]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.01.02-01.59.59:411][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.01.02-01.59.59:415][695]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.01.02-02.00.02:930][908]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-02.00.02:930][908]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-02.00.02:932][908]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_8
+[2025.01.02-02.00.02:933][908]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_8
+[2025.01.02-02.00.03:443][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.01.02-02.00.03:446][942]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.01.02-02.00.03:454][942]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-02.00.03:454][942]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-02.00.03:456][942]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_9
+[2025.01.02-02.00.03:457][942]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene as actor: SkeletalMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.SkeletalMeshActor_9
+[2025.01.02-02.00.03:469][942]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: SkeletalMeshActor_9)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.02-02.00.10:751][451]Cmd: DELETE
+[2025.01.02-02.00.10:751][451]Cmd: ACTOR DELETE
+[2025.01.02-02.00.10:763][451]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.01.02-02.00.10:782][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.01.02-02.00.10:785][451]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.01.02-02.00.18:588][924]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-02.00.18:598][924]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.02-02.00.18:878][924]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2025.01.02-02.01.00:910][ 81]LogSlate: Window 'scene' being destroyed
+[2025.01.02-02.01.00:916][ 81]LogSlate: Window 'scene' being destroyed
+[2025.01.02-02.01.00:929][ 81]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-02.01.00:930][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-02.01.01:054][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.01.02-02.01.02:323][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.02-02.01.04:990][177]LogSlate: Window 'Save Content' being destroyed
+[2025.01.02-02.01.05:004][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-02.01.05:111][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.02-02.01.05:169][177]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.02-02.01.05:169][177]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.02-02.01.05:253][177]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.02-02.01.05:254][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene3884AF204CC55C615B4B508D21F45099.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.02-02.01.05:260][177]LogFileHelpers: All files are already saved.
+[2025.01.02-02.01.05:265][177]LogFileHelpers: Saving map 'MainScene' took 0.206
+[2025.01.02-02.01.05:266][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps] ([1] browsable assets)...
+[2025.01.02-02.01.05:337][177]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps.Blanc_Corps]
+[2025.01.02-02.01.05:337][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps]
+[2025.01.02-02.01.05:339][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps
+[2025.01.02-02.01.05:339][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Corps7169F0564DE69CE734C454AC54C3C255.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps.uasset'
+[2025.01.02-02.01.05:340][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_baseColor] ([1] browsable assets)...
+[2025.01.02-02.01.05:343][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_baseColor.Blanc_Corps_baseColor]
+[2025.01.02-02.01.05:343][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_baseColor]
+[2025.01.02-02.01.05:362][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_baseColor
+[2025.01.02-02.01.05:362][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Corps_baseColor424265BD46E6C2D954070F8C357FBE54.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_baseColor.uasset'
+[2025.01.02-02.01.05:363][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_baseColor] ([1] browsable assets)...
+[2025.01.02-02.01.05:366][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_baseColor.Blanc_Corps_baseColor]
+[2025.01.02-02.01.05:366][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_baseColor]
+[2025.01.02-02.01.05:385][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_baseColor
+[2025.01.02-02.01.05:385][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Corps_baseColorEF1414994FD527AB47C0DC8D4F7F9BFA.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_baseColor.uasset'
+[2025.01.02-02.01.05:388][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_metallicRoughness] ([1] browsable assets)...
+[2025.01.02-02.01.05:390][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_metallicRoughness.Blanc_Corps_metallicRoughness]
+[2025.01.02-02.01.05:390][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_metallicRoughness]
+[2025.01.02-02.01.05:463][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_metallicRoughness
+[2025.01.02-02.01.05:463][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Corps_metallicRoughnessC81DE9CC426188346195C5944B4DEB7E.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_metallicRoughness.uasset'
+[2025.01.02-02.01.05:464][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_metallicRoughness] ([1] browsable assets)...
+[2025.01.02-02.01.05:467][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_metallicRoughness.Blanc_Corps_metallicRoughness]
+[2025.01.02-02.01.05:467][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_metallicRoughness]
+[2025.01.02-02.01.05:538][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_metallicRoughness
+[2025.01.02-02.01.05:538][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Corps_metallicRoughness5C065F5F44F9208A77CEF69A0C968D33.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_metallicRoughness.uasset'
+[2025.01.02-02.01.05:540][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic] ([1] browsable assets)...
+[2025.01.02-02.01.05:549][177]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic.Blanc_Plastic]
+[2025.01.02-02.01.05:549][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic]
+[2025.01.02-02.01.05:551][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic
+[2025.01.02-02.01.05:551][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Plastic529A4C7143649F83E79C4EAF06BEE176.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic.uasset'
+[2025.01.02-02.01.05:552][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_baseColor] ([1] browsable assets)...
+[2025.01.02-02.01.05:554][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_baseColor.Blanc_Plastic_baseColor]
+[2025.01.02-02.01.05:554][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_baseColor]
+[2025.01.02-02.01.05:571][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_baseColor
+[2025.01.02-02.01.05:571][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Plastic_baseColorF2994F32422C1C9DF156D48941952510.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_baseColor.uasset'
+[2025.01.02-02.01.05:573][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_baseColor] ([1] browsable assets)...
+[2025.01.02-02.01.05:576][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_baseColor.Blanc_Plastic_baseColor]
+[2025.01.02-02.01.05:576][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_baseColor]
+[2025.01.02-02.01.05:594][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_baseColor
+[2025.01.02-02.01.05:594][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Plastic_baseColor08EC06174C0C3C5366ECE6B001C67228.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_baseColor.uasset'
+[2025.01.02-02.01.05:595][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_metallicRoughness] ([1] browsable assets)...
+[2025.01.02-02.01.05:598][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_metallicRoughness.Blanc_Plastic_metallicRoughness]
+[2025.01.02-02.01.05:598][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_metallicRoughness]
+[2025.01.02-02.01.05:673][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_metallicRoughness
+[2025.01.02-02.01.05:673][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Plastic_metallicRoughness4564CA9D427845D1A6C926BA69AE55BB.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_metallicRoughness.uasset'
+[2025.01.02-02.01.05:674][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_metallicRoughness] ([1] browsable assets)...
+[2025.01.02-02.01.05:676][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_metallicRoughness.Blanc_Plastic_metallicRoughness]
+[2025.01.02-02.01.05:676][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_metallicRoughness]
+[2025.01.02-02.01.05:745][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_metallicRoughness
+[2025.01.02-02.01.05:745][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Plastic_metallicRoughnessF840066D4EE5411AC7A60BAC26A2ED93.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_metallicRoughness.uasset'
+[2025.01.02-02.01.05:747][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_sans_AO] ([1] browsable assets)...
+[2025.01.02-02.01.05:757][177]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_sans_AO.Blanc_Plastic_sans_AO]
+[2025.01.02-02.01.05:757][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_sans_AO]
+[2025.01.02-02.01.05:759][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_sans_AO
+[2025.01.02-02.01.05:759][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Blanc_Plastic_sans_AODDFED5CF4BCF3CE5D7A2519ECEDDE9B4.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_sans_AO.uasset'
+[2025.01.02-02.01.05:760][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.01.02-02.01.05:760][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.01.02-02.01.05:762][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2025.01.02-02.01.05:762][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/BP_ThirdPersonGameModeC922AC9E4D3F7324ECF6CB95686994CF.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2025.01.02-02.01.05:764][177]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Ch_Snake1] ([2] browsable assets)...
+[2025.01.02-02.01.05:778][177]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1]
+[2025.01.02-02.01.05:778][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Ch_Snake1]
+[2025.01.02-02.01.05:792][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Ch_Snake1
+[2025.01.02-02.01.05:792][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Ch_Snake1E72668E14947578B33463EBD2E205855.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/Ch_Snake1.uasset'
+[2025.01.02-02.01.05:793][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Ch_Submarine] ([2] browsable assets)...
+[2025.01.02-02.01.05:808][177]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Ch_Submarine.Ch_Submarine]
+[2025.01.02-02.01.05:808][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Ch_Submarine]
+[2025.01.02-02.01.05:813][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Ch_Submarine
+[2025.01.02-02.01.05:813][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Ch_SubmarineDE36E8ED4B7083C9B929ADA09F58623B.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/Ch_Submarine.uasset'
+[2025.01.02-02.01.05:814][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass] ([1] browsable assets)...
+[2025.01.02-02.01.05:828][177]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass.Glass]
+[2025.01.02-02.01.05:828][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass]
+[2025.01.02-02.01.05:830][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass
+[2025.01.02-02.01.05:830][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Glass201334F9423366C2C29FFB8A796FFDA6.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass.uasset'
+[2025.01.02-02.01.05:831][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Glass_metallicRoughness] ([1] browsable assets)...
+[2025.01.02-02.01.05:833][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Glass_metallicRoughness.Glass_metallicRoughness]
+[2025.01.02-02.01.05:833][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Glass_metallicRoughness]
+[2025.01.02-02.01.05:836][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Glass_metallicRoughness
+[2025.01.02-02.01.05:836][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Glass_metallicRoughness637326CB4881A3A876E8629BABBAE390.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Glass_metallicRoughness.uasset'
+[2025.01.02-02.01.05:837][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass_metallicRoughness] ([1] browsable assets)...
+[2025.01.02-02.01.05:839][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass_metallicRoughness.Glass_metallicRoughness]
+[2025.01.02-02.01.05:839][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass_metallicRoughness]
+[2025.01.02-02.01.05:923][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass_metallicRoughness
+[2025.01.02-02.01.05:923][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Glass_metallicRoughnessFC473C8E4C381F1B40A9A98EE3BBB55D.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass_metallicRoughness.uasset'
+[2025.01.02-02.01.05:924][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/gris] ([1] browsable assets)...
+[2025.01.02-02.01.05:937][177]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/gris.gris]
+[2025.01.02-02.01.05:937][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/gris]
+[2025.01.02-02.01.05:939][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/gris
+[2025.01.02-02.01.05:939][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/grisDC81A62D486C4CB324D1E3AED39435C2.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/gris.uasset'
+[2025.01.02-02.01.05:940][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Jaune] ([1] browsable assets)...
+[2025.01.02-02.01.05:954][177]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Jaune.Jaune]
+[2025.01.02-02.01.05:954][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Jaune]
+[2025.01.02-02.01.05:955][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Jaune
+[2025.01.02-02.01.05:955][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/Jaune91DBC35F46E73B45B8B6ED9184B75A19.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Jaune.uasset'
+[2025.01.02-02.01.05:957][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/noir] ([1] browsable assets)...
+[2025.01.02-02.01.05:970][177]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/noir.noir]
+[2025.01.02-02.01.05:970][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/noir]
+[2025.01.02-02.01.05:971][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/noir
+[2025.01.02-02.01.05:971][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/noir9295E06A4CA5E5AF7B087D88B9401384.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/noir.uasset'
+[2025.01.02-02.01.05:972][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals] ([1] browsable assets)...
+[2025.01.02-02.01.05:983][177]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals.PROTEUS_Decals]
+[2025.01.02-02.01.05:983][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals]
+[2025.01.02-02.01.05:985][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals
+[2025.01.02-02.01.05:985][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/PROTEUS_Decals6E07305E41323C5B272C37B5E5EE0E2F.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals.uasset'
+[2025.01.02-02.01.05:986][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals_baseColor] ([1] browsable assets)...
+[2025.01.02-02.01.05:988][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals_baseColor.PROTEUS_Decals_baseColor]
+[2025.01.02-02.01.05:989][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals_baseColor]
+[2025.01.02-02.01.05:993][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals_baseColor
+[2025.01.02-02.01.05:993][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/PROTEUS_Decals_baseColorF743429344D7F8F4ECCFC3894FAC8EE4.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals_baseColor.uasset'
+[2025.01.02-02.01.05:994][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/PROTEUS_Decals_baseColor] ([1] browsable assets)...
+[2025.01.02-02.01.05:997][177]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/PROTEUS_Decals_baseColor.PROTEUS_Decals_baseColor]
+[2025.01.02-02.01.05:997][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/PROTEUS_Decals_baseColor]
+[2025.01.02-02.01.06:000][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/PROTEUS_Decals_baseColor
+[2025.01.02-02.01.06:000][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/PROTEUS_Decals_baseColor07CCFDFD4AD601886EDD1C8CFB29FC28.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/PROTEUS_Decals_baseColor.uasset'
+[2025.01.02-02.01.06:002][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Rouge] ([1] browsable assets)...
+[2025.01.02-02.01.06:015][177]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Rouge.Rouge]
+[2025.01.02-02.01.06:015][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Rouge]
+[2025.01.02-02.01.06:016][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Rouge
+[2025.01.02-02.01.06:016][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/RougeDA8AB08B4C698982A6D6959C2718D7E4.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Rouge.uasset'
+[2025.01.02-02.01.06:018][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene] ([1] browsable assets)...
+[2025.01.02-02.01.06:038][177]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene]
+[2025.01.02-02.01.06:038][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene]
+[2025.01.02-02.01.06:191][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene
+[2025.01.02-02.01.06:191][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/scene9C06EA1F4D9BBA608695D0B229560F9B.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.uasset'
+[2025.01.02-02.01.06:192][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Anim] ([1] browsable assets)...
+[2025.01.02-02.01.06:210][177]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Anim.scene_Anim]
+[2025.01.02-02.01.06:210][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Anim]
+[2025.01.02-02.01.06:214][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Anim
+[2025.01.02-02.01.06:215][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/scene_Anim903E6CCC4201F5D8423BC1BEFCC2C1B4.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Anim.uasset'
+[2025.01.02-02.01.06:216][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset] ([1] browsable assets)...
+[2025.01.02-02.01.06:231][177]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset]
+[2025.01.02-02.01.06:231][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset]
+[2025.01.02-02.01.06:236][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset
+[2025.01.02-02.01.06:236][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/scene_PhysicsAsset1BA843B74F26048927F95D913615B50E.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.uasset'
+[2025.01.02-02.01.06:237][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton] ([1] browsable assets)...
+[2025.01.02-02.01.06:256][177]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton.scene_Skeleton]
+[2025.01.02-02.01.06:256][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton]
+[2025.01.02-02.01.06:258][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton
+[2025.01.02-02.01.06:258][177]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/scene_Skeleton750562DF40AE24FAEDA38BAA9208796A.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton.uasset'
+[2025.01.02-02.01.06:268][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.26 sec (total: 4.48 sec)
+[2025.01.02-02.01.06:323][177]LogContentValidation: Display: Starting to validate 29 assets
+[2025.01.02-02.01.06:323][177]LogContentValidation: Enabled validators:
+[2025.01.02-02.01.06:323][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.02-02.01.06:323][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.02-02.01.06:323][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps.Blanc_Corps
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_baseColor.Blanc_Corps_baseColor
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_baseColor Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_baseColor.Blanc_Corps_baseColor
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_baseColor Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_metallicRoughness.Blanc_Corps_metallicRoughness
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Corps_metallicRoughness Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_metallicRoughness.Blanc_Corps_metallicRoughness
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Corps_metallicRoughness Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic.Blanc_Plastic
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_baseColor.Blanc_Plastic_baseColor
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_baseColor Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_baseColor.Blanc_Plastic_baseColor
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_baseColor Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_metallicRoughness.Blanc_Plastic_metallicRoughness
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Blanc_Plastic_metallicRoughness Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_metallicRoughness.Blanc_Plastic_metallicRoughness
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_metallicRoughness Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_sans_AO.Blanc_Plastic_sans_AO
+[2025.01.02-02.01.06:324][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Blanc_Plastic_sans_AO Validating asset
+[2025.01.02-02.01.06:324][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/Ch_Snake1 Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/Ch_Submarine.Ch_Submarine
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/Ch_Submarine Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass.Glass
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Glass_metallicRoughness.Glass_metallicRoughness
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/Glass_metallicRoughness Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass_metallicRoughness.Glass_metallicRoughness
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Glass_metallicRoughness Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/gris.gris
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/gris Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Jaune.Jaune
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Jaune Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/noir.noir
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/noir Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals.PROTEUS_Decals
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals_baseColor.PROTEUS_Decals_baseColor
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/PROTEUS_Decals_baseColor Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/PROTEUS_Decals_baseColor.PROTEUS_Decals_baseColor
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/textures/PROTEUS_Decals_baseColor Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Rouge.Rouge
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/Rouge Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene.scene
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Anim.scene_Anim
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Anim Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset.scene_PhysicsAsset
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_PhysicsAsset Validating asset
+[2025.01.02-02.01.06:325][177]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton.scene_Skeleton
+[2025.01.02-02.01.06:325][177]AssetCheck: /Game/ThirdPerson/Blueprints/proteus_fantastic_voyage_1966_gltf/scene_Skeleton Validating asset
+[2025.01.02-02.02.01:523][348]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
