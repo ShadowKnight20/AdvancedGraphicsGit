@@ -4075,3 +4075,236 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.01.03-15.21.34:649][573]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.03-15.21.34:649][573]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
 [2025.01.03-15.21.34:649][573]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: ================================================
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Total job queries 966, among them cache hits 399 (41.30%), DDC hits 299 (30.95%), Duplicates 9 (0.93%)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Tracking 558 distinct input hashes that result in 428 distinct outputs (76.70%)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: RAM used: 12.58 MiB of 819.20 MiB budget. Usage: 1.54%
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Shaders Compiled: 259
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Jobs assigned 259, completed 259 (100%)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Average time worker was idle: 48.66 s
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Time job spent in pending queue: average 4.20 s, longest 13.03 s
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Job execution time: average 1.98 s, max 4.77 s
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Job life time (pending + execution): average 6.18 s, max 14.24
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Shader code size: average 50.968 KiB, min 1.932 KiB, max 85.07 KiB
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 79.09 s
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Jobs were issued in 248 batches (only local compilation was used), average 1.04 jobs/batch
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Average processing rate: 3.27 jobs/sec
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Total thread time: 434.519 s
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Total thread preprocess time: 17.573 s
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Percentage time preprocessing: 4.04%
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Effective parallelization: 5.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   15 times, average 2.12 sec, max 2.54 sec, min 1.72 sec)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   15 times, average 2.08 sec, max 2.44 sec, min 1.66 sec)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   15 times, average 2.06 sec, max 2.50 sec, min 1.64 sec)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   15 times, average 2.05 sec, max 2.42 sec, min 1.63 sec)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   15 times, average 2.02 sec, max 2.42 sec, min 1.66 sec)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.20% of total time (compiled   21 times, average 1.70 sec, max 2.47 sec, min 0.44 sec)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.31% of total time (compiled   15 times, average 2.12 sec, max 2.54 sec, min 1.72 sec)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight - 7.18% of total time (compiled   15 times, average 2.08 sec, max 2.44 sec, min 1.66 sec)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.12% of total time (compiled   15 times, average 2.06 sec, max 2.50 sec, min 1.64 sec)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.06% of total time (compiled   15 times, average 2.05 sec, max 2.42 sec, min 1.63 sec)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: === Material stats ===
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Materials Translated:    279
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Material Total Translate Time: 0.28 s
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Material Translation Only: 0.10 s (36%)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: Material Cache Hits: 108 (39%)
+[2025.01.03-15.22.42:041][218]LogShaderCompilers: Display: ================================================
+[2025.01.03-15.23.41:811][727]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-15.23.52:893][362]LogStaticMesh: Display: Building static mesh SM_Cave_Ruins_Rail_00 (Required Memory Estimate: 17.388656 MB)...
+[2025.01.03-15.23.53:072][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Rail_00.SM_Cave_Ruins_Rail_00
+[2025.01.03-15.23.53:077][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Rail_00.SM_Cave_Ruins_Rail_00
+[2025.01.03-15.23.53:078][365]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Rail_00.SM_Cave_Ruins_Rail_00 as actor: StaticMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.StaticMeshActor_0
+[2025.01.03-15.23.53:078][365]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Rail_00) ...
+[2025.01.03-15.23.53:091][365]LogStaticMesh: Built static mesh [0.20s] /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Rail_00.SM_Cave_Ruins_Rail_00
+[2025.01.03-15.23.53:487][378]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Rail_00_AO_R_MT.T_Cave_Ruins_Rail_00_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.01.03-15.23.53:599][380]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Rail_00_BC.T_Cave_Ruins_Rail_00_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.01.03-15.23.53:822][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2025.01.03-15.23.53:827][388]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2025.01.03-15.23.53:834][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Rail_00.SM_Cave_Ruins_Rail_00
+[2025.01.03-15.23.53:834][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Rail_00.SM_Cave_Ruins_Rail_00
+[2025.01.03-15.23.53:836][388]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Rail_00.SM_Cave_Ruins_Rail_00 as actor: StaticMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.StaticMeshActor_6
+[2025.01.03-15.23.53:855][388]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_6)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.23.54:125][389]LogTexture: Display: Building textures: /Game/Cave_Ruins/Textures/T_Cave_Ruins_Rail_00_N.T_Cave_Ruins_Rail_00_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.01.03-15.25.09:371][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00
+[2025.01.03-15.25.09:371][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00
+[2025.01.03-15.25.09:372][542]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00 as actor: StaticMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.StaticMeshActor_7
+[2025.01.03-15.25.09:958][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.03-15.25.09:961][570]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.01.03-15.25.09:967][570]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00
+[2025.01.03-15.25.09:967][570]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00
+[2025.01.03-15.25.09:968][570]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cave_Ruins/Meshes/SM_Cave_Ruins_Arch_00.SM_Cave_Ruins_Arch_00 as actor: StaticMeshActor /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.StaticMeshActor_12
+[2025.01.03-15.25.09:979][570]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_12)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.26.20:888][458]Cmd: EDIT COPY
+[2025.01.03-15.26.21:308][487]Cmd: EDIT PASTE
+[2025.01.03-15.26.21:324][487]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_14)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.26.35:979][489]Cmd: EDIT COPY
+[2025.01.03-15.26.36:424][517]Cmd: EDIT PASTE
+[2025.01.03-15.26.36:438][517]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_15)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.27.09:835][669]Cmd: EDIT COPY
+[2025.01.03-15.27.10:376][708]Cmd: EDIT PASTE
+[2025.01.03-15.27.10:391][708]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_19)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.27.31:074][109]Cmd: EDIT COPY
+[2025.01.03-15.27.31:292][123]Cmd: EDIT PASTE
+[2025.01.03-15.27.31:309][123]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_20)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.27.46:754][138]Cmd: EDIT COPY
+[2025.01.03-15.27.46:978][153]Cmd: EDIT PASTE
+[2025.01.03-15.27.46:991][153]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_21)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.28.06:138][443]Cmd: EDIT COPY
+[2025.01.03-15.28.06:370][457]Cmd: EDIT PASTE
+[2025.01.03-15.28.06:384][457]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_22)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.29.30:161][ 45]Cmd: EDIT COPY
+[2025.01.03-15.29.30:370][ 60]Cmd: EDIT PASTE
+[2025.01.03-15.29.30:385][ 60]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_23)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.29.41:720][798]Cmd: EDIT COPY
+[2025.01.03-15.29.41:962][815]Cmd: EDIT PASTE
+[2025.01.03-15.29.41:976][815]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_24)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.32.21:501][372]Cmd: EDIT COPY
+[2025.01.03-15.32.21:733][388]Cmd: EDIT PASTE
+[2025.01.03-15.32.21:748][388]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_25)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.32.33:023][112]Cmd: EDIT COPY
+[2025.01.03-15.32.33:262][126]Cmd: EDIT PASTE
+[2025.01.03-15.32.33:277][126]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_26)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.33.36:895][341]Cmd: EDIT COPY
+[2025.01.03-15.33.36:896][341]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2025.01.03-15.33.37:111][356]Cmd: EDIT PASTE
+[2025.01.03-15.33.37:127][356]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_27)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.33.41:807][655]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-15.33.49:554][196]Cmd: EDIT COPY
+[2025.01.03-15.33.49:820][215]Cmd: EDIT PASTE
+[2025.01.03-15.33.49:838][215]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_28)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.34.02:189][ 74]Cmd: EDIT PASTE
+[2025.01.03-15.34.02:203][ 74]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_29)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.34.19:173][185]Cmd: EDIT COPY
+[2025.01.03-15.34.19:332][196]Cmd: EDIT PASTE
+[2025.01.03-15.34.19:347][196]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: SM_URockB26_30)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.34.27:325][697]Cmd: EDIT COPY
+[2025.01.03-15.34.27:564][710]Cmd: EDIT PASTE
+[2025.01.03-15.34.27:578][710]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_31)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.34.54:769][523]Cmd: EDIT COPY
+[2025.01.03-15.34.54:934][534]Cmd: EDIT PASTE
+[2025.01.03-15.34.54:948][534]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_32)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.35.10:011][565]Cmd: EDIT COPY
+[2025.01.03-15.35.10:230][580]Cmd: EDIT PASTE
+[2025.01.03-15.35.10:243][580]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_33)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.35.21:068][349]Cmd: EDIT COPY
+[2025.01.03-15.35.21:283][365]Cmd: EDIT PASTE
+[2025.01.03-15.35.21:297][365]LogAvaOutlinerSubsystem: Actor Hierarchy Changed: (Child: StaticMeshActor_34)  (Parent: invalid)  Change Type: EAvaOutlinerHierarchyChangeType::Attached
+[2025.01.03-15.41.08:401][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.03-15.41.08:530][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.01.03-15.41.08:684][486]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.03-15.41.08:685][486]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene53C636A54650FF7C21811EACFF064986.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.03-15.41.08:690][486]LogFileHelpers: All files are already saved.
+[2025.01.03-15.41.08:694][486]LogFileHelpers: Saving map 'MainScene' took 0.227
+[2025.01.03-15.41.08:702][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 300.895 ms (total: 2.57 sec)
+[2025.01.03-15.41.08:748][486]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.03-15.41.08:748][486]LogContentValidation: Enabled validators:
+[2025.01.03-15.41.08:748][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.03-15.41.08:748][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.03-15.41.08:748][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.03-15.41.08:748][486]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.03-15.41.08:748][486]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.03-15.41.09:503][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.03-15.41.09:613][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.03-15.41.09:763][535]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.03-15.41.09:764][535]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/MainSceneE34EDAB44C98EDB89A63B5833BF3FDD3.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.03-15.41.09:771][535]LogFileHelpers: All files are already saved.
+[2025.01.03-15.41.09:774][535]LogFileHelpers: Saving map 'MainScene' took 0.208
+[2025.01.03-15.41.09:787][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 284.215 ms (total: 2.85 sec)
+[2025.01.03-15.41.09:849][535]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.03-15.41.09:849][535]LogContentValidation: Enabled validators:
+[2025.01.03-15.41.09:849][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.03-15.41.09:849][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.03-15.41.09:849][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.03-15.41.09:849][535]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.03-15.41.09:849][535]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.03-15.41.12:008][680]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.03-15.41.12:029][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.03-15.41.12:030][680]LogPlayLevel: Creating play world package: /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.03-15.41.12:060][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030353s)
+[2025.01.03-15.41.12:060][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OceanFloor/Maps/MainScene.MainScene to /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene (0.030392s)
+[2025.01.03-15.41.12:084][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.03-15.41.12:085][680]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.03-15.41.12:086][680]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2025.01.03-15.41.12:109][680]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.01.03-15.41.12:109][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.03-15.41.12:109][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.03-15.41.12:109][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.03-15.41.12:109][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.03-15.41.12:109][680]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.03-15.41.12:109][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.03-15.41.12:109][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.03-15.41.12:109][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.03-15.41.12:109][680]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.03-15.41.12:109][680]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.03-15.41.12:109][680]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.03-15.41.12:111][680]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.03-15.41.12:125][680]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.03-15.41.12:125][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.03-15.41.12:125][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.03-15.41.12:125][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.03-15.41.12:126][680]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.01.03-15.41.12:126][680]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.01.03-15.41.12:129][680]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.01.03-15.41.12:129][680]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.01.03-15.41.12:129][680]LogInit: FAudioDevice initialized with ID 16.
+[2025.01.03-15.41.12:129][680]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainScene'.
+[2025.01.03-15.41.12:129][680]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.01.03-15.41.12:129][680]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.01.03-15.41.12:129][680]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2025.01.03-15.41.12:132][680]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.03-15.41.12:191][680]LogWorld: Bringing World /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2025.01.03-15.41.12
+[2025.01.03-15.41.12:192][680]LogWorld: Bringing up level for play took: 0.060050
+[2025.01.03-15.41.12:195][680]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.01.03-15.41.12:229][680]PIE: Server logged in
+[2025.01.03-15.41.12:230][680]PIE: Play in editor total start time 0.209 seconds.
+[2025.01.03-15.41.12:249][680]LogCEClonerComponent: Cloner2 : Cloner layout system loaded Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.03-15.41.12:252][680]LogCEClonerComponent: Cloner2 : Cloner layout system changed Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.03-15.41.12:253][680]LogACEEffectorSubsystem: Effector effector registered in channel 0
+[2025.01.03-15.41.12:253][680]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight20
+[2025.01.03-15.41.12:253][680]LogCEClonerComponent: Cloner2 : Updating baked actor mesh PointLight18
+[2025.01.03-15.41.12:253][680]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeA
+[2025.01.03-15.41.12:253][680]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeB
+[2025.01.03-15.41.12:254][680]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeC
+[2025.01.03-15.41.12:258][680]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight20
+[2025.01.03-15.41.12:258][680]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh PointLight18
+[2025.01.03-15.41.12:258][680]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeA
+[2025.01.03-15.41.12:260][680]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.03-15.41.12:260][680]LogStaticMesh: Display: Building static mesh StaticMesh_77 (Required Memory Estimate: 0.165084 MB)...
+[2025.01.03-15.41.12:263][680]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_77
+[2025.01.03-15.41.12:277][680]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeB
+[2025.01.03-15.41.12:279][680]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.03-15.41.12:279][680]LogStaticMesh: Display: Building static mesh StaticMesh_78 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.03-15.41.12:285][680]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_78
+[2025.01.03-15.41.12:297][680]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeC
+[2025.01.03-15.41.12:302][680]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.03-15.41.12:302][680]LogStaticMesh: Display: Building static mesh StaticMesh_79 (Required Memory Estimate: 1.433177 MB)...
+[2025.01.03-15.41.12:311][680]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_79
+[2025.01.03-15.41.12:491][681]LogCEClonerComponent: Cloner2 : Cloner mesh updated 5
+[2025.01.03-15.41.48:645][529]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2025.01.03-15.42.49:751][407]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2025.01.03-15.43.29:526][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.03-15.43.29:526][529]LogWorld: BeginTearingDown for /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.03-15.43.29:526][529]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.03-15.43.29:534][529]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (NDC_MainTripleScreen1)
+[2025.01.03-15.43.29:534][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.03-15.43.29:535][529]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.03-15.43.29:535][529]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.03-15.43.29:539][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.03-15.43.29:540][529]LogNiagaraEditor: onPieEnd
+[2025.01.03-15.43.29:548][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.03-15.43.29:573][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.03-15.43.29:575][529]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.01.03-15.43.29:575][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.01.03-15.43.29:577][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.01.03-15.43.29:611][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2025.01.03-15.43.29:716][530]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.01.03-15.43.41:815][373]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-15.45.19:871][661]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
