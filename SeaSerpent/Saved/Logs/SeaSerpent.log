@@ -4643,3 +4643,45 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.01.03-16.13.32:194][721]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
 [2025.01.03-16.13.32:195][721]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
 [2025.01.03-16.13.41:911][840]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-16.23.41:917][641]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-16.33.41:921][441]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-16.43.41:926][240]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-16.45.19:871][534]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.03-16.53.41:931][ 41]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-17.03.41:939][841]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-17.13.41:945][641]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-17.23.41:951][441]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-17.33.41:954][241]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-17.43.41:957][ 41]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-17.45.19:871][334]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.03-17.53.41:963][841]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-18.03.41:968][640]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-18.13.41:975][440]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-18.23.41:980][240]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-18.33.41:985][ 41]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-18.43.41:993][841]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-18.45.19:871][134]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.03-18.53.41:997][640]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-19.03.42:003][441]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-19.13.42:009][241]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-19.23.42:013][ 41]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-19.33.42:018][841]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-19.43.42:024][641]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-19.45.19:871][934]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.03-19.53.42:028][441]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-20.03.42:034][241]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-20.13.42:041][ 41]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.03-20.17.11:682][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.03-20.17.11:878][834]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2025.01.03-20.17.12:049][834]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.03-20.17.12:049][834]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene2BE7B93946785A7E673CABA6D4231D94.tmp' to '../../../../../../Users/Student/Documents/Module Dev Containers/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.03-20.17.12:056][834]LogFileHelpers: All files are already saved.
+[2025.01.03-20.17.12:060][834]LogFileHelpers: Saving map 'MainScene' took 0.326
+[2025.01.03-20.17.12:067][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 385.642 ms (total: 3.76 sec)
+[2025.01.03-20.17.12:120][834]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.03-20.17.12:120][834]LogContentValidation: Enabled validators:
+[2025.01.03-20.17.12:120][834]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.03-20.17.12:120][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.03-20.17.12:120][834]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.03-20.17.12:120][834]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.03-20.17.12:121][834]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
