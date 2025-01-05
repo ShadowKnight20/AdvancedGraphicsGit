@@ -18,15 +18,15 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android"
+				"Android",
+				"VisionOS"
 			]
 		},
 		{
 			"Name": "VirtualScouting",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
+				"Win64"
 			]
 		},
 		{
@@ -76,6 +76,10 @@
 		},
 		{
 			"Name": "FieldSystemPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	],
