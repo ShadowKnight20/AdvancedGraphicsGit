@@ -4358,3 +4358,5 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.01.07-14.32.28:393][ 23]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
 [2025.01.07-14.34.15:106][344]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2025.01.07-14.36.23:292][728]LogRemoteControlWebInterface: WebApp exited
+[2025.01.07-14.42.28:490][823]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-14.52.28:574][623]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.

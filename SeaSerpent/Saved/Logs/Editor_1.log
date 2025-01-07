@@ -2183,3 +2183,117 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.01.07-14.38.14:029][338]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2025.01.07-14.38.21:359][896]LogConcert: Error: [Failure] Connection to Session 'MU_SwitchboardConfig_1' Canceled.
 [2025.01.07-14.38.21:393][897]LogConcert: Error: [Failure] Connection to Session 'MU_SwitchboardConfig_1' Canceled.
+[2025.01.07-14.39.14:803][712]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.07-14.39.14:843][713]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OpenStageControlUserInterface.json)
+[2025.01.07-14.39.18:302][713]LogSlate: Window 'DataTable Options' being destroyed
+[2025.01.07-14.39.18:320][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.01.07-14.39.18:328][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.01.07-14.39.21:342][924]AssetReimport: Importing new asset /Game/OpenStageControlUserInterface.
+[2025.01.07-14.39.21:342][924]AssetReimport: Failed to import file C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OpenStageControlUserInterface.json.
+[2025.01.07-14.41.42:538][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-14.41.42:645][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.01.07-14.41.42:657][381]LogPackageLocalizationCache: Processed 99 localized package path(s) for 1 prioritized culture(s) in 0.010273 seconds
+[2025.01.07-14.41.42:719][381]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.41.42:719][381]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.41.42:872][381]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-14.41.42:873][381]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene3658C01A4887C1D5679ADB9061585B92.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-14.41.42:878][381]LogFileHelpers: All files are already saved.
+[2025.01.07-14.41.42:881][381]LogFileHelpers: Saving map 'MainScene' took 0.271
+[2025.01.07-14.41.42:887][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 347.991 ms
+[2025.01.07-14.41.42:944][381]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-14.41.42:944][381]LogContentValidation: Enabled validators:
+[2025.01.07-14.41.42:944][381]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-14.41.42:944][381]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-14.41.42:944][381]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-14.41.42:944][381]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-14.41.42:944][381]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-14.42.28:016][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-14.42.28:105][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.01.07-14.42.28:166][899]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.42.28:166][899]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.42.28:314][899]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-14.42.28:314][899]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene89D57617470E78D1E2606CB2E30637E5.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-14.42.28:320][899]LogFileHelpers: All files are already saved.
+[2025.01.07-14.42.28:322][899]LogFileHelpers: Saving map 'MainScene' took 0.248
+[2025.01.07-14.42.28:334][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 317.379 ms (total: 665.370 ms)
+[2025.01.07-14.42.28:399][899]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-14.42.28:399][899]LogContentValidation: Enabled validators:
+[2025.01.07-14.42.28:399][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-14.42.28:399][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-14.42.28:399][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-14.42.28:400][899]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-14.42.28:400][899]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-14.42.57:272][975]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.07-14.42.59:246][120]LogAssetEditorSubsystem: Opening Asset editor for DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.07-14.42.59:991][120]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2025.01.07-14.43.00:151][120]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.01.07-14.43.04:102][211]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.07-14.46.08:204][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-14.46.08:260][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.07-14.46.08:260][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.07-14.46.08:264][148]LogSavePackage: Moving output files for package: /Game/OceanFloor/NDC_MainTripleScreen
+[2025.01.07-14.46.08:264][148]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreen6ADF8F9646D6C8F6FC44F8BE20694795.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset'
+[2025.01.07-14.46.08:273][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.491 ms (total: 734.861 ms)
+[2025.01.07-14.46.08:329][148]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-14.46.08:329][148]LogContentValidation: Enabled validators:
+[2025.01.07-14.46.08:329][148]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-14.46.08:329][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-14.46.08:329][148]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-14.46.08:329][148]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.07-14.46.08:329][148]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
+[2025.01.07-14.46.25:768][235]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-14.46.55:357][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-14.46.55:453][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.07-14.46.55:515][902]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.46.55:515][902]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.46.55:667][902]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-14.46.55:667][902]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene8C21993F43276B568440B788C7BD28DC.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-14.46.55:673][902]LogFileHelpers: All files are already saved.
+[2025.01.07-14.46.55:676][902]LogFileHelpers: Saving map 'MainScene' took 0.263
+[2025.01.07-14.46.55:681][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 323.823 ms (total: 1.05 sec)
+[2025.01.07-14.46.55:712][902]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-14.46.55:712][902]LogContentValidation: Enabled validators:
+[2025.01.07-14.46.55:712][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-14.46.55:712][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-14.46.55:712][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-14.46.55:712][902]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-14.46.55:712][902]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-14.49.45:318][ 23]LogSlate: Window 'Deactivate Motion Design Interface' being destroyed
+[2025.01.07-14.49.45:324][ 23]Message dialog closed, result: Yes, title: Deactivate Motion Design Interface, text: Are you sure you want to deactivate the Motion Design Interface? 
+Note: The scene data will be kept.
+[2025.01.07-14.49.45:525][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-14.49.45:534][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-14.49.45:542][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-14.49.45:551][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-14.51.09:574][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-14.51.09:681][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.01.07-14.51.09:743][864]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.51.09:743][864]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.51.09:891][864]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-14.51.09:892][864]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainSceneB939C9B54413277FBA91A8A6291976D9.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-14.51.09:898][864]LogFileHelpers: All files are already saved.
+[2025.01.07-14.51.09:901][864]LogFileHelpers: Saving map 'MainScene' took 0.255
+[2025.01.07-14.51.09:914][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 340.281 ms (total: 1.39 sec)
+[2025.01.07-14.51.09:974][864]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-14.51.09:975][864]LogContentValidation: Enabled validators:
+[2025.01.07-14.51.09:975][864]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-14.51.09:975][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-14.51.09:975][864]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-14.51.09:975][864]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-14.51.09:975][864]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-14.52.38:534][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-14.52.38:622][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.01.07-14.52.38:683][164]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.52.38:683][164]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.52.38:834][164]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-14.52.38:834][164]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainSceneC9EE176B422579FAB44557B604AAD727.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-14.52.38:839][164]LogFileHelpers: All files are already saved.
+[2025.01.07-14.52.38:842][164]LogFileHelpers: Saving map 'MainScene' took 0.253
+[2025.01.07-14.52.38:856][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 320.907 ms (total: 1.71 sec)
+[2025.01.07-14.52.38:915][164]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-14.52.38:915][164]LogContentValidation: Enabled validators:
+[2025.01.07-14.52.38:915][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-14.52.38:915][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-14.52.38:915][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-14.52.38:915][164]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-14.52.38:916][164]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
