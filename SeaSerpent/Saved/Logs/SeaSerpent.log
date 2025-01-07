@@ -2618,3 +2618,122 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.01.07-12.10.55:098][259]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OceanFloor/MainControler_Auto1
 [2025.01.07-12.10.55:098][259]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainControler_Auto1B524F97F4A684A97FD03AFAA058BC77E.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/OceanFloor/MainControler_Auto1.uasset'
 [2025.01.07-12.10.55:098][259]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.01.07-12.12.26:742][834]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-12.13.34:932][476]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.07-12.13.34:944][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.07-12.13.34:944][476]LogPlayLevel: Creating play world package: /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.07-12.13.34:982][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038124s)
+[2025.01.07-12.13.34:982][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OceanFloor/Maps/MainScene.MainScene to /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene (0.038162s)
+[2025.01.07-12.13.34:988][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.01.07-12.13.34:992][476]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.07-12.13.34:993][476]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2025.01.07-12.13.34:998][476]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.01.07-12.13.34:998][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.07-12.13.34:998][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.07-12.13.34:998][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.07-12.13.34:998][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.07-12.13.34:998][476]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.07-12.13.34:998][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.07-12.13.34:998][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.07-12.13.34:998][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.07-12.13.34:998][476]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.07-12.13.34:998][476]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.07-12.13.34:998][476]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.07-12.13.35:002][476]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.07-12.13.35:015][476]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2025.01.07-12.13.35:016][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.07-12.13.35:016][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.07-12.13.35:016][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.07-12.13.35:016][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.01.07-12.13.35:016][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.01.07-12.13.35:019][476]LogInit: FAudioDevice initialized with ID 4.
+[2025.01.07-12.13.35:019][476]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainScene'.
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-12.13.35:019][476]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-12.13.35:019][476]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.01.07-12.13.35:019][476]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2025.01.07-12.13.35:021][476]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.07-12.13.35:096][476]LogWorld: Bringing World /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2025.01.07-12.13.35
+[2025.01.07-12.13.35:097][476]LogWorld: Bringing up level for play took: 0.076054
+[2025.01.07-12.13.35:099][476]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.01.07-12.13.35:108][476]PIE: Server logged in
+[2025.01.07-12.13.35:110][476]PIE: Play in editor total start time 0.168 seconds.
+[2025.01.07-12.13.35:123][476]LogCEClonerComponent: Cloner2 : Cloner layout system loaded Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.07-12.13.35:125][476]LogCEClonerComponent: Cloner2 : Cloner layout system changed Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.07-12.13.35:126][476]LogACEEffectorSubsystem: Effector effector registered in channel 0
+[2025.01.07-12.13.35:126][476]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeA
+[2025.01.07-12.13.35:126][476]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeB
+[2025.01.07-12.13.35:127][476]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeC
+[2025.01.07-12.13.35:138][476]LogCEClonerComponent: Cloner3 : Cloner layout system loaded Circle - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerCircle.NS_ClonerCircle'
+[2025.01.07-12.13.35:149][476]LogCEClonerComponent: Cloner3 : Cloner layout system changed Circle - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerCircle.NS_ClonerCircle'
+[2025.01.07-12.13.35:150][476]LogCEClonerComponent: Cloner3 : Updating baked actor mesh SM_RedAlgaeC2
+[2025.01.07-12.13.35:152][476]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeA
+[2025.01.07-12.13.35:153][476]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-12.13.35:153][476]LogStaticMesh: Display: Building static mesh StaticMesh_12 (Required Memory Estimate: 0.165084 MB)...
+[2025.01.07-12.13.35:155][476]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_12
+[2025.01.07-12.13.35:170][476]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeB
+[2025.01.07-12.13.35:173][476]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-12.13.35:173][476]LogStaticMesh: Display: Building static mesh StaticMesh_13 (Required Memory Estimate: 1.433177 MB)...
+[2025.01.07-12.13.35:182][476]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_13
+[2025.01.07-12.13.35:190][476]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeC
+[2025.01.07-12.13.35:192][476]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-12.13.35:192][476]LogStaticMesh: Display: Building static mesh StaticMesh_14 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.07-12.13.35:196][476]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_14
+[2025.01.07-12.13.35:404][477]LogCEClonerComponent: Cloner2 : Cloner mesh updated 3
+[2025.01.07-12.13.35:404][477]LogCEClonerComponent: Cloner3 : Updating root merged baked mesh SM_RedAlgaeC2
+[2025.01.07-12.13.35:406][477]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-12.13.35:406][477]LogStaticMesh: Display: Building static mesh StaticMesh_15 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.07-12.13.35:410][477]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_15
+[2025.01.07-12.13.35:427][477]LogCEClonerComponent: Cloner3 : Cloner mesh updated 1
+[2025.01.07-12.13.42:279][245]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2025.01.07-12.13.42:279][245]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2025.01.07-12.14.35:677][518]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2025.01.07-12.14.35:677][518]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2025.01.07-12.14.36:042][554]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2025.01.07-12.14.37:350][690]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2025.01.07-12.14.37:350][690]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2025.01.07-12.15.37:148][ 70]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2025.01.07-12.16.19:790][204]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2025.01.07-12.16.19:790][204]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2025.01.07-12.16.19:842][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-12.16.19:842][204]LogWorld: BeginTearingDown for /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.07-12.16.19:843][204]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-12.16.19:856][204]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (NDC_MainTripleScreen62)
+[2025.01.07-12.16.19:856][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-12.16.19:857][204]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.07-12.16.19:857][204]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.07-12.16.19:860][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.07-12.16.19:861][204]LogNiagaraEditor: onPieEnd
+[2025.01.07-12.16.19:865][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-12.16.19:872][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-12.16.19:873][204]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.07-12.16.19:873][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.07-12.16.19:875][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.07-12.16.19:913][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2025.01.07-12.16.19:952][205]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.01.07-12.16.38:918][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-12.16.38:985][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.07-12.16.39:048][912]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-12.16.39:048][912]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-12.16.39:198][912]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-12.16.39:198][912]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene039B51CD478F6997491418AD9FF47B36.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-12.16.39:205][912]LogFileHelpers: All files are already saved.
+[2025.01.07-12.16.39:207][912]LogFileHelpers: Saving map 'MainScene' took 0.247
+[2025.01.07-12.16.39:214][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 295.534 ms (total: 1.24 sec)
+[2025.01.07-12.16.39:246][912]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-12.16.39:246][912]LogContentValidation: Enabled validators:
+[2025.01.07-12.16.39:246][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-12.16.39:246][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-12.16.39:246][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-12.16.39:246][912]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-12.16.39:246][912]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
