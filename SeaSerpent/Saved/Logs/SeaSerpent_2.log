@@ -2972,3 +2972,197 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.01.07-11.08.52:104][583]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.07-11.08.52:104][583]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
 [2025.01.07-11.08.52:104][583]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-11.10.33:159][310]LogSwitchboardPlugin: Display: Successfully started SwitchboardListener
+[2025.01.07-11.11.01:773][291]LogSwitchboardPlugin: Display: Successfully started SwitchboardListener
+[2025.01.07-11.11.08:897][661]LogSwitchboardPlugin: Display: Successfully started Switchboard
+[2025.01.07-11.15.50:215][818]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-11.25.50:310][618]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-11.27.54:208][953]LogAssetEditorSubsystem: Opening Asset editor for RemoteControlPreset /Game/OceanFloor/MainControler.MainControler
+[2025.01.07-11.28.20:154][561]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.07-11.28.20:179][561]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: ================================================
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Total job queries 302, among them cache hits 43 (14.24%), DDC hits 247 (81.79%), Duplicates 2 (0.66%)
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Tracking 257 distinct input hashes that result in 222 distinct outputs (86.38%)
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: RAM used: 5.76 MiB of 1.60 GiB budget. Usage: 0.35%
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Shaders Compiled: 10
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Average time worker was idle: 387.89 s
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.13 s
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Job execution time: average 1.02 s, max 1.74 s
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Job life time (pending + execution): average 1.11 s, max 1.80
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Shader code size: average 37.767 KiB, min 28.008 KiB, max 64.484 KiB
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.06 s
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Average processing rate: 2.46 jobs/sec
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Total thread time: 4.818 s
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Total thread preprocess time: 4.023 s
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Percentage time preprocessing: 83.50%
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Effective parallelization: 1.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.86 sec, max 0.94 sec, min 0.79 sec)
+[2025.01.07-11.28.50:871][326]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.61 sec, max 0.66 sec, min 0.55 sec)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.18 sec, max 0.18 sec, min 0.17 sec)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.87% of total time (compiled    2 times, average 0.86 sec, max 0.94 sec, min 0.79 sec)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 25.19% of total time (compiled    2 times, average 0.61 sec, max 0.66 sec, min 0.55 sec)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display:                                                  FVelocityPS - 9.54% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 8.29% of total time (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.28% of total time (compiled    2 times, average 0.18 sec, max 0.18 sec, min 0.17 sec)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display: === Material stats ===
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display: Materials Translated:    256
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display: Material Translation Only: 0.06 s (43%)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display: Material Cache Hits: 151 (59%)
+[2025.01.07-11.28.50:872][326]LogShaderCompilers: Display: ================================================
+[2025.01.07-11.30.18:817][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-11.30.18:883][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.07-11.30.18:946][662]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-11.30.18:946][662]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-11.30.19:094][662]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-11.30.19:095][662]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene37FBD46743DBFCCEBFC4C2A2DDAC772A.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-11.30.19:101][662]LogFileHelpers: All files are already saved.
+[2025.01.07-11.30.19:103][662]LogFileHelpers: Saving map 'MainScene' took 0.247
+[2025.01.07-11.30.19:107][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.139 ms (total: 2.86 sec)
+[2025.01.07-11.30.19:146][662]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-11.30.19:146][662]LogContentValidation: Enabled validators:
+[2025.01.07-11.30.19:146][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-11.30.19:146][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-11.30.19:146][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-11.30.19:146][662]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-11.30.19:147][662]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-11.30.51:641][394]LogSlate: Window 'Message' being destroyed
+[2025.01.07-11.30.51:644][394]Message dialog closed, result: Yes, title: Message, text: Plugin 'Epic Stage App' is a beta version. Epic recommends using caution when shipping projects with beta plugins. Beta plugins support backwards compatibility for assets and APIs, but performance, stability, and platform support may not be shipping quality. Are you sure you want to enable the plugin?
+[2025.01.07-11.31.44:096][  7]LogSlate: Window 'Message' being destroyed
+[2025.01.07-11.31.44:099][  7]Message dialog closed, result: Yes, title: Message, text: Plugin 'Remote Control Protocol DMX' is a beta version. Epic recommends using caution when shipping projects with beta plugins. Beta plugins support backwards compatibility for assets and APIs, but performance, stability, and platform support may not be shipping quality. Are you sure you want to enable the plugin?
+[2025.01.07-11.31.46:363][ 79]LogSlate: Window 'Message' being destroyed
+[2025.01.07-11.31.46:367][ 79]Message dialog closed, result: Yes, title: Message, text: Plugin 'Remote Control Protocol MIDI' is a beta version. Epic recommends using caution when shipping projects with beta plugins. Beta plugins support backwards compatibility for assets and APIs, but performance, stability, and platform support may not be shipping quality. Are you sure you want to enable the plugin?
+[2025.01.07-11.31.48:980][187]LogSlate: Window 'Message' being destroyed
+[2025.01.07-11.31.48:984][187]Message dialog closed, result: Yes, title: Message, text: Plugin 'Remote Control Protocol OSC' is a beta version. Epic recommends using caution when shipping projects with beta plugins. Beta plugins support backwards compatibility for assets and APIs, but performance, stability, and platform support may not be shipping quality. Are you sure you want to enable the plugin?
+[2025.01.07-11.31.51:065][248]LogSlate: Window 'Message' being destroyed
+[2025.01.07-11.31.51:069][248]Message dialog closed, result: Yes, title: Message, text: Plugin 'Remote Control Web Interface' is a beta version. Epic recommends using caution when shipping projects with beta plugins. Beta plugins support backwards compatibility for assets and APIs, but performance, stability, and platform support may not be shipping quality. Are you sure you want to enable the plugin?
+[2025.01.07-11.32.03:198][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-11.32.03:292][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.01.07-11.32.03:355][807]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-11.32.03:355][807]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-11.32.03:505][807]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-11.32.03:506][807]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainSceneA1B63717470448AC48FC2C8A01167969.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-11.32.03:512][807]LogFileHelpers: All files are already saved.
+[2025.01.07-11.32.03:515][807]LogFileHelpers: Saving map 'MainScene' took 0.247
+[2025.01.07-11.32.03:519][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 321.962 ms (total: 3.18 sec)
+[2025.01.07-11.32.03:578][807]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-11.32.03:578][807]LogContentValidation: Enabled validators:
+[2025.01.07-11.32.03:578][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-11.32.03:578][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-11.32.03:578][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-11.32.03:578][807]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-11.32.03:578][807]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-11.32.12:743][489]Cmd: CLOSE_SLATE_MAINFRAME
+[2025.01.07-11.32.12:754][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.01.07-11.32.12:777][489]LogStall: Shutdown...
+[2025.01.07-11.32.12:780][489]LogStall: Shutdown complete.
+[2025.01.07-11.32.12:789][489]LogSlate: Window 'IMC_Default' being destroyed
+[2025.01.07-11.32.12:838][489]LogSlate: Window 'Plugins' being destroyed
+[2025.01.07-11.32.12:843][489]LogSlate: Window 'SeaSerpent - Unreal Editor' being destroyed
+[2025.01.07-11.32.13:064][490]Cmd: QUIT_EDITOR
+[2025.01.07-11.32.13:064][491]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.07-11.32.13:070][491]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.07-11.32.13:070][491]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.07-11.32.13:070][491]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.07-11.32.13:088][491]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-11.32.13:088][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-11.32.13:090][491]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.07-11.32.13:090][491]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.07-11.32.13:096][491]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.07-11.32.13:099][491]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-11.32.13:099][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-11.32.13:099][491]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-11.32.13:099][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-11.32.13:216][491]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.07-11.32.13:217][491]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.07-11.32.13:217][491]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.07-11.32.13:217][491]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.07-11.32.13:456][491]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.07-11.32.13:456][491]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.07-11.32.13:456][491]LogAudio: Display: Audio Device unregistered from world 'MainScene'.
+[2025.01.07-11.32.13:456][491]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.07-11.32.13:456][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.07-11.32.13:459][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.07-11.32.13:464][491]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.07-11.32.13:464][491]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.07-11.32.13:466][491]LogExit: Preparing to exit.
+[2025.01.07-11.32.14:034][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.07-11.32.15:187][491]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.07-11.32.15:225][491]LogExit: Editor shut down
+[2025.01.07-11.32.15:238][491]LogExit: Transaction tracking system shut down
+[2025.01.07-11.32.15:418][491]LogExit: Object subsystem successfully closed.
+[2025.01.07-11.32.15:429][491]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.07-11.32.15:470][491]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2025.01.07-11.32.15:470][491]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2025.01.07-11.32.15:537][491]MemoryProfiler: Shutdown
+[2025.01.07-11.32.15:537][491]NetworkingProfiler: Shutdown
+[2025.01.07-11.32.15:537][491]LoadingProfiler: Shutdown
+[2025.01.07-11.32.15:537][491]TimingProfiler: Shutdown
+[2025.01.07-11.32.15:570][491]LogHttpServerModule: Stopping all listeners...
+[2025.01.07-11.32.15:570][491]LogHttpListener: HttListener stopping listening on Port 30010
+[2025.01.07-11.32.15:570][491]LogHttpServerModule: All listeners stopped
+[2025.01.07-11.32.15:571][491]LogHttpServerModule: Stopping all listeners...
+[2025.01.07-11.32.15:571][491]LogHttpServerModule: All listeners stopped
+[2025.01.07-11.32.15:571][491]LogSharedMemoryMedia: Shutting down module SharedMemoryMedia'...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterMedia: Shutting down module 'DisplayClusterMedia'...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRemoteControlInterceptor: DisplayClusterRemoteControlInterceptor has been unregistered
+[2025.01.07-11.32.15:571][491]LogDisplayClusterWarp: Warp module shutdown
+[2025.01.07-11.32.15:571][491]LogDisplayClusterWarp: Un-registering <InFrustumFit> warp factory...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistering factory for warp policy: InFrustumFit
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistered factory for warp policy: InFrustumFit
+[2025.01.07-11.32.15:571][491]LogDisplayClusterWarp: Warp module has been shutdown.
+[2025.01.07-11.32.15:571][491]LogDisplayClusterWarp: Warp module has been destroyed
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Projection module shutdown
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Un-registering <camera> projection factory...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistering factory for projection policy: camera
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistered factory for projection policy: camera
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Un-registering <domeprojection> projection factory...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistering factory for projection policy: domeprojection
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistered factory for projection policy: domeprojection
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Un-registering <easyblend> projection factory...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistering factory for projection policy: easyblend
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistered factory for projection policy: easyblend
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Un-registering <link> projection factory...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistering factory for projection policy: link
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistered factory for projection policy: link
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Un-registering <manual> projection factory...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistering factory for projection policy: manual
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistered factory for projection policy: manual
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Un-registering <mpcdi> projection factory...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistering factory for projection policy: mpcdi
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistered factory for projection policy: mpcdi
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Un-registering <mesh> projection factory...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistering factory for projection policy: mesh
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistered factory for projection policy: mesh
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Un-registering <simple> projection factory...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistering factory for projection policy: simple
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistered factory for projection policy: simple
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Un-registering <vioso> projection factory...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistering factory for projection policy: vioso
+[2025.01.07-11.32.15:571][491]LogDisplayClusterRender: Unregistered factory for projection policy: vioso
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjection: Projection module has been destroyed
+[2025.01.07-11.32.15:571][491]LogDisplayClusterProjectionVIOSO: VIOSO API released.
+[2025.01.07-11.32.15:571][491]LogDisplayClusterModule: Cleaning up internals...
+[2025.01.07-11.32.15:571][491]LogDisplayClusterCluster: Releasing cluster manager...
+[2025.01.07-11.32.15:572][491]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2025.01.07-11.32.15:621][491]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.07-11.32.15:621][491]LogOpenImageDenoise: OIDN shutting down
+[2025.01.07-11.32.16:203][491]RenderDocPlugin: plugin has been unloaded.
+[2025.01.07-11.32.16:228][491]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.07-11.32.16:228][491]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5ABE5E7F-4BDA-CC56-3870-5E920B83A43C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=60a218ff4aa3e930f43543b766a4d000%7C3985265fa4ea48a2a15d35f893a69c68%7C2356145c-8ccb-4d2d-988e-ec2f42902be8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.01.07-11.32.16:265][491]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.01.07-11.32.16:273][491]LogPakFile: Destroying PakPlatformFile
+[2025.01.07-11.32.16:410][491]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.07-11.32.16:445][491]LogExit: Exiting.
+[2025.01.07-11.32.16:469][491]Log file closed, 01/07/25 11:32:16
