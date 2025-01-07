@@ -2297,3 +2297,440 @@ Note: The scene data will be kept.
 [2025.01.07-14.52.38:915][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.07-14.52.38:915][164]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
 [2025.01.07-14.52.38:916][164]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-14.56.25:768][939]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-14.57.11:970][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-14.57.12:082][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.01.07-14.57.12:144][818]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.57.12:144][818]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-14.57.12:294][818]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-14.57.12:294][818]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainSceneE97D851344C1C5DF402983877E195E1C.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-14.57.12:301][818]LogFileHelpers: All files are already saved.
+[2025.01.07-14.57.12:304][818]LogFileHelpers: Saving map 'MainScene' took 0.254
+[2025.01.07-14.57.12:318][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 346.627 ms (total: 2.06 sec)
+[2025.01.07-14.57.12:367][818]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-14.57.12:367][818]LogContentValidation: Enabled validators:
+[2025.01.07-14.57.12:367][818]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-14.57.12:367][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-14.57.12:367][818]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-14.57.12:367][818]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-14.57.12:367][818]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-15.00.02:024][921]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.07-15.00.02:035][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.07-15.00.02:041][921]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.01.07-15.00.02:041][921]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.01.07-15.00.02:042][921]LogPlayLevel: Creating play world package: /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.07-15.00.02:081][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038970s)
+[2025.01.07-15.00.02:081][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OceanFloor/Maps/MainScene.MainScene to /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene (0.039021s)
+[2025.01.07-15.00.02:096][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.01.07-15.00.02:096][921]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.07-15.00.02:097][921]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2025.01.07-15.00.02:098][921]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.01.07-15.00.02:098][921]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.07-15.00.02:098][921]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.07-15.00.02:098][921]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.07-15.00.02:098][921]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.07-15.00.02:098][921]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.07-15.00.02:098][921]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.07-15.00.02:098][921]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.07-15.00.02:098][921]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.07-15.00.02:098][921]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.07-15.00.02:098][921]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.07-15.00.02:098][921]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.07-15.00.02:100][921]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.07-15.00.02:115][921]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2025.01.07-15.00.02:115][921]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.07-15.00.02:115][921]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.07-15.00.02:115][921]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.07-15.00.02:116][921]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.01.07-15.00.02:116][921]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.01.07-15.00.02:118][921]LogInit: FAudioDevice initialized with ID 2.
+[2025.01.07-15.00.02:118][921]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainScene'.
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-15.00.02:118][921]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-15.00.02:118][921]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.01.07-15.00.02:118][921]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2025.01.07-15.00.02:121][921]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.07-15.00.02:193][921]LogWorld: Bringing World /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2025.01.07-15.00.02
+[2025.01.07-15.00.02:194][921]LogWorld: Bringing up level for play took: 0.073911
+[2025.01.07-15.00.02:197][921]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.01.07-15.00.02:199][921]LogOSC: Warning: Outer object not set.  OSCServer may be garbage collected if not referenced.
+[2025.01.07-15.00.02:201][921]LogOSC: Display: OSCServer 'OSCServer_4AOcM0DV93IY-jyZXI3hZQ' Listening: 192.168.56.1:1337.
+[2025.01.07-15.00.02:205][921]PIE: Server logged in
+[2025.01.07-15.00.02:205][921]PIE: Play in editor total start time 0.171 seconds.
+[2025.01.07-15.00.02:220][921]LogCEClonerComponent: Cloner2 : Cloner layout system loaded Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.07-15.00.02:222][921]LogCEClonerComponent: Cloner2 : Cloner layout system changed Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.07-15.00.02:223][921]LogACEEffectorSubsystem: Effector effector registered in channel 0
+[2025.01.07-15.00.02:223][921]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeA
+[2025.01.07-15.00.02:224][921]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeB
+[2025.01.07-15.00.02:225][921]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeC
+[2025.01.07-15.00.02:234][921]LogCEClonerComponent: Cloner3 : Cloner layout system loaded Circle - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerCircle.NS_ClonerCircle'
+[2025.01.07-15.00.02:246][921]LogCEClonerComponent: Cloner3 : Cloner layout system changed Circle - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerCircle.NS_ClonerCircle'
+[2025.01.07-15.00.02:247][921]LogCEClonerComponent: Cloner3 : Updating baked actor mesh SM_RedAlgaeC2
+[2025.01.07-15.00.02:248][921]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeA
+[2025.01.07-15.00.02:249][921]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-15.00.02:249][921]LogStaticMesh: Display: Building static mesh StaticMesh_4 (Required Memory Estimate: 0.165084 MB)...
+[2025.01.07-15.00.02:252][921]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_4
+[2025.01.07-15.00.02:267][921]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeB
+[2025.01.07-15.00.02:270][921]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-15.00.02:271][921]LogStaticMesh: Display: Building static mesh StaticMesh_5 (Required Memory Estimate: 1.433177 MB)...
+[2025.01.07-15.00.02:279][921]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_5
+[2025.01.07-15.00.02:289][921]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeC
+[2025.01.07-15.00.02:291][921]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-15.00.02:291][921]LogStaticMesh: Display: Building static mesh StaticMesh_6 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.07-15.00.02:296][921]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_6
+[2025.01.07-15.00.02:318][921]LogCEClonerComponent: Cloner2 : Cloner mesh updated 3
+[2025.01.07-15.00.02:318][921]LogCEClonerComponent: Cloner3 : Updating root merged baked mesh SM_RedAlgaeC2
+[2025.01.07-15.00.02:319][921]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-15.00.02:319][921]LogStaticMesh: Display: Building static mesh StaticMesh_7 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.07-15.00.02:323][921]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_7
+[2025.01.07-15.00.02:339][921]LogCEClonerComponent: Cloner3 : Cloner mesh updated 1
+[2025.01.07-15.00.11:306][559]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2025.01.07-15.00.11:306][559]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2025.01.07-15.01.03:141][502]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2025.01.07-15.02.04:248][992]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2025.01.07-15.02.38:671][ 65]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2025.01.07-15.02.38:671][ 65]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2025.01.07-15.02.38:707][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-15.02.38:707][ 65]LogWorld: BeginTearingDown for /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.07-15.02.38:708][ 65]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-15.02.38:718][ 65]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (NDC_MainTripleScreen62)
+[2025.01.07-15.02.38:718][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-15.02.38:719][ 65]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.07-15.02.38:719][ 65]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.07-15.02.38:722][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.07-15.02.38:731][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-15.02.38:750][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.07-15.02.38:750][ 65]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.07-15.02.38:750][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.07-15.02.38:752][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.07-15.02.38:756][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-15.02.38:847][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.01.07-15.02.38:912][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.01.07-15.03.26:486][262]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.01.07-15.03.59:771][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-15.03.59:884][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.07-15.03.59:948][751]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.03.59:948][751]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.04.00:096][751]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-15.04.00:096][751]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene8671CA63415F785A71D4278E756D4789.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-15.04.00:101][751]LogFileHelpers: All files are already saved.
+[2025.01.07-15.04.00:104][751]LogFileHelpers: Saving map 'MainScene' took 0.256
+[2025.01.07-15.04.00:109][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 338.074 ms (total: 2.40 sec)
+[2025.01.07-15.04.00:160][751]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-15.04.00:160][751]LogContentValidation: Enabled validators:
+[2025.01.07-15.04.00:160][751]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-15.04.00:160][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-15.04.00:160][751]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-15.04.00:160][751]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-15.04.00:160][751]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-15.06.25:775][218]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-15.07.26:510][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-15.07.26:605][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.07-15.07.26:668][559]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.07.26:669][559]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.07.26:818][559]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-15.07.26:819][559]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene33E6BE624BA557852C2E19B5102E3B0B.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-15.07.26:824][559]LogFileHelpers: All files are already saved.
+[2025.01.07-15.07.26:828][559]LogFileHelpers: Saving map 'MainScene' took 0.257
+[2025.01.07-15.07.26:832][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 322.544 ms (total: 2.72 sec)
+[2025.01.07-15.07.26:896][559]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-15.07.26:896][559]LogContentValidation: Enabled validators:
+[2025.01.07-15.07.26:896][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-15.07.26:897][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-15.07.26:897][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-15.07.26:897][559]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-15.07.26:897][559]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-15.16.25:803][959]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-15.17.37:001][299]LogSlate: Window 'NDC_MainTripleScreen' being destroyed
+[2025.01.07-15.17.37:025][299]LogSlate: Window 'NDC_MainTripleScreen' being destroyed
+[2025.01.07-15.17.37:031][299]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-15.17.37:031][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-15.17.37:085][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.07-15.18.38:513][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-15.18.38:621][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.07-15.18.38:683][369]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.18.38:683][369]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.18.38:850][369]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-15.18.38:851][369]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene0D52C2424433612A46976999961FB507.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-15.18.38:856][369]LogFileHelpers: All files are already saved.
+[2025.01.07-15.18.38:858][369]LogFileHelpers: Saving map 'MainScene' took 0.272
+[2025.01.07-15.18.38:872][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 359.302 ms (total: 3.08 sec)
+[2025.01.07-15.18.38:928][369]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-15.18.38:928][369]LogContentValidation: Enabled validators:
+[2025.01.07-15.18.38:929][369]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-15.18.38:929][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-15.18.38:929][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-15.18.38:929][369]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-15.18.38:929][369]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-15.24.11:467][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-15.24.11:565][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.01.07-15.24.11:630][258]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.24.11:630][258]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.24.11:782][258]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-15.24.11:782][258]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene19957CAC4191AEF0E18764A0449089A7.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-15.24.11:788][258]LogFileHelpers: All files are already saved.
+[2025.01.07-15.24.11:791][258]LogFileHelpers: Saving map 'MainScene' took 0.265
+[2025.01.07-15.24.11:804][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 337.320 ms (total: 3.42 sec)
+[2025.01.07-15.24.11:837][258]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-15.24.11:837][258]LogContentValidation: Enabled validators:
+[2025.01.07-15.24.11:837][258]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-15.24.11:837][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-15.24.11:837][258]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-15.24.11:837][258]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-15.24.11:837][258]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-15.26.25:827][567]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-15.26.36:726][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.07-15.26.36:734][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.07-15.26.36:768][334]LogPlayLevel: Creating play world package: /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.07-15.26.36:807][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038856s)
+[2025.01.07-15.26.36:807][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OceanFloor/Maps/MainScene.MainScene to /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene (0.038915s)
+[2025.01.07-15.26.36:823][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.01.07-15.26.36:825][334]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.07-15.26.36:826][334]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2025.01.07-15.26.36:827][334]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.01.07-15.26.36:827][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.07-15.26.36:827][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.07-15.26.36:827][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.07-15.26.36:827][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.07-15.26.36:827][334]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.07-15.26.36:827][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.07-15.26.36:827][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.07-15.26.36:827][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.07-15.26.36:827][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.07-15.26.36:827][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.07-15.26.36:827][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.07-15.26.36:829][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.07-15.26.36:843][334]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2025.01.07-15.26.36:844][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.07-15.26.36:844][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.07-15.26.36:844][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.07-15.26.36:844][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.01.07-15.26.36:844][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.01.07-15.26.36:847][334]LogInit: FAudioDevice initialized with ID 3.
+[2025.01.07-15.26.36:847][334]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainScene'.
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Display: Sending SubmixBufferListener 'NiagaraSubmixListener' register command...
+[2025.01.07-15.26.36:847][334]LogAudioMixer: Display: Submix buffer listener 'NiagaraSubmixListener' registered with submix 'MasterSubmixDefault'
+[2025.01.07-15.26.36:847][334]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.01.07-15.26.36:847][334]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2025.01.07-15.26.36:850][334]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.07-15.26.36:924][334]LogWorld: Bringing World /Game/OceanFloor/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2025.01.07-15.26.36
+[2025.01.07-15.26.36:925][334]LogWorld: Bringing up level for play took: 0.074713
+[2025.01.07-15.26.36:927][334]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.01.07-15.26.36:928][334]LogOSC: Warning: Outer object not set.  OSCServer may be garbage collected if not referenced.
+[2025.01.07-15.26.36:930][334]LogOSC: Display: OSCServer 'OSCServer_Gq9b_kNEJDvYk0uYLYrhRA' Listening: 192.168.56.1:1337.
+[2025.01.07-15.26.36:933][334]PIE: Server logged in
+[2025.01.07-15.26.36:934][334]PIE: Play in editor total start time 0.2 seconds.
+[2025.01.07-15.26.36:948][334]LogCEClonerComponent: Cloner2 : Cloner layout system loaded Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.07-15.26.36:950][334]LogCEClonerComponent: Cloner2 : Cloner layout system changed Grid - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerGrid.NS_ClonerGrid'
+[2025.01.07-15.26.36:951][334]LogACEEffectorSubsystem: Effector effector registered in channel 0
+[2025.01.07-15.26.36:951][334]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeA
+[2025.01.07-15.26.36:951][334]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeB
+[2025.01.07-15.26.36:952][334]LogCEClonerComponent: Cloner2 : Updating baked actor mesh SM_RedAlgaeC
+[2025.01.07-15.26.36:962][334]LogCEClonerComponent: Cloner3 : Cloner layout system loaded Circle - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerCircle.NS_ClonerCircle'
+[2025.01.07-15.26.36:974][334]LogCEClonerComponent: Cloner3 : Cloner layout system changed Circle - /Script/Niagara.NiagaraSystem'/ClonerEffector/Systems/NS_ClonerCircle.NS_ClonerCircle'
+[2025.01.07-15.26.36:975][334]LogCEClonerComponent: Cloner3 : Updating baked actor mesh SM_RedAlgaeC2
+[2025.01.07-15.26.36:977][334]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeA
+[2025.01.07-15.26.36:977][334]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-15.26.36:977][334]LogStaticMesh: Display: Building static mesh StaticMesh_8 (Required Memory Estimate: 0.165084 MB)...
+[2025.01.07-15.26.36:980][334]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_8
+[2025.01.07-15.26.36:995][334]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeB
+[2025.01.07-15.26.36:998][334]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-15.26.36:998][334]LogStaticMesh: Display: Building static mesh StaticMesh_9 (Required Memory Estimate: 1.433177 MB)...
+[2025.01.07-15.26.37:006][334]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.StaticMesh_9
+[2025.01.07-15.26.37:015][334]LogCEClonerComponent: Cloner2 : Updating root merged baked mesh SM_RedAlgaeC
+[2025.01.07-15.26.37:017][334]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-15.26.37:018][334]LogStaticMesh: Display: Building static mesh StaticMesh_10 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.07-15.26.37:021][334]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_10
+[2025.01.07-15.26.37:044][334]LogCEClonerComponent: Cloner2 : Cloner mesh updated 3
+[2025.01.07-15.26.37:044][334]LogCEClonerComponent: Cloner3 : Updating root merged baked mesh SM_RedAlgaeC2
+[2025.01.07-15.26.37:045][334]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/Transient) ...
+[2025.01.07-15.26.37:046][334]LogStaticMesh: Display: Building static mesh StaticMesh_11 (Required Memory Estimate: 0.443034 MB)...
+[2025.01.07-15.26.37:049][334]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.StaticMesh_11
+[2025.01.07-15.26.37:308][335]LogCEClonerComponent: Cloner3 : Cloner mesh updated 1
+[2025.01.07-15.26.50:176][535]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2025.01.07-15.26.50:176][535]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2025.01.07-15.27.17:021][ 80]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2025.01.07-15.27.17:021][ 80]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2025.01.07-15.27.17:308][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-15.27.17:308][102]LogWorld: BeginTearingDown for /Game/OceanFloor/Maps/UEDPIE_0_MainScene
+[2025.01.07-15.27.17:309][102]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2025.01.07-15.27.17:319][102]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (NDC_MainTripleScreen62)
+[2025.01.07-15.27.17:320][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-15.27.17:321][102]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.07-15.27.17:321][102]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.07-15.27.17:324][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.07-15.27.17:329][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.07-15.27.17:446][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.07-15.27.17:448][102]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.07-15.27.17:448][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.07-15.27.17:450][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.07-15.27.17:488][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.01.07-15.27.17:553][103]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.01.07-15.27.27:533][469]LogAssetEditorSubsystem: Opening Asset editor for DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.07-15.27.47:046][455]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_66.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.27.56:086][909]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_68.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.27.56:095][909]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_70.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.28.15:415][906]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_72.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.28.57:008][273]LogSlate: Window 'Add New Cluster Node' being destroyed
+[2025.01.07-15.28.57:048][273]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_74.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.28.57:078][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.28.57:078][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.28.57:078][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.28.57:078][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.28.57:078][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.28.57:078][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.28.57:078][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.28.57:078][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.28.57:078][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.28.57:079][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0
+[2025.01.07-15.28.57:079][273]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_3
+[2025.01.07-15.32.48:447][449]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_76.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.32.48:457][449]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_78.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.32.48:475][449]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0
+[2025.01.07-15.32.48:475][449]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_3
+[2025.01.07-15.32.48:475][449]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0
+[2025.01.07-15.32.48:475][449]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_3
+[2025.01.07-15.32.50:240][536]LogEditorTransaction: Undo Detach Component
+[2025.01.07-15.32.50:291][536]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_3
+[2025.01.07-15.32.50:291][536]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0
+[2025.01.07-15.32.50:291][536]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_3
+[2025.01.07-15.32.50:291][536]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0
+[2025.01.07-15.34.52:197][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.07-15.34.52:262][918]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.34.52:262][918]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.34.52:413][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OceanFloor/Maps/MainScene_Auto1
+[2025.01.07-15.34.52:414][918]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene_Auto19E98AC0B459F656D4155EC88B8CD21F5.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/OceanFloor/Maps/MainScene_Auto1.umap'
+[2025.01.07-15.34.52:415][918]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/OceanFloor/Maps/MainScene_Auto1.umap is in the /Temp path, will not scan.
+[2025.01.07-15.34.52:415][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OceanFloor/Maps/MainScene' took 0.257
+[2025.01.07-15.34.52:415][918]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.257
+[2025.01.07-15.34.52:416][918]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Ch_Snake1] ([2] browsable assets)...
+[2025.01.07-15.34.52:456][918]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1]
+[2025.01.07-15.34.52:456][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Ch_Snake1]
+[2025.01.07-15.34.52:470][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Ch_Snake1_Auto1
+[2025.01.07-15.34.52:471][918]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Ch_Snake1_Auto12EA85D6349266862B68AFA80C781A0DD.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/ThirdPerson/Blueprints/Ch_Snake1_Auto1.uasset'
+[2025.01.07-15.34.52:472][918]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.07-15.34.52:472][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.07-15.34.52:476][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OceanFloor/NDC_MainTripleScreen_Auto1
+[2025.01.07-15.34.52:476][918]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreen_Auto1B5A533D042D21A99B9750AB12D7D63B1.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/OceanFloor/NDC_MainTripleScreen_Auto1.uasset'
+[2025.01.07-15.34.52:476][918]LogFileHelpers: Auto-saving content packages took 0.061
+[2025.01.07-15.36.25:838][866]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-15.38.14:030][602]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.07-15.44.51:838][666]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0
+[2025.01.07-15.44.53:666][763]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_80.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.44.53:673][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_1.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.44.53:696][763]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_3
+[2025.01.07-15.44.53:696][763]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_3
+[2025.01.07-15.44.56:479][904]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_82.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.44.56:486][904]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_3.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.44.56:497][904]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_84.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.44.56:503][904]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_5.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.44.56:526][904]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.44.56:526][904]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.07-15.44.59:919][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.07-15.44.59:933][ 62]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_86.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.44.59:939][ 62]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_7.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.44.59:950][ 62]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_88.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.44.59:956][ 62]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_9.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.45.00:934][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-15.45.00:996][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.07-15.45.00:996][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.07-15.45.00:999][106]LogSavePackage: Moving output files for package: /Game/OceanFloor/NDC_MainTripleScreen
+[2025.01.07-15.45.01:001][106]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreen2EFED59443D25137E8ACB697BF0D0674.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset'
+[2025.01.07-15.45.01:006][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.470 ms (total: 3.49 sec)
+[2025.01.07-15.45.01:061][106]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-15.45.01:062][106]LogContentValidation: Enabled validators:
+[2025.01.07-15.45.01:062][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-15.45.01:062][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-15.45.01:062][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-15.45.01:062][106]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.07-15.45.01:062][106]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
+[2025.01.07-15.45.15:699][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-15.45.15:771][875]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.07-15.45.15:771][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.07-15.45.15:775][875]LogSavePackage: Moving output files for package: /Game/OceanFloor/NDC_MainTripleScreen
+[2025.01.07-15.45.15:775][875]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreen3BCD78F64C4CC61D8F12AFB1ECD3A882.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset'
+[2025.01.07-15.45.15:780][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.526 ms (total: 3.57 sec)
+[2025.01.07-15.45.15:842][875]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-15.45.15:843][875]LogContentValidation: Enabled validators:
+[2025.01.07-15.45.15:843][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-15.45.15:843][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-15.45.15:843][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-15.45.15:843][875]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.07-15.45.15:843][875]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
+[2025.01.07-15.46.05:686][367]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.07-15.46.06:115][372]LogEditorTransaction: Undo Set Rotation
+[2025.01.07-15.46.06:505][383]LogEditorTransaction: Undo Set Location
+[2025.01.07-15.46.07:456][427]LogEditorTransaction: Undo Modify Component Location
+[2025.01.07-15.46.07:942][446]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.07-15.46.08:446][466]LogEditorTransaction: Undo Set Rotation
+[2025.01.07-15.46.09:313][504]LogEditorTransaction: Undo Modify Component Location
+[2025.01.07-15.46.09:893][512]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.07-15.46.10:430][534]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.07-15.46.14:474][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.07-15.46.14:486][710]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_100.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.46.14:493][710]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_21.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.46.14:504][710]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_102.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.46.14:510][710]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_23.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.07-15.46.15:267][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-15.46.15:333][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.07-15.46.15:333][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.07-15.46.15:337][743]LogSavePackage: Moving output files for package: /Game/OceanFloor/NDC_MainTripleScreen
+[2025.01.07-15.46.15:337][743]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreenB0F9660D421D6BF28C00269264C9B40D.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset'
+[2025.01.07-15.46.15:343][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.781 ms (total: 3.65 sec)
+[2025.01.07-15.46.15:403][743]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-15.46.15:403][743]LogContentValidation: Enabled validators:
+[2025.01.07-15.46.15:403][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-15.46.15:403][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-15.46.15:403][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-15.46.15:403][743]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.07-15.46.15:403][743]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
+[2025.01.07-15.46.22:353][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-15.46.22:385][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.07-15.46.22:385][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.07-15.46.22:389][104]LogSavePackage: Moving output files for package: /Game/OceanFloor/NDC_MainTripleScreen
+[2025.01.07-15.46.22:389][104]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreenC69E1B134ABF601838606CA1D854FC62.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset'
+[2025.01.07-15.46.22:394][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.488 ms (total: 3.69 sec)
+[2025.01.07-15.46.22:449][104]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-15.46.22:449][104]LogContentValidation: Enabled validators:
+[2025.01.07-15.46.22:449][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-15.46.22:449][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-15.46.22:449][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-15.46.22:449][104]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.07-15.46.22:449][104]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
+[2025.01.07-15.46.25:839][311]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-15.46.50:641][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-15.46.50:736][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.07-15.46.50:800][ 13]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.46.50:800][ 13]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-15.46.50:951][ 13]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-15.46.50:951][ 13]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene98A207EF443521E4D077B1B1E7F97A50.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-15.46.50:957][ 13]LogFileHelpers: All files are already saved.
+[2025.01.07-15.46.50:961][ 13]LogFileHelpers: Saving map 'MainScene' took 0.262
+[2025.01.07-15.46.50:967][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 325.632 ms (total: 4.02 sec)
+[2025.01.07-15.46.51:022][ 13]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-15.46.51:022][ 13]LogContentValidation: Enabled validators:
+[2025.01.07-15.46.51:022][ 13]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-15.46.51:022][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-15.46.51:022][ 13]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-15.46.51:022][ 13]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-15.46.51:022][ 13]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
