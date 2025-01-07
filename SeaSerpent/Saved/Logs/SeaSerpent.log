@@ -4204,3 +4204,157 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.01.07-13.43.08:341][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.07-13.43.08:341][547]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
 [2025.01.07-13.43.08:341][547]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-13.43.45:480][640]Cmd: DELETE
+[2025.01.07-13.43.45:480][640]Cmd: ACTOR DELETE
+[2025.01.07-13.43.45:492][640]LogEditorActor: Deleted Actor: PointLight
+[2025.01.07-13.43.45:505][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.01.07-13.43.45:509][640]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.01.07-13.44.28:477][515]LogShaderCompilers: Display: ================================================
+[2025.01.07-13.44.28:477][515]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.07-13.44.28:477][515]LogShaderCompilers: Display: Total job queries 414, among them cache hits 94 (22.71%), DDC hits 255 (61.59%), Duplicates 6 (1.45%)
+[2025.01.07-13.44.28:477][515]LogShaderCompilers: Display: Tracking 314 distinct input hashes that result in 263 distinct outputs (83.76%)
+[2025.01.07-13.44.28:477][515]LogShaderCompilers: Display: RAM used: 6.64 MiB of 1.60 GiB budget. Usage: 0.41%
+[2025.01.07-13.44.28:477][515]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.07-13.44.28:477][515]LogShaderCompilers: Display: Shaders Compiled: 59
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Jobs assigned 59, completed 59 (100%)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Average time worker was idle: 1366.32 s
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 2.26 s
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Job execution time: average 1.19 s, max 2.76 s
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Job life time (pending + execution): average 1.37 s, max 2.88
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Shader code size: average 33.96 KiB, min 2.041 KiB, max 65.098 KiB
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.44 s
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Jobs were issued in 59 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Average processing rate: 4.74 jobs/sec
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Total thread time: 33.388 s
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Total thread preprocess time: 5.325 s
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Percentage time preprocessing: 15.95%
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Effective parallelization: 2.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   14 times, average 0.94 sec, max 1.57 sec, min 0.48 sec)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   13 times, average 0.84 sec, max 1.23 sec, min 0.46 sec)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.58 sec, max 0.74 sec, min 0.41 sec)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 39.41% of total time (compiled   14 times, average 0.94 sec, max 1.57 sec, min 0.48 sec)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 32.66% of total time (compiled   13 times, average 0.84 sec, max 1.23 sec, min 0.46 sec)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.04% of total time (compiled   11 times, average 0.24 sec, max 0.46 sec, min 0.18 sec)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.75% of total time (compiled    9 times, average 0.21 sec, max 0.31 sec, min 0.17 sec)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display:                                                  FVelocityPS - 3.44% of total time (compiled    2 times, average 0.58 sec, max 0.74 sec, min 0.41 sec)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: === Material stats ===
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Materials Translated:    264
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Material Translation Only: 0.06 s (51%)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (5%)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: Material Cache Hits: 174 (66%)
+[2025.01.07-13.44.28:478][515]LogShaderCompilers: Display: ================================================
+[2025.01.07-13.44.43:764][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.01.07-13.44.45:145][ 11]LogSlate: Window 'Save Content' being destroyed
+[2025.01.07-13.44.45:155][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-13.44.45:243][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.07-13.44.45:304][ 11]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-13.44.45:304][ 11]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-13.44.45:452][ 11]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-13.44.45:452][ 11]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene9CB9997449DB924A4C90F29439FBC4AE.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-13.44.45:459][ 11]LogFileHelpers: All files are already saved.
+[2025.01.07-13.44.45:461][ 11]LogFileHelpers: Saving map 'MainScene' took 0.252
+[2025.01.07-13.44.45:466][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 311.284 ms (total: 4.80 sec)
+[2025.01.07-13.44.45:521][ 11]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-13.44.45:521][ 11]LogContentValidation: Enabled validators:
+[2025.01.07-13.44.45:521][ 11]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-13.44.45:521][ 11]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-13.44.45:521][ 11]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-13.44.45:521][ 11]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-13.44.45:521][ 11]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-13.46.36:788][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-13.46.36:860][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.07-13.46.36:923][297]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-13.46.36:923][297]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-13.46.37:072][297]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-13.46.37:072][297]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainSceneDC5DF413465021045BB5D98955C504C8.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-13.46.37:077][297]LogFileHelpers: All files are already saved.
+[2025.01.07-13.46.37:081][297]LogFileHelpers: Saving map 'MainScene' took 0.254
+[2025.01.07-13.46.37:085][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 296.381 ms (total: 5.10 sec)
+[2025.01.07-13.46.37:138][297]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-13.46.37:138][297]LogContentValidation: Enabled validators:
+[2025.01.07-13.46.37:138][297]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-13.46.37:138][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-13.46.37:138][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-13.46.37:138][297]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-13.46.37:138][297]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-13.47.31:076][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-13.47.31:170][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.01.07-13.47.31:232][153]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-13.47.31:232][153]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-13.47.31:380][153]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-13.47.31:380][153]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene2ECEEB0A450AD3C63C7EC1955C2992C8.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-13.47.31:386][153]LogFileHelpers: All files are already saved.
+[2025.01.07-13.47.31:389][153]LogFileHelpers: Saving map 'MainScene' took 0.252
+[2025.01.07-13.47.31:394][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 318.316 ms (total: 5.41 sec)
+[2025.01.07-13.47.31:426][153]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-13.47.31:426][153]LogContentValidation: Enabled validators:
+[2025.01.07-13.47.31:426][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-13.47.31:426][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-13.47.31:426][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-13.47.31:426][153]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-13.47.31:427][153]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-13.52.27:452][837]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-13.58.17:195][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-13.58.17:297][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.01.07-13.58.17:361][111]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-13.58.17:361][111]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-13.58.17:512][111]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-13.58.17:513][111]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene8321AD5D4E50BA5DCAA6CEAA13D789D0.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-13.58.17:518][111]LogFileHelpers: All files are already saved.
+[2025.01.07-13.58.17:521][111]LogFileHelpers: Saving map 'MainScene' took 0.262
+[2025.01.07-13.58.17:525][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 329.984 ms (total: 5.74 sec)
+[2025.01.07-13.58.17:558][111]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-13.58.17:558][111]LogContentValidation: Enabled validators:
+[2025.01.07-13.58.17:558][111]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-13.58.17:558][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-13.58.17:558][111]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-13.58.17:558][111]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-13.58.17:558][111]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-13.59.23:404][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-13.59.23:474][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.01.07-13.59.23:535][575]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-13.59.23:535][575]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.07-13.59.23:684][575]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.07-13.59.23:685][575]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainSceneED32B82E432F8287EE37488242C038F3.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.07-13.59.23:690][575]LogFileHelpers: All files are already saved.
+[2025.01.07-13.59.23:692][575]LogFileHelpers: Saving map 'MainScene' took 0.252
+[2025.01.07-13.59.23:697][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 293.625 ms (total: 6.04 sec)
+[2025.01.07-13.59.23:754][575]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-13.59.23:754][575]LogContentValidation: Enabled validators:
+[2025.01.07-13.59.23:754][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-13.59.23:754][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-13.59.23:754][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-13.59.23:754][575]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.07-13.59.23:755][575]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.07-14.01.00:028][880]LogSwitchboardPlugin: Display: Successfully started SwitchboardListener
+[2025.01.07-14.01.04:019][ 46]LogSwitchboardPlugin: Display: Successfully started Switchboard
+[2025.01.07-14.02.27:754][575]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-14.07.29:421][781]LogSwitchboardPlugin: Display: Successfully started Switchboard
+[2025.01.07-14.12.28:067][747]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-14.19.57:347][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.07-14.19.57:403][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/BP_OCS_Controler] ([2] browsable assets)...
+[2025.01.07-14.19.57:403][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/BP_OCS_Controler]
+[2025.01.07-14.19.57:403][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OceanFloor/BP_OCS_Controler" FILE="../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/BP_OCS_Controler.uasset" SILENT=true
+[2025.01.07-14.19.57:406][797]LogSavePackage: Moving output files for package: /Game/OceanFloor/BP_OCS_Controler
+[2025.01.07-14.19.57:407][797]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/BP_OCS_Controler19D25B0D4573F56F49B2AC91410349C7.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/BP_OCS_Controler.uasset'
+[2025.01.07-14.19.57:413][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.446 ms (total: 6.10 sec)
+[2025.01.07-14.19.57:474][797]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.07-14.19.57:474][797]LogContentValidation: Enabled validators:
+[2025.01.07-14.19.57:474][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.07-14.19.57:474][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.07-14.19.57:474][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.07-14.19.57:474][797]LogContentValidation: Display: Validating asset /Game/OceanFloor/BP_OCS_Controler.BP_OCS_Controler
+[2025.01.07-14.19.57:474][797]AssetCheck: /Game/OceanFloor/BP_OCS_Controler Validating asset
+[2025.01.07-14.20.31:100][673]LogSwitchboardPlugin: Display: Successfully started Switchboard
+[2025.01.07-14.22.28:376][ 94]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-14.25.38:475][741]LogSlate: Window 'Switchboard New Config Options' being destroyed
+[2025.01.07-14.32.28:393][ 23]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.07-14.34.15:106][344]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.07-14.36.23:292][728]LogRemoteControlWebInterface: WebApp exited
