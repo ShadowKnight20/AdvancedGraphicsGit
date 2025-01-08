@@ -2924,3 +2924,260 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.01.08-11.24.14:974][460]LogSlate: Window 'Switchboard New Config Options' being destroyed
 [2025.01.08-11.25.39:958][853]LogRemoteControlWebInterface: WebApp exited
 [2025.01.08-11.27.54:517][256]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.08-11.30.55:195][798]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.08-11.38.34:237][448]LogSlate: Window 'Switchboard New Config Options' being destroyed
+[2025.01.08-11.39.22:641][840]LogSwitchboardPlugin: Display: Successfully started SwitchboardListener
+[2025.01.08-11.39.28:423][979]LogSwitchboardPlugin: Display: Successfully started Switchboard
+[2025.01.08-11.40.35:628][710]LogSlate: Window 'Switchboard New Config Options' being destroyed
+[2025.01.08-11.40.55:467][828]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.08-11.42.32:317][872]LogAssetEditorSubsystem: Opening Asset editor for DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.08-11.42.34:225][872]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2025.01.08-11.42.34:242][872]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2025.01.08-11.42.34:310][872]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/nDisplay/Meshes/sm_nDisplayGrid) ...
+[2025.01.08-11.42.34:310][872]LogStaticMesh: Display: Building static mesh SM_nDisplayGrid (Required Memory Estimate: 0.210252 MB)...
+[2025.01.08-11.42.34:314][872]LogStaticMesh: Built static mesh [0.00s] /nDisplay/Meshes/sm_nDisplayGrid.SM_nDisplayGrid
+[2025.01.08-11.42.34:327][872]LogTexture: Display: Waiting for textures to be ready 0/1 (/nDisplay/Textures/T_nDisplayGrid) ...
+[2025.01.08-11.42.34:518][872]LogTexture: Display: Building textures: /nDisplay/Textures/T_nDisplayGrid.T_nDisplayGrid (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.01.08-11.42.34:822][872]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.01.08-11.42.35:054][872]LogAutomationController: Ignoring very large delta of 2.74 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: ================================================
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Total job queries 10,280, among them cache hits 188 (1.83%), DDC hits 3,509 (34.13%), Duplicates 1,964 (19.11%)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Tracking 8,128 distinct input hashes that result in 7,341 distinct outputs (90.32%)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: RAM used: 166.38 MiB of 1.60 GiB budget. Usage: 10.16%
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Shaders Compiled: 4,619
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Jobs assigned 4,619, completed 4,619 (100%)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Average time worker was idle: 41.87 s
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Time job spent in pending queue: average 88.03 s, longest 184.76 s
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Job execution time: average 3.99 s, max 15.90 s
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Job life time (pending + execution): average 92.02 s, max 186.75
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Shader code size: average 46.548 KiB, min 2.148 KiB, max 354.566 KiB
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 210.94 s
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Jobs were issued in 670 batches (only local compilation was used), average 6.89 jobs/batch
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Average processing rate: 21.90 jobs/sec
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Total thread time: 1,911.109 s
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Total thread preprocess time: 83.073 s
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Percentage time preprocessing: 4.35%
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Effective parallelization: 9.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 5.68 sec, max 5.68 sec, min 5.68 sec)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 2.99 sec, max 3.70 sec, min 2.21 sec)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 2.76 sec, max 2.76 sec, min 2.76 sec)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 2.46 sec, max 2.46 sec, min 2.46 sec)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 2.36 sec, max 2.36 sec, min 2.36 sec)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display:                                             FDeferredLightPS - 23.52% of total time (compiled  728 times, average 0.62 sec, max 1.28 sec, min 0.12 sec)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 6.44% of total time (compiled   80 times, average 1.54 sec, max 3.77 sec, min 0.35 sec)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 6.32% of total time (compiled  448 times, average 0.27 sec, max 0.61 sec, min 0.11 sec)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.72% of total time (compiled  225 times, average 0.49 sec, max 0.71 sec, min 0.22 sec)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.03% of total time (compiled   96 times, average 0.80 sec, max 1.11 sec, min 0.47 sec)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: === Material stats ===
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Materials Translated:    271
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Material Translation Only: 0.09 s (43%)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.08-11.44.57:720][ 42]LogShaderCompilers: Display: ================================================
+[2025.01.08-11.50.55:613][792]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.08-11.52.52:786][641]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.08-11.55.52:313][732]LogDisplayClusterLaunchEditor: Error: FDisplayClusterLaunchEditorModule::FindAppropriateServer: Servers exist but a matching server was not found. Try connecting to a server and session manually.
+[2025.01.08-11.57.50:890][826]LogDisplayClusterLaunchEditor: Error: FDisplayClusterLaunchEditorModule::FindAppropriateServer: Servers exist but a matching server was not found. Try connecting to a server and session manually.
+[2025.01.08-12.00.55:812][700]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.08-12.02.07:633][360]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.08-12.02.07:645][360]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.08-12.02.09:403][500]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.01.08-12.08.22:703][571]LogActorFactory: Actor Factory attempting to spawn DisplayClusterBlueprintGeneratedClass /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen_C
+[2025.01.08-12.08.22:703][571]LogActorFactory: Actor Factory attempting to spawn DisplayClusterBlueprintGeneratedClass /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen_C
+[2025.01.08-12.08.22:710][571]LogActorFactory: Actor Factory spawned DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen as actor: NDC_MainTripleScreen_C /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.NDC_MainTripleScreen_C_66
+[2025.01.08-12.08.22:712][571]LogActorFactory: Actor Factory spawned DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen as actor: NDC_MainTripleScreen_C /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.NDC_MainTripleScreen_C_66
+[2025.01.08-12.08.24:864][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.01.08-12.08.24:869][603]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.01.08-12.08.24:881][603]LogActorFactory: Actor Factory attempting to spawn DisplayClusterBlueprintGeneratedClass /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen_C
+[2025.01.08-12.08.24:881][603]LogActorFactory: Actor Factory attempting to spawn DisplayClusterBlueprintGeneratedClass /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen_C
+[2025.01.08-12.08.24:894][603]LogActorFactory: Actor Factory spawned DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen as actor: NDC_MainTripleScreen_C /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.NDC_MainTripleScreen_C_67
+[2025.01.08-12.08.24:896][603]LogActorFactory: Actor Factory spawned DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen as actor: NDC_MainTripleScreen_C /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.NDC_MainTripleScreen_C_67
+[2025.01.08-12.08.24:923][603]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_Left
+[2025.01.08-12.08.24:923][603]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_0
+[2025.01.08-12.08.24:923][603]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_Right
+[2025.01.08-12.08.24:923][603]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2025.01.08-12.08.24:923][603]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_Middle
+[2025.01.08-12.08.24:923][603]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_2
+[2025.01.08-12.08.24:923][603]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.08-12.08.24:923][603]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationData_0
+[2025.01.08-12.08.43:211][270]Cmd: DELETE
+[2025.01.08-12.08.43:211][270]Cmd: ACTOR DELETE
+[2025.01.08-12.08.43:233][270]LogEditorActor: Deleted Actor: NDC_MainTripleScreen_C
+[2025.01.08-12.08.43:264][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.01.08-12.08.43:268][270]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: ================================================
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Total job queries 10,284, among them cache hits 189 (1.84%), DDC hits 3,509 (34.12%), Duplicates 1,964 (19.10%)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Tracking 8,131 distinct input hashes that result in 7,343 distinct outputs (90.31%)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: RAM used: 166.42 MiB of 1.60 GiB budget. Usage: 10.16%
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Shaders Compiled: 4,622
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Jobs assigned 4,622, completed 4,622 (100%)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Average time worker was idle: 48.69 s
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Time job spent in pending queue: average 87.97 s, longest 184.76 s
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Job execution time: average 3.98 s, max 15.90 s
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Job life time (pending + execution): average 91.96 s, max 186.75
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Shader code size: average 46.536 KiB, min 2.148 KiB, max 354.566 KiB
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 212.35 s
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Jobs were issued in 673 batches (only local compilation was used), average 6.87 jobs/batch
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Average processing rate: 21.77 jobs/sec
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Total thread time: 1,912.652 s
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Total thread preprocess time: 83.13 s
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Percentage time preprocessing: 4.35%
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Effective parallelization: 9.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 5.68 sec, max 5.68 sec, min 5.68 sec)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 2.99 sec, max 3.70 sec, min 2.21 sec)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 2.76 sec, max 2.76 sec, min 2.76 sec)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 2.46 sec, max 2.46 sec, min 2.46 sec)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 2.36 sec, max 2.36 sec, min 2.36 sec)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display:                                             FDeferredLightPS - 23.50% of total time (compiled  728 times, average 0.62 sec, max 1.28 sec, min 0.12 sec)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 6.43% of total time (compiled   80 times, average 1.54 sec, max 3.77 sec, min 0.35 sec)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 6.31% of total time (compiled  448 times, average 0.27 sec, max 0.61 sec, min 0.11 sec)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.72% of total time (compiled  225 times, average 0.49 sec, max 0.71 sec, min 0.22 sec)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.02% of total time (compiled   96 times, average 0.80 sec, max 1.11 sec, min 0.47 sec)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: === Material stats ===
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Materials Translated:    271
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Material Translation Only: 0.09 s (43%)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.08-12.08.58:788][670]LogShaderCompilers: Display: ================================================
+[2025.01.08-12.09.13:211][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.08-12.09.13:279][713]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.09.13:279][713]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.09.13:452][713]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OceanFloor/Maps/MainScene_Auto1
+[2025.01.08-12.09.13:452][713]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene_Auto1900BBA4446254FB6AB3F0484989B6F1E.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/OceanFloor/Maps/MainScene_Auto1.umap'
+[2025.01.08-12.09.13:453][713]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/OceanFloor/Maps/MainScene_Auto1.umap is in the /Temp path, will not scan.
+[2025.01.08-12.09.13:453][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OceanFloor/Maps/MainScene' took 0.265
+[2025.01.08-12.09.13:453][713]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.265
+[2025.01.08-12.10.55:863][ 61]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.08-12.10.57:497][118]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.08-12.10.57:953][133]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.08-12.11.47:935][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.08-12.11.47:949][108]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_76.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.11.47:960][108]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_78.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.11.48:744][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.08-12.11.48:815][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.08-12.11.48:815][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.08-12.11.48:819][145]LogSavePackage: Moving output files for package: /Game/OceanFloor/NDC_MainTripleScreen
+[2025.01.08-12.11.48:819][145]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreenFC5C4E974802542E7B40809D0B2B4E1D.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset'
+[2025.01.08-12.11.48:825][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.214 ms (total: 429.403 ms)
+[2025.01.08-12.11.48:881][145]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.08-12.11.48:881][145]LogContentValidation: Enabled validators:
+[2025.01.08-12.11.48:881][145]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.08-12.11.48:881][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.08-12.11.48:881][145]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.08-12.11.48:881][145]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.08-12.11.48:881][145]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: ================================================
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Total job queries 10,304, among them cache hits 197 (1.91%), DDC hits 3,509 (34.05%), Duplicates 1,964 (19.06%)
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Tracking 8,143 distinct input hashes that result in 7,353 distinct outputs (90.30%)
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: RAM used: 166.62 MiB of 1.60 GiB budget. Usage: 10.17%
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Shaders Compiled: 4,634
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Jobs assigned 4,634, completed 4,634 (100%)
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Average time worker was idle: 98.33 s
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Time job spent in pending queue: average 87.75 s, longest 184.76 s
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Job execution time: average 3.98 s, max 15.90 s
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Job life time (pending + execution): average 91.72 s, max 186.75
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Shader code size: average 46.5 KiB, min 2.148 KiB, max 354.566 KiB
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 214.54 s
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Jobs were issued in 685 batches (only local compilation was used), average 6.76 jobs/batch
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Average processing rate: 21.60 jobs/sec
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Total thread time: 1,922.188 s
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Total thread preprocess time: 83.45 s
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Percentage time preprocessing: 4.34%
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Effective parallelization: 8.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.08-12.11.58:797][912]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 5.68 sec, max 5.68 sec, min 5.68 sec)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 2.99 sec, max 3.70 sec, min 2.21 sec)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 2.76 sec, max 2.76 sec, min 2.76 sec)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 2.46 sec, max 2.46 sec, min 2.46 sec)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 2.36 sec, max 2.36 sec, min 2.36 sec)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display:                                             FDeferredLightPS - 23.38% of total time (compiled  728 times, average 0.62 sec, max 1.28 sec, min 0.12 sec)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 6.40% of total time (compiled   80 times, average 1.54 sec, max 3.77 sec, min 0.35 sec)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 6.28% of total time (compiled  448 times, average 0.27 sec, max 0.61 sec, min 0.11 sec)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.69% of total time (compiled  225 times, average 0.49 sec, max 0.71 sec, min 0.22 sec)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.00% of total time (compiled   96 times, average 0.80 sec, max 1.11 sec, min 0.47 sec)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display: === Material stats ===
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display: Materials Translated:    275
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display: Material Translation Only: 0.09 s (43%)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.08-12.11.58:798][912]LogShaderCompilers: Display: ================================================
+[2025.01.08-12.13.05:074][230]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1
+[2025.01.08-12.13.06:946][230]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (1.681 seconds, threshold is 0.300 s), will parallelize next time.
+[2025.01.08-12.13.07:457][230]LogAutomationController: Ignoring very large delta of 2.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.08-12.14.58:800][990]LogShaderCompilers: Display: ================================================
+[2025.01.08-12.14.58:800][990]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.08-12.14.58:800][990]LogShaderCompilers: Display: Total job queries 10,324, among them cache hits 199 (1.93%), DDC hits 3,510 (34.00%), Duplicates 1,964 (19.02%)
+[2025.01.08-12.14.58:800][990]LogShaderCompilers: Display: Tracking 8,161 distinct input hashes that result in 7,367 distinct outputs (90.27%)
+[2025.01.08-12.14.58:800][990]LogShaderCompilers: Display: RAM used: 167.04 MiB of 1.60 GiB budget. Usage: 10.20%
+[2025.01.08-12.14.58:800][990]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.08-12.14.58:800][990]LogShaderCompilers: Display: Shaders Compiled: 4,651
+[2025.01.08-12.14.58:800][990]LogShaderCompilers: Display: Jobs assigned 4,651, completed 4,651 (100%)
+[2025.01.08-12.14.58:800][990]LogShaderCompilers: Display: Average time worker was idle: 96.82 s
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Time job spent in pending queue: average 87.43 s, longest 184.76 s
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Job execution time: average 3.97 s, max 15.90 s
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Job life time (pending + execution): average 91.39 s, max 186.75
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Shader code size: average 46.48 KiB, min 2.148 KiB, max 354.566 KiB
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 221.88 s
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Jobs were issued in 702 batches (only local compilation was used), average 6.63 jobs/batch
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Average processing rate: 20.96 jobs/sec
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Total thread time: 1,932.531 s
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Total thread preprocess time: 83.743 s
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Percentage time preprocessing: 4.33%
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Effective parallelization: 8.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display:                                FMaterialDebugSubstrateTreePS (compiled    1 times, average 5.68 sec, max 5.68 sec, min 5.68 sec)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 2.99 sec, max 3.70 sec, min 2.21 sec)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 2.76 sec, max 2.76 sec, min 2.76 sec)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 2.46 sec, max 2.46 sec, min 2.46 sec)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 2.36 sec, max 2.36 sec, min 2.36 sec)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display:                                             FDeferredLightPS - 23.26% of total time (compiled  728 times, average 0.62 sec, max 1.28 sec, min 0.12 sec)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 6.37% of total time (compiled   80 times, average 1.54 sec, max 3.77 sec, min 0.35 sec)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 6.25% of total time (compiled  448 times, average 0.27 sec, max 0.61 sec, min 0.11 sec)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.66% of total time (compiled  225 times, average 0.49 sec, max 0.71 sec, min 0.22 sec)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 3.98% of total time (compiled   96 times, average 0.80 sec, max 1.11 sec, min 0.47 sec)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: === Material stats ===
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Materials Translated:    275
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Material Translation Only: 0.09 s (43%)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.08-12.14.58:801][990]LogShaderCompilers: Display: ================================================
+[2025.01.08-12.16.00:111][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.08-12.16.00:201][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.08-12.16.00:267][146]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.16.00:267][146]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.16.00:418][146]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.08-12.16.00:418][146]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainSceneDFE94F644E4CD5BF6CD3AE84910D7BC8.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.08-12.16.00:424][146]LogFileHelpers: All files are already saved.
+[2025.01.08-12.16.00:428][146]LogFileHelpers: Saving map 'MainScene' took 0.261
+[2025.01.08-12.16.00:435][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 324.078 ms (total: 753.482 ms)
+[2025.01.08-12.16.00:463][146]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.08-12.16.00:463][146]LogContentValidation: Enabled validators:
+[2025.01.08-12.16.00:463][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.08-12.16.00:463][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.08-12.16.00:463][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.08-12.16.00:463][146]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.08-12.16.00:463][146]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
