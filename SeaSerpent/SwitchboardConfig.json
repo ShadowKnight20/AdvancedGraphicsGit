@@ -1,0 +1,279 @@
+{
+    "project_name": "SeaSerpent",
+    "uproject": "C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\SeaSerpent.uproject",
+    "engine_dir": "C:/Program Files/Epic Games/UE_5.4/Engine/",
+    "engine_sync_method": "Use Existing (do not sync/build)",
+    "maps_path": "",
+    "maps_filter": "*.umap",
+    "content_plugin_filters": [],
+    "listener_exe": "SwitchboardListener",
+    "sblhelper_exe": "SwitchboardListenerHelper",
+    "tracing_enabled": false,
+    "tracing_args": "default,concert,messaging,tasks",
+    "tracing_stat_events": true,
+    "osc_server_port": 6000,
+    "p4_enabled": false,
+    "p4_sync_path": "",
+    "p4_engine_path": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine",
+    "source_control_workspace": "SeaSerpent_workspace",
+    "muserver_command_line_arguments": "",
+    "muserver_server_name": "SwitchboardConfig_MU_Server",
+    "muserver_endpoint": ":9030",
+    "multiuser_exe": "UnrealMultiUserServer",
+    "multiuserslate_exe": "UnrealMultiUserSlateServer",
+    "muserver_auto_launch": true,
+    "muserver_slate_mode": true,
+    "muserver_clean_history": false,
+    "muserver_auto_build": true,
+    "muserver_auto_endpoint": true,
+    "muserver_multicast_endpoint": "230.0.0.1:6666",
+    "muserver_auto_join": true,
+    "muserver_archive_dir": "",
+    "muserver_working_dir": "",
+    "current_level": "/Game/OceanFloor/Maps/MainScene",
+    "devices": {
+        "KiPro": {
+            "settings": {
+                "is_recording_device": true
+            }
+        },
+        "LiveLinkFace": {
+            "settings": {
+                "osc_port": 8000
+            }
+        },
+        "Motive": {
+            "settings": {
+                "is_recording_device": true,
+                "motive_port": 1510
+            }
+        },
+        "MultiplayerServer": {
+            "settings": {
+                "executable_path": "",
+                "level_path": "",
+                "multiplayer_port": 7777,
+                "port": 2980
+            }
+        },
+        "Unreal": {
+            "settings": {
+                "is_recording_device": true,
+                "buffer_size": 1024,
+                "command_line_arguments": "",
+                "exec_cmds": [],
+                "dp_cvars": [],
+                "port": 2980,
+                "osc_port": 5500,
+                "roles_filename": "VPRoles.ini",
+                "stage_session_id": 0,
+                "editor_exe": "UnrealEditor.exe",
+                "max_gpu_count": 1,
+                "priority_modifier": "Normal",
+                "auto_decline_package_recovery": false,
+                "udpmessaging_unicast_endpoint": ":0",
+                "udpmessaging_extra_static_endpoints": "",
+                "udpmessaging_multicast_endpoint": "230.0.0.1:6666",
+                "log_download_dir": "",
+                "reflect_visibility_to_game": true,
+                "rsync_port": 8730,
+                "listener_inactive_timeout": 5,
+                "slate_allow_throttling": false,
+                "retrieve_logs": true,
+                "livelink_preset": "",
+                "mediaprofile": "",
+                "lock_gpu_clock": false,
+                "use_sync_filters": false,
+                "included_sync_categories": [
+                    [
+                        "6703e989-d912-451d-93ad-b48de748d282",
+                        "Content"
+                    ],
+                    [
+                        "f44b2d25-cbc0-4a8f-b6b3-e4a8125533dd",
+                        "Platform Support: Linux"
+                    ],
+                    [
+                        "5206ccee-9024-4e36-8b89-f5f5a7d288d2",
+                        "Platform Support: Win64"
+                    ],
+                    [
+                        "cfec942a-bb90-4f0c-accf-238ecaad9430",
+                        "Source Code"
+                    ]
+                ],
+                "custom_sync_view": ""
+            },
+            "Editor_1": {
+                "address": "127.0.0.1",
+                "roles": [],
+                "ddc_build_platforms": [
+                    "Windows",
+                    "WindowsEditor",
+                    "Linux",
+                    "LinuxEditor"
+                ],
+                "autojoin_mu_server": true,
+                "last_launch_command": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe \"C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\SeaSerpent.uproject\" /Game/OceanFloor/Maps/MainScene  Log=Editor_1.log -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"SwitchboardConfig_MU_Server_k9bu+lDknrKz\" -CONCERTSESSION=\"MU_SwitchboardConfig_1\" -CONCERTDISPLAYNAME=\"Editor_1\" -VPRole= -StageFriendlyName=\"Editor_1\" -DPCVars=\"Slate.bAllowThrottling=0\" -ConcertReflectVisibility=1 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"127.0.0.1:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"10.5.24.157:9030\" -ini:Engine:[/Script/ConcertTakeRecorder.ConcertSessionRecordSettings]:LocalSettings=(bRecordOnClient=True)",
+                "last_log_path": "C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\Saved\\Logs\\Switchboard\\Editor_1.log",
+                "last_trace_path": "",
+                "exclude_from_build": false,
+                "exclude_from_insights": false,
+                "last_sync_filter_hash": ""
+            }
+        },
+        "nDisplay": {
+            "settings": {
+                "ndisplay_cfg_file": "C:/Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset",
+                "use_all_available_cores": false,
+                "texture_streaming": true,
+                "sound": false,
+                "render_api": "dx12",
+                "multiplayer_mode": "None",
+                "dedicated_server_address": "10.5.24.157",
+                "dedicated_server_port": "7777",
+                "render_mode": "Mono",
+                "render_sync_policy": "Config",
+                "executable_filename": "UnrealEditor.exe",
+                "ndisplay_cmd_args": "",
+                "ndisplay_exec_cmds": [],
+                "ndisplay_dp_cvars": [],
+                "ndisplay_unattended": true,
+                "max_gpu_count": 2,
+                "priority_modifier": "Normal",
+                "populated_config_itemDatas": [],
+                "minimize_before_launch": true,
+                "primary_device_name": "Node_1_Right",
+                "logging": {
+                    "LogConcert": null,
+                    "LogDisplayClusterCluster": null,
+                    "LogDisplayClusterConfig": null,
+                    "LogDisplayClusterEngine": null,
+                    "LogDisplayClusterGame": null,
+                    "LogDisplayClusterNetwork": null,
+                    "LogDisplayClusterRender": null,
+                    "LogDisplayClusterRenderSync": null,
+                    "LogDisplayClusterViewport": null,
+                    "LogDisplayClusterMedia": null,
+                    "LogDisplayClusterStageMonitoringDWM": null,
+                    "LogLiveLink": null,
+                    "LogRemoteControl": null
+                },
+                "udpmessaging_unicast_endpoint": ":0",
+                "udpmessaging_extra_static_endpoints": "",
+                "disable_ensures": true,
+                "disable_all_screen_messages": true,
+                "livelink_preset": "",
+                "graphics_adapter": "Config",
+                "mediaprofile": "",
+                "lock_gpu_clock": true,
+                "port": 2980,
+                "roles_filename": "VPRoles.ini",
+                "stage_session_id": 0
+            },
+            "Node_2_Middle": {
+                "address": "10.5.24.157",
+                "roles": [
+                    "Editor"
+                ],
+                "ddc_build_platforms": [
+                    "Windows",
+                    "WindowsEditor",
+                    "Linux",
+                    "LinuxEditor"
+                ],
+                "autojoin_mu_server": true,
+                "last_launch_command": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe \"C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\SeaSerpent.uproject\" -game /Game/OceanFloor/Maps/MainScene -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless  -VPRole=Editor -StageFriendlyName=\"Node_2_Middle\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\Student\\AppData\\Local\\Temp\\ndisplay\\4999E0144DADA76BFB639FB4A849F4C6.ndisplay\" -dx12 -dc_dev_mono   -nosound -dc_node=Node_2_Middle Log=Node_2_Middle.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.5.24.157:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"10.5.24.157:9030\" -ExecCmds=\"DisableAllScreenMessages\" -windowed -forceres WinX=3440 WinY=0 ResX=3440 ResY=1440 -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"SwitchboardConfig_MU_Server_k9bu+lDknrKz\" -CONCERTSESSION=\"MU_SwitchboardConfig_1\" -CONCERTDISPLAYNAME=\"Node_2_Middle\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "last_log_path": "C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\Saved\\Logs\\Switchboard\\Node_2_Middle.log",
+                "last_trace_path": "",
+                "exclude_from_build": false,
+                "exclude_from_insights": false,
+                "last_sync_filter_hash": "",
+                "ue_command_line": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe \"C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\SeaSerpent.uproject\" -game  -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless  -VPRole=Editor -StageFriendlyName=\"Node_2_Middle\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\Student\\AppData\\Local\\Temp\\ndisplay\\4999E0144DADA76BFB639FB4A849F4C6.ndisplay\" -dx12 -dc_dev_mono   -nosound -dc_node=Node_2_Middle Log=Node_2_Middle.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.5.24.157:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"10.5.24.157:9030\" -ExecCmds=\"DisableAllScreenMessages\" -windowed -forceres WinX=3440 WinY=0 ResX=3440 ResY=1440 -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"SwitchboardConfig_MU_Server_k9bu+lDknrKz\" -CONCERTSESSION=\"MU_SwitchboardConfig_1\" -CONCERTDISPLAYNAME=\"Node_2_Middle\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "window_position": [
+                    3440,
+                    0
+                ],
+                "window_resolution": [
+                    3440,
+                    1440
+                ],
+                "fullscreen": false,
+                "headless": false,
+                "config_graphics_adapter": -1
+            },
+            "Node_1_Right": {
+                "address": "10.5.25.21",
+                "roles": [
+                    "Display"
+                ],
+                "ddc_build_platforms": [
+                    "Windows",
+                    "WindowsEditor",
+                    "Linux",
+                    "LinuxEditor"
+                ],
+                "autojoin_mu_server": true,
+                "last_launch_command": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe \"C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\SeaSerpent.uproject\" -game /Game/OceanFloor/Maps/MainScene -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless  -VPRole=Display -StageFriendlyName=\"Node_1_Right\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\Student\\AppData\\Local\\Temp\\ndisplay\\0AFB707345BACF5868924D87A7237395.ndisplay\" -dx12 -dc_dev_mono   -nosound -dc_node=Node_1_Right Log=Node_1_Right.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.5.25.21:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"10.5.24.157:9030\" -ExecCmds=\"DisableAllScreenMessages\" -windowed -forceres WinX=6880 WinY=0 ResX=3440 ResY=1440 -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"SwitchboardConfig_MU_Server_k9bu+lDknrKz\" -CONCERTSESSION=\"MU_SwitchboardConfig_1\" -CONCERTDISPLAYNAME=\"Node_1_Right\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "last_log_path": "C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\Saved\\Logs\\Switchboard\\Node_1_Right.log",
+                "last_trace_path": "",
+                "exclude_from_build": false,
+                "exclude_from_insights": false,
+                "last_sync_filter_hash": "",
+                "ue_command_line": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe \"C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\SeaSerpent.uproject\" -game /Game/OceanFloor/Maps/MainScene -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless  -VPRole=Display -StageFriendlyName=\"Node_1_Right\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\Student\\AppData\\Local\\Temp\\ndisplay\\0AFB707345BACF5868924D87A7237395.ndisplay\" -dx12 -dc_dev_mono   -nosound -dc_node=Node_1_Right Log=Node_1_Right.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.5.25.21:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"10.5.24.157:9030\" -ExecCmds=\"DisableAllScreenMessages\" -windowed -forceres WinX=6880 WinY=0 ResX=3440 ResY=1440 -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"SwitchboardConfig_MU_Server_k9bu+lDknrKz\" -CONCERTSESSION=\"MU_SwitchboardConfig_1\" -CONCERTDISPLAYNAME=\"Node_1_Right\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "window_position": [
+                    6880,
+                    0
+                ],
+                "window_resolution": [
+                    3440,
+                    1440
+                ],
+                "fullscreen": false,
+                "headless": false,
+                "config_graphics_adapter": -1
+            },
+            "Node_0_Left": {
+                "address": "10.5.35.28",
+                "roles": [
+                    "Display"
+                ],
+                "ddc_build_platforms": [
+                    "Windows",
+                    "WindowsEditor",
+                    "Linux",
+                    "LinuxEditor"
+                ],
+                "autojoin_mu_server": true,
+                "last_launch_command": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe \"C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\SeaSerpent.uproject\" -game /Game/OceanFloor/Maps/MainScene -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless  -VPRole=Display -StageFriendlyName=\"Node_0_Left\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\Student\\AppData\\Local\\Temp\\ndisplay\\73CF389B48FDF9EDB9DBBFA2B4D654B8.ndisplay\" -dx12 -dc_dev_mono   -nosound -dc_node=Node_0_Left Log=Node_0_Left.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.5.35.28:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"10.5.24.157:9030\" -ExecCmds=\"DisableAllScreenMessages\" -windowed -forceres WinX=0 WinY=0 ResX=3440 ResY=1440 -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"SwitchboardConfig_MU_Server_k9bu+lDknrKz\" -CONCERTSESSION=\"MU_SwitchboardConfig_1\" -CONCERTDISPLAYNAME=\"Node_0_Left\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "last_log_path": "C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\Saved\\Logs\\Switchboard\\Node_0_Left.log",
+                "last_trace_path": "",
+                "exclude_from_build": false,
+                "exclude_from_insights": false,
+                "last_sync_filter_hash": "",
+                "ue_command_line": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe \"C:\\Users\\Student\\Desktop\\temp\\AdvancedGraphicsGit\\SeaSerpent\\SeaSerpent.uproject\" -game /Game/OceanFloor/Maps/MainScene -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless  -VPRole=Display -StageFriendlyName=\"Node_0_Left\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\Student\\AppData\\Local\\Temp\\ndisplay\\73CF389B48FDF9EDB9DBBFA2B4D654B8.ndisplay\" -dx12 -dc_dev_mono   -nosound -dc_node=Node_0_Left Log=Node_0_Left.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.5.35.28:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"10.5.24.157:9030\" -ExecCmds=\"DisableAllScreenMessages\" -windowed -forceres WinX=0 WinY=0 ResX=3440 ResY=1440 -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"SwitchboardConfig_MU_Server_k9bu+lDknrKz\" -CONCERTSESSION=\"MU_SwitchboardConfig_1\" -CONCERTDISPLAYNAME=\"Node_0_Left\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "window_position": [
+                    0,
+                    0
+                ],
+                "window_resolution": [
+                    3440,
+                    1440
+                ],
+                "fullscreen": false,
+                "headless": false,
+                "config_graphics_adapter": -1
+            }
+        },
+        "Shogun": {
+            "settings": {
+                "is_recording_device": true
+            }
+        },
+        "SoundDevices": {
+            "settings": {
+                "is_recording_device": true
+            }
+        }
+    }
+}
