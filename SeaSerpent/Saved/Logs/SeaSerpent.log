@@ -3370,3 +3370,19 @@ Script Stack (0 frames) :
 [2025.01.08-12.34.41:391][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.08-12.34.41:391][835]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
 [2025.01.08-12.34.41:392][835]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.08-12.37.13:550][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.08-12.37.13:627][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.08-12.37.13:690][706]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.37.13:690][706]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.37.13:842][706]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.08-12.37.13:843][706]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene11E17FBD46771C19E7F8D0A639EC4492.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.08-12.37.13:848][706]LogFileHelpers: All files are already saved.
+[2025.01.08-12.37.13:850][706]LogFileHelpers: Saving map 'MainScene' took 0.255
+[2025.01.08-12.37.13:863][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 313.533 ms (total: 2.30 sec)
+[2025.01.08-12.37.13:903][706]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.08-12.37.13:903][706]LogContentValidation: Enabled validators:
+[2025.01.08-12.37.13:903][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.08-12.37.13:903][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.08-12.37.13:903][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.08-12.37.13:903][706]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.08-12.37.13:903][706]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
