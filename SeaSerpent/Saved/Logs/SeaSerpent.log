@@ -3181,3 +3181,192 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.01.08-12.16.00:463][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.08-12.16.00:463][146]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
 [2025.01.08-12.16.00:463][146]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.08-12.18.54:031][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.08-12.18.54:123][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.08-12.18.54:184][685]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.18.54:184][685]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.18.54:337][685]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.08-12.18.54:338][685]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene05F9658C416B66B07D20F2B891DDD511.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.08-12.18.54:343][685]LogFileHelpers: All files are already saved.
+[2025.01.08-12.18.54:345][685]LogFileHelpers: Saving map 'MainScene' took 0.257
+[2025.01.08-12.18.54:352][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 320.924 ms (total: 1.07 sec)
+[2025.01.08-12.18.54:415][685]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.08-12.18.54:415][685]LogContentValidation: Enabled validators:
+[2025.01.08-12.18.54:415][685]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.08-12.18.54:415][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.08-12.18.54:415][685]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.08-12.18.54:415][685]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.08-12.18.54:415][685]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.08-12.18.54:430][686]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.08-12.20.55:854][678]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.08-12.24.26:009][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.08-12.24.26:090][361]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.08-12.24.26:090][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.08-12.24.26:094][361]LogSavePackage: Moving output files for package: /Game/OceanFloor/NDC_MainTripleScreen
+[2025.01.08-12.24.26:094][361]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreen99D46C2B4B6ABBDAB38997AB62A2FC5F.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset'
+[2025.01.08-12.24.26:104][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.374 ms (total: 1.16 sec)
+[2025.01.08-12.24.26:156][361]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.08-12.24.26:156][361]LogContentValidation: Enabled validators:
+[2025.01.08-12.24.26:156][361]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.08-12.24.26:156][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.08-12.24.26:156][361]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.08-12.24.26:156][361]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.08-12.24.26:157][361]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
+[2025.01.08-12.26.00:905][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.08-12.26.00:927][285]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_80.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.26.00:933][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_1.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.26.00:940][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_1.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.26.00:947][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_1.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.26.00:966][285]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_82.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.26.00:973][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_3.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.26.00:980][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_3.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.26.00:987][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_3.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.26.01:736][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.08-12.26.01:815][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.08-12.26.01:815][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.08-12.26.01:818][310]LogSavePackage: Moving output files for package: /Game/OceanFloor/NDC_MainTripleScreen
+[2025.01.08-12.26.01:818][310]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreen23BDC6A24B440D0FC3DD6E9D5ED161BE.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset'
+[2025.01.08-12.26.01:826][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.473 ms (total: 1.25 sec)
+[2025.01.08-12.26.01:863][310]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.08-12.26.01:864][310]LogContentValidation: Enabled validators:
+[2025.01.08-12.26.01:864][310]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.08-12.26.01:864][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.08-12.26.01:864][310]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.08-12.26.01:864][310]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.08-12.26.01:864][310]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
+[2025.01.08-12.26.06:168][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.08-12.26.06:248][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.08-12.26.06:317][512]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.26.06:317][512]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.26.06:468][512]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.08-12.26.06:468][512]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene96AFCB3F40C908C50A567581CD44337F.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.08-12.26.06:474][512]LogFileHelpers: All files are already saved.
+[2025.01.08-12.26.06:476][512]LogFileHelpers: Saving map 'MainScene' took 0.263
+[2025.01.08-12.26.06:483][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 314.525 ms (total: 1.57 sec)
+[2025.01.08-12.26.06:531][512]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.08-12.26.06:531][512]LogContentValidation: Enabled validators:
+[2025.01.08-12.26.06:531][512]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.08-12.26.06:531][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.08-12.26.06:531][512]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.08-12.26.06:531][512]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.08-12.26.06:531][512]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
+[2025.01.08-12.26.52:807][316]LogActorFactory: Actor Factory attempting to spawn DisplayClusterBlueprintGeneratedClass /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen_C
+[2025.01.08-12.26.52:807][316]LogActorFactory: Actor Factory attempting to spawn DisplayClusterBlueprintGeneratedClass /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen_C
+[2025.01.08-12.26.52:814][316]LogActorFactory: Actor Factory spawned DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen as actor: NDC_MainTripleScreen_C /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.NDC_MainTripleScreen_C_84
+[2025.01.08-12.26.52:816][316]LogActorFactory: Actor Factory spawned DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen as actor: NDC_MainTripleScreen_C /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.NDC_MainTripleScreen_C_84
+[2025.01.08-12.26.53:536][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.08-12.26.53:539][337]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.01.08-12.26.53:548][337]LogActorFactory: Actor Factory attempting to spawn DisplayClusterBlueprintGeneratedClass /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen_C
+[2025.01.08-12.26.53:548][337]LogActorFactory: Actor Factory attempting to spawn DisplayClusterBlueprintGeneratedClass /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen_C
+[2025.01.08-12.26.53:556][337]LogActorFactory: Actor Factory spawned DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen as actor: NDC_MainTripleScreen_C /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.NDC_MainTripleScreen_C_85
+[2025.01.08-12.26.53:558][337]LogActorFactory: Actor Factory spawned DisplayClusterBlueprint /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen as actor: NDC_MainTripleScreen_C /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.NDC_MainTripleScreen_C_85
+[2025.01.08-12.26.53:580][337]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_Left
+[2025.01.08-12.26.53:580][337]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_0
+[2025.01.08-12.26.53:580][337]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_Right
+[2025.01.08-12.26.53:580][337]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2025.01.08-12.26.53:580][337]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_Middle
+[2025.01.08-12.26.53:580][337]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_2
+[2025.01.08-12.26.53:580][337]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationCluster_0
+[2025.01.08-12.26.53:580][337]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationData_0
+[2025.01.08-12.28.21:265][ 97]Cmd: TRANSACTION UNDO
+[2025.01.08-12.28.21:266][ 97]LogEditorTransaction: Undo Clicking on Actors
+[2025.01.08-12.28.22:186][133]Cmd: TRANSACTION UNDO
+[2025.01.08-12.28.22:186][133]LogEditorTransaction: Undo Detach actors
+[2025.01.08-12.30.08:988][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.01.08-12.30.08:999][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_5.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.30.09:006][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_5.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.30.09:014][105]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_86.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.30.09:020][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_5.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.30.09:032][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_7.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.30.09:038][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_7.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.30.09:047][105]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_88.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.30.09:053][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_NDC_MainTripleScreen_C_CHILDACTOR_7.RootComponent) Trying to register component with IsValid() == false. Aborting.
+[2025.01.08-12.30.09:771][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.08-12.30.09:848][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.08-12.30.09:848][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.08-12.30.09:851][127]LogSavePackage: Moving output files for package: /Game/OceanFloor/NDC_MainTripleScreen
+[2025.01.08-12.30.09:851][127]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreen8B8D4FF84FEE8B4DA1AD79BD193745C3.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset'
+[2025.01.08-12.30.09:857][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.956 ms (total: 1.65 sec)
+[2025.01.08-12.30.09:914][127]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.08-12.30.09:914][127]LogContentValidation: Enabled validators:
+[2025.01.08-12.30.09:914][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.08-12.30.09:914][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.08-12.30.09:914][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.08-12.30.09:914][127]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.08-12.30.09:914][127]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
+[2025.01.08-12.30.55:871][940]LogText3D: Text3D Engine Subsystem is clearing unreferenced cached fonts and typefaces.
+[2025.01.08-12.32.34:366][424]DisplayClusterConfiguratorLog: Warning: Details policy selection blueprint invalid.
+[2025.01.08-12.32.34:370][424]DisplayClusterConfiguratorLog: Warning: Details policy selection blueprint invalid.
+[2025.01.08-12.32.34:373][424]DisplayClusterConfiguratorLog: Warning: Details policy selection blueprint invalid.
+[2025.01.08-12.32.34:448][425]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1'
+[2025.01.08-12.32.50:964][197]DisplayClusterConfiguratorLog: Warning: Details policy selection blueprint invalid.
+[2025.01.08-12.32.50:968][197]DisplayClusterConfiguratorLog: Warning: Details policy selection blueprint invalid.
+[2025.01.08-12.32.50:971][197]DisplayClusterConfiguratorLog: Warning: Details policy selection blueprint invalid.
+[2025.01.08-12.32.51:042][198]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/Ch_Snake1.Ch_Snake1'
+[2025.01.08-12.33.26:500][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.01.08-12.33.26:527][720]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.01.08-12.33.28:058][720]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.530 s
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: === Handled ensure: ===
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: 
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: Ensure condition failed: bIsOwnerSelected  [File:D:\build\++UE5\Sync\Engine\Source\Editor\LevelEditor\Private\Elements\Component\ComponentElementLevelEditorSelectionCustomization.cpp] [Line: 99] 
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: Owner(REINST_Ch_Snake1_Player_C_169 /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.REINST_Ch_Snake1_Player_C_0) of ChildActorComponent /Game/OceanFloor/Maps/MainScene.MainScene:PersistentLevel.REINST_Ch_Snake1_Player_C_0.TRASH_ChildActorComponent_4 is not selected
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: Stack: 
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffc9925cb77 UnrealEditor-LevelEditor.dll!FComponentElementLevelEditorSelectionCustomization::GetNormalizedElements() [D:\build\++UE5\Sync\Engine\Source\Editor\LevelEditor\Private\Elements\Component\ComponentElementLevelEditorSelectionCustomization.cpp:99]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffd00821cad UnrealEditor-TypedElementRuntime.dll!FTypedElementSelectionSetElement::GetNormalizedElements() [D:\build\++UE5\Sync\Engine\Source\Runtime\TypedElementRuntime\Public\Elements\Framework\TypedElementSelectionSet.h:122]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffd00819518 UnrealEditor-TypedElementRuntime.dll!`TTypedElementList<FTypedElementHandle>::GetElementHandles<TSizedInlineAllocator<8,32,TSizedDefaultAllocator<32> > >'::`2'::<lambda_1>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\TypedElementRuntime\Private\Elements\Framework\TypedElementSelectionSet.cpp:428]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffd0081535a UnrealEditor-TypedElementRuntime.dll!TTypedElementList<FTypedElementHandle>::ForEachElement<ITypedElementSelectionInterface>() [D:\build\++UE5\Sync\Engine\Source\Runtime\TypedElementFramework\Public\Elements\Framework\TypedElementList.h:288]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffd008210a8 UnrealEditor-TypedElementRuntime.dll!UTypedElementSelectionSet::GetNormalizedElementList() [D:\build\++UE5\Sync\Engine\Source\Runtime\TypedElementRuntime\Private\Elements\Framework\TypedElementSelectionSet.cpp:423]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffd00821f74 UnrealEditor-TypedElementRuntime.dll!UTypedElementSelectionSet::GetNormalizedSelection() [D:\build\++UE5\Sync\Engine\Source\Runtime\TypedElementRuntime\Private\Elements\Framework\TypedElementSelectionSet.cpp:409]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca1a123a9 UnrealEditor-UnrealEd.dll!FLevelEditorViewportClient::CacheElementsToManipulate() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\LevelEditorViewport.cpp:4214]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca1a2d1c9 UnrealEditor-UnrealEd.dll!FLevelEditorViewportClient::GetElementsToManipulate() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\LevelEditorViewport.cpp:4195]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca209acf8 UnrealEditor-UnrealEd.dll!FLevelEditorSelectModeWidgetHelper::ShouldDrawWidget() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Tools\DefaultEdMode.cpp:18]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca144c259 UnrealEditor-UnrealEd.dll!UE::Core::Private::Function::TFunctionRefCaller<`TypedElementListObjectUtil::ForEachObject<UActorComponent>'::`2'::<lambda_1>,bool __cdecl(UObject * __ptr64)>::Call() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Templates\Function.h:396]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca144bc8e UnrealEditor-UnrealEd.dll!UE::Core::Private::Function::TFunctionRefCaller<`FEditorModeTools::ForEachEdMode<ILegacyEdModeWidgetInterface>'::`2'::<lambda_1>,bool __cdecl(UEdMode * __ptr64)>::Call() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Templates\Function.h:397]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca147161d UnrealEditor-UnrealEd.dll!FEditorModeTools::ForEachEdMode() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorModeManager.cpp:636]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca1432f52 UnrealEditor-UnrealEd.dll!FEditorModeTools::ForEachEdMode<ILegacyEdModeWidgetInterface>() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Public\EditorModeManager.h:564]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca1474933 UnrealEditor-UnrealEd.dll!FEditorModeTools::GetShowWidget() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorModeManager.cpp:1765]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca2106710 UnrealEditor-UnrealEd.dll!FWidget::Render() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealWidgetRender.cpp:184]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca14da6e8 UnrealEditor-UnrealEd.dll!FEditorViewportClient::Draw() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorViewportClient.cpp:4431]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca1a21011 UnrealEditor-UnrealEd.dll!FLevelEditorViewportClient::Draw() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\LevelEditorViewport.cpp:4889]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffc9528335c UnrealEditor-Renderer.dll!FSceneRenderer::FSceneRenderer() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:2641]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffc9443ad5f UnrealEditor-Renderer.dll!FDeferredShadingSceneRenderer::FDeferredShadingSceneRenderer() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\DeferredShadingRenderer.cpp:383]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffc952b2f16 UnrealEditor-Renderer.dll!FSceneRenderer::CreateSceneRenderers() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:4298]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffc952a8e4f UnrealEditor-Renderer.dll!FRendererModule::BeginRenderingViewFamilies() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:5089]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffc952a97c0 UnrealEditor-Renderer.dll!FRendererModule::BeginRenderingViewFamily() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:4968]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca14da001 UnrealEditor-UnrealEd.dll!FEditorViewportClient::Draw() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorViewportClient.cpp:4294]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca611c454 UnrealEditor-Engine.dll!FViewport::Draw() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\UnrealClient.cpp:1754]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca1429d96 UnrealEditor-UnrealEd.dll!UEditorEngine::UpdateSingleViewportClient() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:2537]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca141d7ee UnrealEditor-UnrealEd.dll!UEditorEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:2190]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffca209f6b6 UnrealEditor-UnrealEd.dll!UUnrealEdEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdEngine.cpp:550]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ff6e2d48e0b UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5921]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ff6e2d6e33c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:180]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ff6e2d6e42a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:118]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ff6e2d718a4 UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:258]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ff6e2d870c4 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:298]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ff6e2d8a37a UnrealEditor.exe!__scrt_common_main_seh() [D:\a\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffd4d9d257d KERNEL32.DLL!UnknownFunction []
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: [Callstack] 0x00007ffd4f2aaf28 ntdll.dll!UnknownFunction []
+[2025.01.08-12.33.28:058][720]LogOutputDevice: Error: 
+[2025.01.08-12.33.28:063][720]LogStats:                SubmitErrorReport -  0.000 s
+[2025.01.08-12.33.29:448][720]LogStats:                    SendNewReport -  1.386 s
+[2025.01.08-12.33.29:448][720]LogStats:             FDebug::EnsureFailed -  2.921 s
+[2025.01.08-12.33.29:472][720]LogAutomationController: Ignoring very large delta of 3.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.08-12.34.41:001][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.08-12.34.41:101][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.08-12.34.41:164][835]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.34.41:164][835]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.08-12.34.41:315][835]LogSavePackage: Moving output files for package: /Game/OceanFloor/Maps/MainScene
+[2025.01.08-12.34.41:316][835]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene8B4222014E8B146387F6A2839D92FE7F.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/Maps/MainScene.umap'
+[2025.01.08-12.34.41:321][835]LogFileHelpers: All files are already saved.
+[2025.01.08-12.34.41:323][835]LogFileHelpers: Saving map 'MainScene' took 0.260
+[2025.01.08-12.34.41:337][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 336.443 ms (total: 1.99 sec)
+[2025.01.08-12.34.41:391][835]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.08-12.34.41:391][835]LogContentValidation: Enabled validators:
+[2025.01.08-12.34.41:391][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.08-12.34.41:391][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.08-12.34.41:391][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.08-12.34.41:391][835]LogContentValidation: Display: Validating asset /Game/OceanFloor/Maps/MainScene.MainScene
+[2025.01.08-12.34.41:392][835]AssetCheck: /Game/OceanFloor/Maps/MainScene Validating asset
