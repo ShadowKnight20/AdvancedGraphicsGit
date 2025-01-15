@@ -3416,3 +3416,70 @@ Note: The scene data will be kept.
 [2025.01.15-10.42.30:435][679]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
 [2025.01.15-10.42.30:435][679]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
 [2025.01.15-10.42.33:010][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.15-10.43.05:501][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.15-10.43.05:567][ 80]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.15-10.43.05:567][ 80]LogWorldPartition: Can't find class descriptor '/Game/OceanFloor/Maps/MainScene.MainScene_C' for saving '/Game/OceanFloor/Maps/MainScene.MainScene_C'
+[2025.01.15-10.43.05:715][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OceanFloor/Maps/MainScene_Auto3
+[2025.01.15-10.43.05:715][ 80]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MainScene_Auto33CA49766468E665D1DFD0D9D7A0F9EEE.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/OceanFloor/Maps/MainScene_Auto3.umap'
+[2025.01.15-10.43.05:717][ 80]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/Autosaves/Game/OceanFloor/Maps/MainScene_Auto3.umap is in the /Temp path, will not scan.
+[2025.01.15-10.43.05:717][ 80]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OceanFloor/Maps/MainScene' took 0.228
+[2025.01.15-10.43.05:717][ 80]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.228
+[2025.01.15-10.45.28:826][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.15-10.45.29:586][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.15-10.45.29:641][409]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/NDC_MainTripleScreen] ([2] browsable assets)...
+[2025.01.15-10.45.29:641][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/NDC_MainTripleScreen]
+[2025.01.15-10.45.29:644][409]LogSavePackage: Moving output files for package: /Game/OceanFloor/NDC_MainTripleScreen
+[2025.01.15-10.45.29:645][409]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/NDC_MainTripleScreenFC8D10294816C35A68635F8078762D7E.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/NDC_MainTripleScreen.uasset'
+[2025.01.15-10.45.29:649][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.973 ms (total: 841.589 ms)
+[2025.01.15-10.45.29:692][409]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.15-10.45.29:692][409]LogContentValidation: Enabled validators:
+[2025.01.15-10.45.29:692][409]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.15-10.45.29:692][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.15-10.45.29:692][409]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.15-10.45.29:692][409]LogContentValidation: Display: Validating asset /Game/OceanFloor/NDC_MainTripleScreen.NDC_MainTripleScreen
+[2025.01.15-10.45.29:692][409]AssetCheck: /Game/OceanFloor/NDC_MainTripleScreen Validating asset
+[2025.01.15-10.45.31:261][504]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.31:312][508]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.31:412][516]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.31:464][520]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.31:573][528]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.31:628][532]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.31:748][540]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.31:799][544]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.31:902][552]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.31:950][556]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:050][564]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:100][568]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:199][576]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:249][580]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:345][588]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:394][592]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:491][600]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:540][604]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:642][612]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:694][616]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:795][624]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.32:818][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.15-10.45.32:845][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OceanFloor/MusicSequencer] ([1] browsable assets)...
+[2025.01.15-10.45.32:845][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/OceanFloor/MusicSequencer]
+[2025.01.15-10.45.32:845][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OceanFloor/MusicSequencer" FILE="../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/MusicSequencer.uasset" SILENT=true
+[2025.01.15-10.45.32:846][626]LogSavePackage: Moving output files for package: /Game/OceanFloor/MusicSequencer
+[2025.01.15-10.45.32:847][626]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Saved/MusicSequencerEAD6B0D7428D4E567B4B70954BD8EB3C.tmp' to '../../../../../../Users/Student/Desktop/temp/AdvancedGraphicsGit/SeaSerpent/Content/OceanFloor/MusicSequencer.uasset'
+[2025.01.15-10.45.32:851][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.315 ms (total: 874.905 ms)
+[2025.01.15-10.45.32:896][626]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.15-10.45.32:896][626]LogContentValidation: Enabled validators:
+[2025.01.15-10.45.32:896][626]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.15-10.45.32:896][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.15-10.45.32:896][626]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.15-10.45.32:896][626]LogContentValidation: Display: Validating asset /Game/OceanFloor/MusicSequencer.MusicSequencer
+[2025.01.15-10.45.32:896][626]AssetCheck: /Game/OceanFloor/MusicSequencer Validating asset
+[2025.01.15-10.45.33:018][628]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.33:117][636]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.33:167][640]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.33:265][648]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.33:314][652]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.33:411][660]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.33:459][664]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.33:556][672]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.33:605][676]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.15-10.45.33:701][684]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
